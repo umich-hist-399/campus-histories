@@ -1,0 +1,365 @@
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+
+@media screen {
+
+#mapid, #slider {
+  width: 60%;
+  margin-left:15px;
+  float:left;
+  clear:both;
+}
+
+#mapid {
+    height: 400px;
+}
+
+#slider {
+  clear:both;
+}
+
+#info {
+  width:40%;
+  background-color: #ccc;
+}
+
+.jumbotron {
+    margin-bottom: 0px;
+    background-image: url(/images/church.jpg);
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-shadow: black 0.3em 0.3em 0.3em;
+    height: 400px;
+  }
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  line-height: 1.4em;
+  background-color: #fefefe;
+  font-size: 14px;
+}
+
+.main {
+  margin-top:100px;
+}
+
+.container {
+  width:40em;
+}
+
+.building {
+width:100%;
+}
+
+.sidebar {
+  font-size:80%;
+  color:#999;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+  line-height: 1.6em;
+  margin-bottom: 1.5em;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+  font-family: 'Abril Fatface', sans-serif;
+  font-weight: 700;
+  margin: 3em 0 .2em 0;
+  font-size: 2em;
+  text-align: center;
+}
+
+.home-title h1 {
+  font-family: 'Abril Fatface', sans-serif;
+  color:#fff;
+  font-size: 4em;
+  margin-top: -1.2em;
+  margin-bottom: .2em;
+}
+
+.home-text p {
+  font-family: 'Raleway', sans-serif;
+  text-align:justify;
+  margin-top:1em;
+}
+
+.home-section-head {
+  font-family: 'Raleway', sans-serif;
+  padding: 1em 0;
+  border-top:1px solid #ccc;
+  border-bottom:1px solid #ccc;
+}
+
+p.title-text {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 300;
+  font-size: 1.2em;
+  color:#eeeeee;
+  line-height: 1.4em;
+}
+
+
+h2 {
+  font-weight: 300;
+  font-family: 'Roboto', sans-serif;
+   font-family: 'Raleway', sans-serif;
+  font-size: 1.3em;
+  line-height: 120%;
+  margin: 0em 0 0em 0;
+  text-align: center;
+}
+
+h2.homeheading {
+  font-size: 1.2em;
+  margin-bottom: 1em;
+}
+
+h3 {
+  font-family: 'Roboto Condensed', sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+  color:#000;
+  font-size: 1.3em;
+  margin: 1em 0 .2em 0;
+}
+
+h4 {
+  font-size:1.2em;
+  margin: 1.5em 0 .2em 0;
+}
+
+
+h5 {
+  color:#666;
+  font-size:1em;
+}
+
+
+hr {
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+p.abstract {
+  border:1px solid gray;
+  background-color: #e5d3bb;
+  padding:2em;
+  font-size: 90%;
+  margin: 3em 0 4em 0em;
+}
+
+p.author {
+  margin: .5em 0 0em 0;
+  text-align: center;
+  text-transform: uppercase;
+  color:#666;
+}
+
+blockquote {
+  margin: -1em 4em 1em 4em;
+  font-size: 90%;
+  border:none;
+}
+
+footer {
+  margin-top:2em;
+  padding: 2em;
+  background-color: #823b3b;
+  color:#ccc;
+  text-align: center;
+}
+
+a {
+  color: #337ab7;
+  color: #9a4031;
+}
+
+a:visitd {
+ color: #9a4031;
+}
+
+a:hover {
+ color: #9a4031;
+}
+
+li {
+margin-bottom:.4em;
+}
+
+li ul li {
+  color:#666666;
+  list-style: none;
+  margin-bottom:1em;
+}
+
+.has-pullquote:before {
+  /* Reset metrics. */
+  padding: 0em;
+  border: 0px solid #ccc;
+
+  /* Content */
+  content: attr(data-pullquote);
+
+  /* Pull out to the right, modular scale based margins. */
+  float: right;
+  width: 20em;
+  margin: 0em 0 1em 2em;
+
+  /* Baseline correction */
+  position: relative;
+  top: 5px;
+
+  /* Typography (30px line-height equals 25% incremental leading) */
+  font-family: Roboto;
+  font-weight: 400;
+  font-size: 120%;
+  line-height: 130%;
+  text-align: justify;
+}
+
+.img-float-right {
+  float:right;
+  clear:none;
+  margin:none;
+  /* no bottom padding; handled with caption */
+  padding:0 0px 0px 2em;
+  width:250px;
+}
+
+.img-right {
+  display:inline;
+  float:right;
+  margin-right:-140px;
+  /* no bottom padding; handled with caption */
+  padding:0 0px 0px 0em;
+  width:250px;
+}
+
+
+.img-left {
+  float:left;
+  clear:none;
+  margin:none;
+  /* no bottom padding; handled with caption */
+  padding:0 2em 0px 0px;
+  width:250px;
+}
+
+figure {
+  margin-bottom:.7em;
+}
+
+figcaption {
+  font-size: 80%;
+  color:#666;
+  font-family: 'Oxygen', sans-serif;
+  display:block;
+  margin:.2em 0 0em 0;
+  clear:both;
+  width: 250px;
+  line-height: 1.3em;
+}
+
+figcaption.img-right {
+  text-align: justify;
+}
+
+figcaption.img-left {
+  text-align: justify;
+}
+
+} /* end media screen */
+
+
+/*****************************************************************************/
+/*
+/* SMALL SCREEN
+/*
+/*****************************************************************************/
+
+  @media (max-width: 768px) {
+
+  body {
+    font-size: .8rem;
+  }
+
+  h2 {
+   font-size: 1rem;
+  }
+
+  h3 {
+   font-size: .9rem;
+  }
+
+/*****************************************************************************/
+/*
+/* PRINTING
+/*
+/*****************************************************************************/
+
+@media print {
+
+  @page {margin: 2.5cm;}
+
+  body {
+    font-weight: normal;
+    font-family: times;
+    padding:0;
+    margin: 0;
+  }
+
+.container {
+  margin:0;
+}
+
+  .site {
+    width:35em;
+    margin:0;
+    padding:0;
+   }
+
+  nav {
+    display:none;
+  }
+
+  .footer {
+    display:none;
+  }
+
+p, div, ul, li {
+    font-weight: normal;
+}
+
+div p {
+  font-weight: normal;
+}
+
+ul li {
+  font-family: times;
+  font-weight: normal;
+  font-size:100%;
+}
+
+h2 {
+  clear:both;
+}
+
+h3 {
+  font-weight: normal;
+}
+
+
+hr {
+  clear:both;
+}
+  .page-break { display: block; page-break-before: always; }
+}
