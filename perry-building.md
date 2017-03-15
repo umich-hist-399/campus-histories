@@ -8,15 +8,9 @@ date: 2017-02-19
   left="here is some sidebar text, but not too much"
   right="/images/perry-building.jpg"
   middle="
-  <li>
-    First funded by the Depression-era WPA in 1934, it took its name from its original location: Perry Elementary School at Packard and Madison. The building was named for Walter S. Perry, a former Ann Arbor superintendent of schools.
-  </li>
-  <li>
-    Ann Arbor Perry School was known as an excellent school dedicated to serving one-parent families.
-  </li>
-  <li>
-  During World War II, it got funding under the Lanham Act, created to free mothers to work in the defense industry.
-  </li>
+  - First funded by the Depression-era WPA in 1934, it took its name from its original location: Perry Elementary School at Packard and Madison. The building was named for Walter S. Perry, a former Ann Arbor superintendent of schools.
+  - Ann Arbor Perry School was known as an excellent school dedicated to serving one-parent families.
+  - During World War II, it got funding under the Lanham Act, created to free mothers to work in the defense industry.
   "
 %}
 
@@ -60,9 +54,9 @@ date: 2017-02-19
 %}
 
 
-<h2>Bibliograhy</h2>
-<a href="http://home.isr.umich.edu/about/contact-us/"></a>
-<a href="http://www.demariabuild.com/projects/perry-building-phase-i-2-renovation/"></a>
-<a href="https://en.wikipedia.org/wiki/Inter-university_Consortium_for_Political_and_Social_Research"></a>
-<a href="https://localwiki.org/ann-arbor/Perry_Building"></a>
-<a href="http://annarborobserver.com/articles/which_perry__full_article.html"></a>
+## Bibliography
+- **Lastname Year**: Firstname Lastname,  [tile1](http://home.isr.umich.edu/about/contact-us/)
+- **Lastname Year**: Firstname Lastname,  [tile2](http://www.demariabuild.com/projects/perry-building-phase-i-2-renovation/)
+- **Lastname Year**: Firstname Lastname,  [tile3](https://en.wikipedia.org/wiki/Inter-university_Consortium_for_Political_and_Social_Research)
+- **Lastname Year**: Firstname Lastname,  [tile4](http://annarborobserver.com/articles/which_perry__full_article.html)
+- **Lastname Year**: Firstname Lastname,  [tile4](https://localwiki.org/ann-arbor/Perry_Building)
