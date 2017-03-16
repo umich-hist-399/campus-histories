@@ -6,7 +6,7 @@ date: 2017-02-19
 
 # Sample Essay
 
-This page provides a sample 1200-word essay to illustrate how to implement the various typographic features we're using. You can view the code of this page to see exactly how how get certain features on your own essay pages.
+*This page provides a sample 1200-word essay to illustrate how to implement the various typographic features we're using. You can view the code of this page to see exactly how how get certain features on your own essay pages.*
 
 {% include figure.html class="img-right" src="/images/perry-building.jpg" %}
 
@@ -34,6 +34,18 @@ Praesent turpis. Aenean posuere, tortor sed cursus feugiat, nunc augue blandit n
 
 ## Heading 2
 Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In dui magna, posuere eget, vestibulum et, tempor auctor, justo. In ac felis quis tortor malesuada pretium. Pellentesque auctor neque nec urna. Proin sapien ipsum, porta a, auctor quis, euismod ut, mi. Aenean viverra rhoncus pede. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut non enim eleifend felis pretium feugiat. Vivamus quis mi. Phasellus a est. Phasellus magna. In hac habitasse platea dictumst. Curabitur at lacus ac velit ornare lobortis. Curabitur a felis in nunc fringilla tristique. Morbi mattis ullamcorper velit. Phasellus gravida semper nisi. Nullam vel sem. Pellentesque libero tortor, tincidunt et, tincidunt eget, semper nec, quam. Sed hendrerit. Morbi ac felis. Nunc egestas, augue at pellentesque laoreet, felis eros vehicula leo, at malesuada velit leo quis pede.
+
+
+{% include marginrow.html
+  left="here is some sidebar text, but not too much"
+  right="/images/perry-building.jpg"
+  middle="
+  - First funded by the Depression-era WPA in 1934, it took its name from its original location: Perry Elementary School at Packard and Madison. The building was named for Walter S. Perry, a former Ann Arbor superintendent of schools.
+  - Ann Arbor Perry School was known as an excellent school dedicated to serving one-parent families.
+  - During World War II, it got funding under the Lanham Act, created to free mothers to work in the defense industry.
+  "
+%}
+
 
 Donec interdum, metus et hendrerit aliquet, dolor diam sagittis ligula, eget egestas libero turpis vel mi. Nunc nulla. Fusce risus nisl, viverra et, tempor et, pretium in, sapien. Donec venenatis vulputate lorem. Morbi nec metus. Phasellus blandit leo ut odio. Maecenas ullamcorper, dui et placerat feugiat, eros pede varius nisi, condimentum viverra felis nunc et lorem. Sed magna purus, fermentum eu, tincidunt eu, varius ut, felis. In auctor lobortis lacus. Quisque libero metus, condimentum nec, tempor a, commodo mollis, magna. Vestibulum ullamcorper mauris at ligula. Fusce fermentum. Nullam cursus lacinia erat. Praesent blandit laoreet nibh. Fusce convallis metus id felis luctus adipiscing. Pellentesque egestas, neque sit amet convallis pulvinar, justo nulla eleifend augue, ac auctor orci leo non est. Quisque id mi. Ut tincidunt tincidunt erat. Etiam feugiat lorem non metus. Vestibulum dapibus nunc ac augue. Curabitur vestibulum aliquam leo. Praesent egestas neque eu enim.
 

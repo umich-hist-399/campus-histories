@@ -203,7 +203,7 @@ function loadMarker(i, markerData) {
       outlines.addLayer(L.geoJSON(geojsonFeature).bindPopup(popup).on('click', function(e)
         {
           console.log(e.layer.feature.properties.name);
-          $("#info_name").html("test");
+          $("#info_name").html(e.layer.feature.properties.name);
         })
       );
 }
