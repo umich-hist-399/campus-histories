@@ -2,7 +2,7 @@
 
 In order for a university to function, to do its research, to enroll classes, there must be an infrastructure or system in place that provides students with a place to live and a place to eat their meals. Although students began to take classes at the Ann Arbor campus as early as 1840, the first acknowledged University student housing residence was not built until 1915 ([“A Chronology of University of Michigan Buildings, 1840-1999”](http://bentley.umich.edu/legacy-support/campus_tour/chronology.php); “Education shall forever be encouraged”, VP of University Development publications) . Before this, students had to find other means of lodging when enrolling in the Ann Arbor campus. A common route was staying in privately owned boarding houses that offered room and board ([“Prettyman’s Boarding House”](http://um2017.org/Ann-Arbor/Ann_Arbor_Maps/Prettymans_Boarding_Club.html).
 
-{% include figure.html class="img-right" src="prillys-boardinghouse.jpg" caption="_‘Prilly’ residence, a home that opened its doors to student boarders circa, June 1896_"
+{% include figure.html class="img-right" src="/images/prillys-boardinghouse.jpg" caption="_‘Prilly’ residence, a home that opened its doors to student boarders circa, June 1896_"
  %}
 
 Local institutions such as the Salvation Army of Washtenaw County and community churches also offered meals. The following essay offers a background on such boarding house culture and describes the rise of one particular University sponsored dorm, Mosher Jordan Hall, and the rarely discussed backlash that ensued over its construction.
