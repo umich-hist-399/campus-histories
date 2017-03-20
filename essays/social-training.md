@@ -7,7 +7,10 @@ In order for a university to function, to do its research, to enroll classes, th
 
 Local institutions such as the Salvation Army of Washtenaw County and community churches also offered meals. The following essay offers a background on such boarding house culture and describes the rise of one particular University sponsored dorm, Mosher Jordan Hall, and the rarely discussed backlash that ensued over its construction.
 
-Beginning as early as 1875, three primary boarding houses existed to serve primarily male students: ‘Prettyman’s’ Boarding House, later dubbed ‘Campus Club’ (1875, acquired by University in 1914), ‘Freeman’s’ and ‘Chubb’s’ ([“Prettyman’s Boarding House”](http://um2017.org/Ann-Arbor/Ann_Arbor_Maps/Prettymans_Boarding_Club.html))
+Beginning as early as 1875, three primary boarding houses existed to serve primarily male students: ‘Prettyman’s’ Boarding House, later dubbed ‘Campus Club’ (1875, acquired by University in 1914), ‘Freeman’s’ and ‘Chubb’s’ ([“Prettyman’s Boarding House”](http://um2017.org/Ann-Arbor/Ann_Arbor_Maps/Prettymans_Boarding_Club.html))).
+
+{% include figure.html class src="/images/prettyman's1.jpg" caption="_Prettyman’s Boarding House as seen in 1897. Note on reverse side reads: “Residence H.G. Prettyman 27 N. Univ. Ave Ann Arbor, Michigan. June 1897… William had his meals here while in college and lived here part of the time.”_"
+ %}
 
 
 Owned and operated by University alumnus and football team captain Horace Prettyman, the house served as an unofficial social hall for students and was regarded as a campus landmark, one of the ‘largest and the most popular of Ann Arbor's boarding houses in the days when the vast majority of the student body used this type of service for their meals.’ Within these boarding houses, the proprietors offered a collegial atmosphere for lodgers, as seen below.
