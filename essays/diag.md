@@ -4,7 +4,7 @@ The University of Michigan’s central campus sports a walkway that cuts from it
 
 It is interesting to consider, then, the Diag before pavement. Indeed, as we’ll get into, the Diag used to be completely unpaved, because there was no “Diag”. The University of Michigan central campus was merely a few buildings and a natural space when it moved to Ann Arbor, a yeoman ideal that Jefferson would be proud of. What does the appearance and subsequent renovations of the Diag say about the history of the University of Michigan? Furthermore, what does it say about the history of America? To try to answer these questions, I looked at numerous maps of U of M’s central campus. These maps were found online at the Ann Arbor Historic Maps Project (part of the U of M Millennium Project) and at the Bentley Historical Library on the University of Michigan’s North Campus.
 
-##Mapping the Diag
+## Mapping the Diag
 
  {% include figure.html class="img-left" src="/images/campus1854.png" %}
 
