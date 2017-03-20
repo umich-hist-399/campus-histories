@@ -1,4 +1,4 @@
-# Header One The University’s role in Social Training: Origins of U-sponsored dorms
+# The University’s role in Social Training: Origins of U-sponsored dorms
 
 In order for a university to function, to do its research, to enroll classes, there must be an infrastructure or system in place that provides students with a place to live and a place to eat their meals. Although students began to take classes at the Ann Arbor campus as early as 1840, the first acknowledged University student housing residence was not built until 1915 (“A Chronology of University of Michigan Buildings, 1840-1999”; “Education shall forever be encouraged”, VP of University Development publications) . Before this, students had to find other means of lodging when enrolling in the Ann Arbor campus. A common route was staying in privately owned boarding houses that offered room and board (“Prettyman’s Boarding House”).
 
