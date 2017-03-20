@@ -1,4 +1,4 @@
-#A Breathing Fossil: The Diag of the University of Michigan
+# The Diag
 
 The University of Michigan’s central campus sports a walkway that cuts from its northwest corner down to its southeast. To students today, this walkway is lovingly known as “The Diag”. It is a quick way to cut across campus, and there are numerous little walkways that sprout out from its main walkway, allowing students to freely travel from building to building on central campus. This use of space makes total sense to us in the 21st century. We’re expected to do everything quickly in this day and age, and the Diag accommodates for that, making it easy to walk distances that would be cumbersome to traverse had they lacked pavement.
 
