@@ -9,7 +9,7 @@ Local institutions such as the Salvation Army of Washtenaw County and community 
 
 Beginning as early as 1875, three primary boarding houses existed to serve primarily male students: ‘Prettyman’s’ Boarding House, later dubbed ‘Campus Club’ (1875, acquired by University in 1914), ‘Freeman’s’ and ‘Chubb’s’ ([“Prettyman’s Boarding House”](http://um2017.org/Ann-Arbor/Ann_Arbor_Maps/Prettymans_Boarding_Club.html))).
 
-{% include figure.html class src="/images/prettyman's1.jpg" caption="_Prettyman’s Boarding House as seen in 1897. Note on reverse side reads: “Residence H.G. Prettyman 27 N. Univ. Ave Ann Arbor, Michigan. June 1897… William had his meals here while in college and lived here part of the time.”_"
+{% include figure.html class src="/images/prettyman's-1.jpg" caption="_Prettyman’s Boarding House as seen in 1897. Note on reverse side reads: “Residence H.G. Prettyman 27 N. Univ. Ave Ann Arbor, Michigan. June 1897… William had his meals here while in college and lived here part of the time.”_"
  %}
 
 
