@@ -13,7 +13,7 @@ It is interesting to consider, then, the Diag before pavement. Indeed, as we’l
 
 ## Mapping the Diag
 
-The first map I want to draw attention to is this one on the left, drawn from the Historic Maps project. This is the University of Michigan campus in 1854. As you can see, there is no “Diag” to speak of; the University is striving for a pastoral ideal. There appear to be some paths that are mostly for the benefit of professors, as they connect their houses to each other and the main University building. The building in the middle of the “Botanical Gardens” is the old Medicine Building. It’s interesting to see just how far the University has come in this field; in 1854, there wasn’t even a path to this building, and now the campus sports a famously large hospital and medical campus. This map is a good place to start; there isn’t much there, but what is present forms the backbone of the future central campus.
+The first map I want to draw attention to is this one on the left, drawn from the Ann Arbor, Michigan Historic Maps project. This is the University of Michigan campus in 1854. As you can see, there is no “Diag” to speak of; the University is striving for a pastoral ideal. There appear to be some paths that are mostly for the benefit of professors, as they connect their houses to each other and the main University building. The building in the middle of the “Botanical Gardens” is the old Medicine Building. It’s interesting to see just how far the University has come in this field; in 1854, there wasn’t even a path to this building, and now the campus sports a famously large hospital and medical campus. This map is a good place to start; there isn’t much there, but what is present forms the backbone of the future central campus.
 
  {% include figure.html class="img-right" src="/images/campus1866.png" %}
 
@@ -27,7 +27,7 @@ The idea that students should be able to traverse a large space quickly was a fo
  
  {% include figure.html class="img-right" src="/images/campus1890.png" %}
 
-The period after the Civil War was a time of great expansion for the university. As this map on the left shows, by 1880 the Diag completed its journey from northwest to southeast, and while trees and the pastoral still play a large part in the image of this map, there are also more buildings, and ones that existed before are grander. It’s beginning to closely resemble our modern day central campus. This map also gives more character to the campus area, as later maps sometimes did. There are people playing games in the northeast corner of the Diag, in what is left of the Botanical Gardens (and what will become a gymnasium soon). The map on the right isn’t as useful for seeing a layout of the Diag, but there is a striking feature about it; the appearance of smokestacks. These large smokestacks are no longer there, but in this moment, they represent the industrial ambitions of turn of the century America.
+The period after the Civil War was a time of great expansion for the university. As this map on the left shows, by 1880 the Diag completed its journey from northwest to southeast (Ann Arbor, Michigan Historic Maps Project). While trees and the pastoral still play a large part in the image of this map, there are also more buildings, and ones that existed before are grander. It’s beginning to closely resemble our modern day central campus. This map also gives more character to the campus area, as later maps sometimes did. There are people playing games in the northeast corner of the Diag, in what is left of the Botanical Gardens (and what will become a gymnasium soon). The map on the right isn’t as useful for seeing a layout of the Diag, but there is a striking feature about it; the appearance of smokestacks. These large smokestacks are no longer there, but in this moment, they represent the industrial ambitions of turn of the century America.
 
  {% include figure.html class="img-right" src="/images/campus1900.JPG" %}
 
@@ -47,3 +47,16 @@ This first image shouldn’t be entirely surprising; it comes from 1969, and is 
 But the Diag provides proof that the University of Michigan has not stopped fighting for the greater good; this photo on the right shows “campers” seeking U of M divestment of stock with companies that have ties to South Africa. This comes from 1985, the Reagan era, which is collectively remembered as a more conservative. True that this is a sort of “Baby Boomer” narrative: liberal, free 1960s eventually gives way to corporate 1980s. Yet this narrative may not necessarily be true.
 
  Let the Diag be proof of that narrative being flawed. The University of Michigan has always been a place where freedom of speech and freedom of congregation are not taken for granted; if we see injustice in the world, we will not remain silent.
+
+
+### Sources
+
+- "Ann Arbor, Michigan Historic Maps Project", Millenium Project, University of Michigan, 2011. 
+
+- "The University of Michigan Diag, circa 1900", University of Michigan Plant Extension Services, 2001. Bentley Historical Library
+
+- "Anti-war rally, Diag, October 15, 1969", University of Michgan News and Information Services Photographs. Bentley Historical Library, Bentley Image Bank.
+
+- "'Campers' on Diag seek UM divestment of stock in companies with ties to South Africa, May 6, 1985", University of Michigan News and Information Services Photographs. Bentley Historical Library, Bentley Image Bank.
+
+ 
