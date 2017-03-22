@@ -17,14 +17,25 @@
     font-size: 14px;
   }
 
+.navbar {
+  height:60px;
+}
+
   .main {
-    margin-top:100px;
+    margin-top:60px;
   }
 
   .container-fluid {
     text-align:left;
   }
 
+  .single-col {
+    margin: 0 15%;
+  }
+
+  .lg-left-col {
+    margin: 0 1.5%;
+  }
 
   .building {
   width:100%;
@@ -67,13 +78,13 @@ HOME PAGE
 
 .jumbotron {
     margin-bottom: 0px;
-    background-image: url(/images/church.jpg);
+    background-image: url('../images/church.jpg');
     background-position: 0% 25%;
     background-size: cover;
     background-repeat: no-repeat;
     color: white;
     text-shadow: black 0.3em 0.3em 0.3em;
-    height: 400px;
+    max-height: 60%;
   }
 
 p {
@@ -194,8 +205,13 @@ a:hover {
  color: #9a4031;
 }
 
+ul {
+  width:62%
+}
+
 li {
 margin-bottom:.4em;
+font-size:1.2rem;
 }
 
 li ul li {
@@ -229,18 +245,94 @@ li ul li {
   text-align: justify;
 }
 
+main {
+  margin: 0 1.5%;
+}
 
+.lg-left-col p {
+    width: 63%;
+}
+
+.full-width {
+  margin-bottom:2rem;
+}
+
+.full-width p {
+  width:100%;
+  padding: 0 15%;
+  margin:0;
+}
+
+.single-col aside {
+  width: 30%;
+  float:right;
+}
+
+.single-col aside p{
+  font-size:90%;
+  line-height:1.6rem;
+  padding:0 0rem;
+  margin:0;
+  text-align:left;
+  width:100%;
+}
+
+
+.lg-left-col aside {
+position:absolute;
+width: 30%;
+float:left;
+}
+
+.lg-left-col aside p{
+  font-size:90%;
+  line-height:1.6rem;
+  padding:0 0rem;
+  margin:0;
+  text-align:left;
+  width:100%;
+}
+
+aside.aside-right {
+float:left;
+margin-left:64%;
+}
+
+aside.aside-left {
+float:left;
+left:0;
+}
+
+.pullquote {
+  border-top:.2rem solid #333;
+  border-bottom:.2rem solid #333;
+}
+
+.pullquote p{
+  font-family:'Raleway';
+  font-size:130%;
+  padding: 1rem 0;
+  line-height:2.3rem;
+}
+
+.lg-left-col .pullquote p{
+    font-size:130%;
+    font-family:'Raleway';
+    font-size:130%;
+    padding: 1rem 0;
+    line-height:2.3rem;
+
+}
 /*****************************************************
 IMAGES
 *****************************************************/
 
-.img-right {
-  float:right;
-  clear:none;
-  margin:none;
-  /* no bottom padding; handled with caption */
-  padding:0 0px 0px 2em;
-  width:250px;
+
+figure.img-right-col {
+  float:left;
+  position:absolute;
+  width: 30%;
+  margin-left:64%;
 }
 
 .img-right-side {
@@ -253,18 +345,27 @@ IMAGES
   width:250px;
 }
 
-
-.img-left {
-  float:left;
+figure {
+  margin-bottom:0;
   clear:none;
   margin:none;
   /* no bottom padding; handled with caption */
-  padding:0 2em 0px 0px;
-  width:250px;
+  width:30%;
 }
 
-figure {
-  margin-bottom:.7em;
+.img-right {
+  float:right;
+  padding:0 0px 0px 2rem;
+  text-align:left;
+}
+
+.img-left {
+  float:left;
+  padding:0 2rem 0px 0px;
+}
+
+.img-center-full {
+  width:100%;
 }
 
 figcaption {
@@ -279,13 +380,17 @@ figcaption {
 }
 
 figcaption.img-right {
-  text-align: justify;
+  text-align: right;
 }
 
 figcaption.img-left {
-  text-align: justify;
+  text-align: left;
 }
 
+figcaption p {
+  margin:0;
+  padding:0;
+}
 
 footer {
   margin-top:2em;
@@ -309,14 +414,38 @@ footer {
 
   @media (max-width: 768px) {
 
-  body {
-    font-size: .8rem;
+
+  main {
+    margin: 0 1.5%;
   }
 
-  h2 {
-   font-size: 1rem;
+.lg-left-col p{
+  width:100%;
+}
+
+  aside {
+  position:relative;
+  width:100%;
+  padding: .4em;
+  border:1px solid #ccc;
+  background:#fefefe;
+  margin-bottom:1em;
   }
 
-  h3 {
-   font-size: .9rem;
-  }
+aside.aside-right {
+  margin-left:0;
+  left:0;
+  width:100%;
+}
+
+aside p{
+  margin:0;
+}
+
+figure.img-right-col {
+  position:relative;
+  width: 100%;
+  margin: 1rem 0 1rem 0;
+}
+
+}

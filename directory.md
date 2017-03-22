@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single-col
 title: Directory
 date: 2017-03-14
 ---

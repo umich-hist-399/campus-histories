@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: single-col
 title: Bibliography
 date: 2017-02-19
 ---

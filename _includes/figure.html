@@ -1,9 +1,7 @@
 <figure class="{{ include.class }}">
-<a href="{{ include.src }}"><img class="{{ include.class }}" src="{{site.baseurl}}{{ include.src }}" alt="{{ include.caption }}" width="250px"></a>
-{% if include.class != "icon" %}
+<a href="{{ include.src }}"><img src="{{site.baseurl}}{{ include.src }}" alt="{{ include.caption }}" width="{{ include.width | default: '100%'}}"></a>
+
 <figcaption class="{{ include.class }}">
-{{ include.caption }}
+{{ include.caption | markdownify }}
 </figcaption>
-{% else %}
-{% endif %}
 </figure>
