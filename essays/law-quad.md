@@ -1,3 +1,9 @@
+---
+layout: Single-col
+title: Law Quadrangle
+date: 2017
+---
+
 # Law Quadrangle
 
 
