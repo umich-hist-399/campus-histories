@@ -1,11 +1,10 @@
 ---
-layout: Single-col
+layout: single-col
 title: Law Quadrangle
 date: 2017
 ---
 
 # Law Quadrangle
-
 
 Wishing to gift the University of Michigan a proper facility to research and promote law, William Wilson Cook, attorney and alumnus of the University, orchestrated a five building plan that would later become the Law Quadrangle. Born in Hillsdale, Michigan, Cook graduated from the Michigan Law School in 1882, and then moved to New York to work at the William B. Coudert Law Firm.  He eventually retired in 1921, wishing to focus his remaining life on research and writing, with between 20 and 30 million dollars saved in his fortune. During the planning phase of the Law Quadrangle, correspondence was often sent between the University, Cook, and the architects Cook hired to resolve any issues during construction.
 

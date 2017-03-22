@@ -15,24 +15,24 @@ Local institutions such as the Salvation Army of Washtenaw County and community 
 
 Beginning as early as 1875, three primary boarding houses existed to serve primarily male students: ‘Prettyman’s’ Boarding House, later dubbed ‘Campus Club’ (1875, acquired by University in 1914), ‘Freeman’s’ and ‘Chubb’s’ ([“Prettyman’s Boarding House”](http://um2017.org/Ann-Arbor/Ann_Arbor_Maps/Prettymans_Boarding_Club.html))).
 
-{% include figure.html class src="/images/prettyman's-1.jpg" caption="_Prettyman’s Boarding House as seen in 1897. Note on reverse side reads: “Residence H.G. Prettyman 27 N. Univ. Ave Ann Arbor, Michigan. June 1897… William had his meals here while in college and lived here part of the time.”_"
+{% include figure.html src="/images/prettyman-1.jpg" caption="Prettymans Boarding House as seen in 1897. Note on reverse side reads: _Residence H.G. Prettyman 27 N. Univ. Ave Ann Arbor, Michigan. June 1897_ William had his meals here while in college and lived here part of the time."
  %}
 
 
 Owned and operated by University alumnus and football team captain Horace Prettyman, the house served as an unofficial social hall for students and was regarded as a campus landmark, one of the ‘largest and the most popular of Ann Arbor's boarding houses in the days when the vast majority of the student body used this type of service for their meals.’ Within these boarding houses, the proprietors offered a collegial atmosphere for lodgers, as seen below.
 
-{% include figure.html class src="/images/boarding-house-residents.jpg" caption="A group of student residents of 21 Six Street in Ann Arbor, circa June 1896."
+{% include figure.html class="img-right" src="/images/boarding-house-residents.jpg" caption="A group of student residents of 21 Six Street in Ann Arbor, circa June 1896."
  %}
 
 It was to the chagrin of many alumni when these boarding houses closed. In the case of Chubb’s and Prettyman’s, the University purchased the lots at first to use as University sponsored housing. Later, the buildings were razed in order to make way for the Rackham Graduate School in the case of the former and the School of Dentistry in the case of the latter. (Michigan Alumnus issue from 1938).
 
 It should be noted that many female students also took up residence with local Ann Arbor families during their time of study.
 
-{% include figure.html class src="/images/boarding-house-female-resident.jpg" %}
+{% include figure.html class="img-right"  src="/images/boarding-house-female-resident.jpg" %}
 
 As female enrollment increased, the University saw a need to provide suitable lodging for young women. In fact, beginning in the 1920s, the University set to open a large (for the time) dorm to house over 400 female students to be named Mosher-Jordan Hall (after Eliza Mosher and Myra Jordan, former women’s deans of the University of Michigan). At the onset, the University stated that in order to put student welfare first, University sponsored dorms offered a safe living space (appealing to parents) and a site of “valuable social training” (“Parents Desire Dormitories”).
 
-{% include figure.html class src="/images/exterior-mj.jpg" caption="_Early sketch of Mosher-Jordan Hall (left); Early photograph of the completed hall (right)_"
+{% include figure.html class="img-right"  src="/images/exterior-mj.jpg" caption="_Early sketch of Mosher-Jordan Hall (left); Early photograph of the completed hall (right)_"
  %}
 
 Among fairly routine delay setbacks included ability to secure financing, a search for an architectural team and severe weather, the University also faced significant opposition from private citizens of Ann Arbor who likely earned a significant amount of money from taking in students as boarders (“Building of Dormitory To Be Postponed”; “Dormitory Plans Near Completion”). A statement from the Regents of the University at the time of construction succinctly captures the tension:
@@ -45,11 +45,11 @@ Upon opening of the new dormitory, other female residence halls such as Martha C
 
 Nonetheless, it is clear that life at Mosher-Jordan created a camaraderie effect for its residents, recalling similar traditions of boarding house life but in a more structured, socially sanctioned setting. Subsequent years featured hall tea times, social dances, participation in sports league, entertainment of faculty members and families and house board elections (“Mosher-Jordan Holds Dances”, May 26, 1934). Despite this, strict rules remained in place for female residents regarding curfew and late policies (“Rigid Rules for Women’s Hours Passed”, May 30 1934).
 
-{% include figure.html class src="/images/brains-and-beauty.jpg" 
+{% include figure.html class="img-right"  src="/images/brains-and-beauty.jpg"
  %}
- 
- 
-{% include figure.html class src="/images/brains-and-beauty.jpg" 
+
+
+{% include figure.html class="img-right"  src="/images/brains-and-beauty.jpg"
  %}
 
 Upon learning the trajectory of local boarding houses and University development, it is insightful to consider the political and social ideologies at the time of construction. It is eye-opening to consider what norms have changed and what has remained the same. It is curious to consider in an age where the University does not hold its responsible to the same degree for formal social training how off campus establishments reflect, as seen below in a new kind of social training:

@@ -1,5 +1,5 @@
 ---
-layout: Single-col
+layout: single-col
 title: Harlan Hatcher Library
 date: 2017
 ---

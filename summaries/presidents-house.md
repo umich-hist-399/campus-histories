@@ -1,5 +1,5 @@
 ---
-layout: Single-col
+layout: single-col
 title: President's House
 date: 2017
 ---
