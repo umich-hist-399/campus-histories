@@ -1,3 +1,9 @@
+---
+layout: single-col
+title: Waterman Gymnasium
+date: 2017-3-22
+---
+
 # Waterman Gymnasium
 
 As early as 1878, University students began to express interest in having a space on campus for recreational use apart from the official varsity athletic spaces
