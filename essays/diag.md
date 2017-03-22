@@ -19,6 +19,7 @@ These next maps are from the Historic Maps Project as well; the top being 10 yea
 The idea that students should be able to traverse a large space quickly was a focus of this construction from the very start. If you look at the lower map, you can see that the pastoral still plays a large role in the school’s self image; the Diag, and furthermore the whole campus, is lined with neat, apparently equidistant rows of trees. This is antebellum America; not quite the industrial powerhouse it would become by century’s end.
 
  {% include figure.html class="img-left" src="/images/campus1880.png" %}
+ 
  {% include figure.html class="img-right" src="/images/campus1890.png" %}
 
 The period after the Civil War was a time of great expansion for the university. As this map on the left shows, by 1880 the Diag completed its journey from northwest to southeast, and while trees and the pastoral still play a large part in the image of this map, there are also more buildings, and ones that existed before are grander. It’s beginning to closely resemble our modern day central campus. This map also gives more character to the campus area, as later maps sometimes did. There are people playing games in the northeast corner of the Diag, in what is left of the Botanical Gardens (and what will become a gymnasium soon). The map on the right isn’t as useful for seeing a layout of the Diag, but there is a striking feature about it; the appearance of smokestacks. These large smokestacks are no longer there, but in this moment, they represent the industrial ambitions of turn of the century America.
@@ -31,6 +32,12 @@ All of this is to prove that the Diag is necessarily a living artifact, one that
 
 The Diag, as I have said, is more than just a walkway, and this is because it encompasses more than a sidewalk and some foliage. It is a vast, wide space; you could really look at the Diag as though it were a park. It is a useful resource for coming together in one place, and being a student area, that is something that goes on quite a bit there. The Diag has a history of being a place where civic protest begins or is staged, and that is no less true as you go back through history:
 
-The first image shouldn’t be entirely surprising; it comes from 1969, and is an anti-Vietnam War protest. Collective American memory has it that the 1960s were some of the more liberal years of the country, and seeing as how a document as radical as _The Port Huron Statement_ has its origins in this very University, it follows that there would be some radical action here. But the Diag provides proof that the University of Michigan has not stopped fighting for the greater good; the bottom photo shows “campers” seeking U of M divestment of stock with companies that have ties to South Africa. This comes from 1985, the Reagan era, which is collectively remembered as a more conservative. True that this is a sort of “Baby Boomer” narrative: liberal, free 1960s eventually gives way to,corporate 1980s.
+ {% include figure.html class="img-right" src="/images/vietnamprotest1969.jpg" %}
+
+This first image shouldn’t be entirely surprising; it comes from 1969, and is an anti-Vietnam War protest. Collective American memory has it that the 1960s were some of the more liberal years of the country, and seeing as how a document as radical as _The Port Huron Statement_ has its origins in this very University, it follows that there would be some radical action here. 
+
+ {% include figure.html class="img-right" src="/images/southafricaprotest1985.jpg" %}
+
+But the Diag provides proof that the University of Michigan has not stopped fighting for the greater good; this photo on the right shows “campers” seeking U of M divestment of stock with companies that have ties to South Africa. This comes from 1985, the Reagan era, which is collectively remembered as a more conservative. True that this is a sort of “Baby Boomer” narrative: liberal, free 1960s eventually gives way to corporate 1980s. Yet this narrative may not necessarily be true.
 
  Let the Diag be proof of that narrative being flawed. The University of Michigan has always been a place where freedom of speech and freedom of congregation are not taken for granted; if we see injustice in the world, we will not remain silent.
