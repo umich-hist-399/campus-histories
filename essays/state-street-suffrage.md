@@ -44,4 +44,4 @@ Shaw, Wilfred Byron, and University of Michigan. The University of Michigan, an 
 
 Stanton, Elizabeth Cady, Susan Brownell Anthony, Matilda Joslyn Gage, and Ida Husted Harper. History of Woman Suffrage: 1900-1920. Fowler & Wells, 1922.
 
-University of Michigan. For Michigan Women Everywhere. [24] p. incl. illus., ports. [Detroit, Mich.: University of Michigan Women’s League building and endowment fund, 1924. http://hdl.handle.net/2027/[u]: mdp.39015071368834.
+University of Michigan. For Michigan Women Everywhere. [24] p. incl. illus., ports. Detroit, Mich.: University of Michigan Women’s League building and endowment fund, 1924. http://hdl.handle.net/2027/[u]: mdp.39015071368834.
