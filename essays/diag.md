@@ -30,6 +30,8 @@ Those smokestacks belonged to the Heating Plant and the Boiler House, buildings 
 
 All of this is to prove that the Diag is necessarily a living artifact, one that changes with the times much like anything else. In this sense, it is more than just a glorified sidewalk; the Diag may be talked about like any building that resides near it. It is added on to, like new buildings that appear as the University needs them, and segments are also destroyed to make way for the new. Consider how the Heating Plant and Boiler House are now gone; as technology improves, the University decides what happens to the old.
 
+## A Place of Protest
+
 The Diag, as I have said, is more than just a walkway, and this is because it encompasses more than a sidewalk and some foliage. It is a vast, wide space; you could really look at the Diag as though it were a park. It is a useful resource for coming together in one place, and being a student area, that is something that goes on quite a bit there. The Diag has a history of being a place where civic protest begins or is staged, and that is no less true as you go back through history:
 
  {% include figure.html class="img-right" src="/images/vietnamprotest1969.jpg" %}
