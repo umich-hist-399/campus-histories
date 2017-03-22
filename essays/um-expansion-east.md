@@ -32,17 +32,44 @@ In the map above, from 1890, the University has acquired or constructed many bui
 
 Further development on the Diag included the Heating Plant (1883) and the ‘Boiler House’ (1894), built to provide heating for rapidly increasing number of buildings on campus (‘1883 Heating Plant and 1894 Boiler House’). Another plant built on Washington Street in 1911 rendered it no longer needed. The latter unsightly smokestack was disliked by faculty for its aesthetics in the midst of the green space Diag (‘1883 Heating Plant and 1894 Boiler House’).
 
+ {% include figure.html class="img-right" src="smokestack.jpg" %}
+
 Mortimer Cooley, Dean of Engineering was quoted to have said “I thought if I could make the boiler house as ugly as possible, and fix the guy ropes so some of the professors would get their heads bumped, I might get some help. Suffice to say, the following year I was authorized to make plans for the present boiler house in the old ‘Cat Hole’.” (Scientific Blacksmith, p. 82). The space was subsequently converted into an engineering lab and later an ROTC building in 1925, being used until 1942 (‘1883 Heating Plant and 1894 Boiler House’).
 
 The first map of the new century (1904) shows even more development eastward.
 
+ {% include figure.html class="img-right" src="1904-map.jpg" %}
+
 Notable additions include a number of medical buildings to the northeast (23 on map)—a homeopathic hospital, Palmer Ward & Nurses Residence, an Allopathy Hospital, an Ophthalmology & Otology facility and a Psychopathic Ward—the University ‘Detroit Observatory’ (1854) and its adjacent student observatory and residence (24 on map), the Waterman Gymnasium (1894) (10 on map) which was used for a variety of student activities such as exercise classes, class registration, a dance hall, a space for fundraising banquets and a space for barrack-like training for WWI soldiers (‘The Detroit Observatory’; Crawford, 1976; ‘Waterman Gymnasiums’).
+
+{% include figure.html class="img-right" src="detroit-observatory.jpg" %}
+ 
+{% include figure.html class="img-right" src="waterman1.jpg" %}
+  
+{% include figure.html class="img-right" src="waterman2.jpg" %}
+
+{% include figure.html class="img-right" src="waterman3.jpg" %}
+
+From top: Sketch of Detroit Observatory plan; exterior of Waterman Gymnasium (top); female students participate in exercise classes (middle); a ‘J-Hop’ dance participants pose in the Block M formation (bottom)
+
 
 Another significant addition was the ‘New Engineering Building’ (1903), renamed ‘West Engineering’ (6 on map)(‘New Engineering Building’). As the Diag as a thoroughfare was already a mainstay, this building had to be designed in order to not interfere “with the diagonal walk of the campus”. Thus, Professor Charles Denison
 
 “prepared a sketch showing the diagonal walk passing through an archway in the building. The Arch was named the Denison Archway in his honor. In later years it was referred to as the “Engineering Arch,” (as quoted in ‘New Engineering Building’)
 
 The Arch was and still is a campus landmark, with growing lore attached to it and activities that occur near it.
+
+{% include figure.html class="img-right" src="arch-1.jpg" %}
+
+{% include figure.html class="img-right" src="arch-2.jpg" %}
+
+{% include figure.html class="img-right" src="arch-3.jpg" %}
+
+{% include figure.html class="img-right" src="arch-4.jpg" %}
+
+{% include figure.html class="img-right" src="arch-5.jpg" %}
+
+Top: View of Arch from southwest (top); view of Arch from northeast (second from top); students walk through ‘The Arch—A Symbol of The College of Engineering’ (second from bottom); view of Diag from Engineering Arch; the Engineering Arch today.
 
 Sources:
 
