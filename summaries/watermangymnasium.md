@@ -1,3 +1,5 @@
+# Waterman Gymnasium
+
 As early as 1878, University students began to express interest in having a space on campus for recreational use apart from the official varsity athletic spaces
 With the support of a number of donations and in spite of the Depression of 1893, the Waterman Gymnasium was completed 1894 for a cost of about $50,000.
 It is located on the northeast corner of the original campus boundaries
