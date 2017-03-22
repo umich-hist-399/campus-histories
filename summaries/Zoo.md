@@ -14,4 +14,4 @@ McRae, Anna. Anna McRae Photograph Collection., 1901. http://hdl.handle.net/2027
 
 Pettibone, Darwin A. “City of Ann Arbor, Washtenaw Coty. Michigan.” Ann Arbor: D. A. Pettibone, 1854. http://hdl.handle.net/2027/.
 
-University of Michigan., and Alexander Grant Ruthven. The University Museums Building of the University of Michigan. 29 p. [Ann Arbor: The University of Michigan, 1929. http://hdl.handle.net/2027/[u]: mdp.39015071108297.
+University of Michigan., and Alexander Grant Ruthven. The University Museums Building of the University of Michigan. 29 p. Ann Arbor: The University of Michigan, 1929. http://hdl.handle.net/2027/[u]: mdp.39015071108297.
