@@ -17,7 +17,7 @@ The building was named for Walter S. Perry, a former Ann Arbor superintendent of
 It built a reputation as an excellent school dedicated to serving one-parent families.
  During World War II, Perry Elementary got funding under the Lanham Act, created to make it possible for mothers to work in the defense industry. 
 Following the war, community activists organized to keep the school in operation, under the realization that a need for the school remained as there were many single women, divorced or widowed.
-In the heyday of Perry Elementary, unplanned pregnancies were prevalent due to the absence of the availability of birth control pills and the timing (prior to the women's liberation movement) when dropping out of school and quick and short marriages followed by low-paying employment was the norm
+In the heyday of Perry Elementary, unplanned pregnancies were prevalent due to the absence of the availability of birth control pills and the timing (prior to the women's liberation movement) when dropping out of school and quick and short marriages followed by low-paying employment was the norm.
 The school later became a United Way Agency to serve low income and at risk families
 
 The on-campus location afforded easier access to recruit additional help from University students studying education, psychology and nursing.
