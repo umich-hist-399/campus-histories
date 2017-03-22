@@ -1,6 +1,6 @@
 ---
 layout: single-col
-title: The University’s role in Social Training: Origins of U-sponsored dorms
+title: The Universitys role in Social Training: Origins of U-sponsored dorms
 date: 2017-3-22
 ---
 
