@@ -40,19 +40,17 @@ Though State Street is often thought of as a male space in the early 1900s with 
 
 ### Bibliography
 
-<<<<<<< Updated upstream
-- Behnke, Zoe Ann Bliss. “Woman Suffrage Movement in Washtenaw County, 1910-1913.,”no.    0.5 linear feet. (1910): 0.5 linear feet.
+- Behnke, Zoe Ann Bliss. “Woman Suffrage Movement in Washtenaw County, 1910-1913.
 
 - “Flier Distributed by the National American Woman Suffrage Association Advocating the Vote for Women.” Bentley Image Bank, Bentley Historical Library. Accessed March 20, 2017. http://quod.lib.umich.edu/b/bhl/x-bl000394/bl000394.
 
-- Hazzard, Florence W., and Katharine Lee Bates. “Florence W. Hazzard Papers, Ca. 1920-1966.,” no. .3 linear ft. (1920): .3 linear ft.
-=======
+- Hazzard, Florence W., and Katharine Lee Bates. “Florence W. Hazzard Papers, Ca. 1920-1966.
+
 - Behnke, Zoe Ann Bliss. “Woman Suffrage Movement in Washtenaw County, 1910-1913.
 
 - “Flier Distributed by the National American Woman Suffrage Association Advocating the Vote for Women.” Bentley Image Bank, Bentley Historical Library. Accessed March 20, 2017. http://quod.lib.umich.edu/b/bhl/x-bl000394/bl000394.
 
 - Hazzard, Florence W., and Katharine Lee Bates. “Florence W. Hazzard Papers", Ca. 1920-1966".
->>>>>>> Stashed changes
 
 - Shaw, Wilfred Byron, and University of Michigan. The University of Michigan, an Encyclopedic Survey, 2001. http://quod.lib.umich.edu/u/umsurvey/.
 
