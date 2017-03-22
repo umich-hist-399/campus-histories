@@ -1,3 +1,10 @@
+---
+layout: single-col
+title: Perry Building
+date: 2017-3-22
+--- 
+
+
 # Perry Building
 
 - Currently houses the Inter-university Consortium for Political and Social Research (established 1962), a center that “maintains and provides access to a vast archive of social science data for research and instruction”
@@ -15,7 +22,9 @@
 - The on-campus location afforded easier access to recruit additional help from University students studying education, psychology and nursing.
 - Eventually, costs to maintain the school became too high for the nonprofit United Way and the school was put up for sale.
 - The University bought the Perry building in 1967
--The school moved operations to a location on the outer reaches of Ann Arbor which it credits to increasing its reach for parents from outside Ann Arbor.
+- The school moved operations to a location on the outer reaches of Ann Arbor which it credits to increasing its reach for parents from outside Ann Arbor.
+
+
 
 Sources:
 
