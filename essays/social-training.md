@@ -8,14 +8,14 @@ date: 2017-3-22
 
 In order for a university to function, to do its research, to enroll classes, there must be an infrastructure or system in place that provides students with a place to live and a place to eat their meals. Although students began to take classes at the Ann Arbor campus as early as 1840, the first acknowledged University student housing residence was not built until 1915 ([“A Chronology of University of Michigan Buildings, 1840-1999”](http://bentley.umich.edu/legacy-support/campus_tour/chronology.php); “Education shall forever be encouraged”, VP of University Development publications) . Before this, students had to find other means of lodging when enrolling in the Ann Arbor campus. A common route was staying in privately owned boarding houses that offered room and board ([“Prettyman’s Boarding House”](http://um2017.org/Ann-Arbor/Ann_Arbor_Maps/Prettymans_Boarding_Club.html).
 
-{% include figure.html class="img-right" src="/images/prillys-boardinghouse.jpg" caption="_‘Prilly’ residence, a home that opened its doors to student boarders circa, June 1896_"
+{% include figure.html class="img-right" src="/images/prillys-boardinghouse.jpg" caption="‘Prilly’ residence, a home that opened its doors to student boarders circa, June 1896"
  %}
 
 Local institutions such as the Salvation Army of Washtenaw County and community churches also offered meals. The following essay offers a background on such boarding house culture and describes the rise of one particular University sponsored dorm, Mosher Jordan Hall, and the rarely discussed backlash that ensued over its construction.
 
 Beginning as early as 1875, three primary boarding houses existed to serve primarily male students: ‘Prettyman’s’ Boarding House, later dubbed ‘Campus Club’ (1875, acquired by University in 1914), ‘Freeman’s’ and ‘Chubb’s’ ([“Prettyman’s Boarding House”](http://um2017.org/Ann-Arbor/Ann_Arbor_Maps/Prettymans_Boarding_Club.html))).
 
-{% include figure.html src="/images/prettyman-1.jpg" caption="Prettymans Boarding House as seen in 1897. Note on reverse side reads: _Residence H.G. Prettyman 27 N. Univ. Ave Ann Arbor, Michigan. June 1897_ William had his meals here while in college and lived here part of the time."
+{% include figure.html src="/images/prettyman's-1.jpg" caption="Prettyman's Boarding House as seen in 1897. Note on reverse side reads: _Residence H.G. Prettyman 27 N. Univ. Ave Ann Arbor, Michigan. June 1897_ William had his meals here while in college and lived here part of the time."
  %}
 
 
@@ -32,7 +32,7 @@ It should be noted that many female students also took up residence with local A
 
 As female enrollment increased, the University saw a need to provide suitable lodging for young women. In fact, beginning in the 1920s, the University set to open a large (for the time) dorm to house over 400 female students to be named Mosher-Jordan Hall (after Eliza Mosher and Myra Jordan, former women’s deans of the University of Michigan). At the onset, the University stated that in order to put student welfare first, University sponsored dorms offered a safe living space (appealing to parents) and a site of “valuable social training” (“Parents Desire Dormitories”).
 
-{% include figure.html class="img-right"  src="/images/exterior-mj.jpg" caption="_Early sketch of Mosher-Jordan Hall (left); Early photograph of the completed hall (right)_"
+{% include figure.html class="img-right"  src="/images/exterior-mj.jpg" caption="Early sketch of Mosher-Jordan Hall (left); Early photograph of the completed hall (right)"
  %}
 
 Among fairly routine delay setbacks included ability to secure financing, a search for an architectural team and severe weather, the University also faced significant opposition from private citizens of Ann Arbor who likely earned a significant amount of money from taking in students as boarders (“Building of Dormitory To Be Postponed”; “Dormitory Plans Near Completion”). A statement from the Regents of the University at the time of construction succinctly captures the tension:

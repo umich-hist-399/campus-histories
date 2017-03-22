@@ -6,7 +6,7 @@ date: 2017-02-19
 
 {% include jumbotron.html
   title="Page Title"
-  image="/images/perry-building.jpg"
+  image="images/perry-building.jpg"
   text="
 Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce id purus. Ut varius tincidunt libero. Phasellus dolor. Maecenas vestibulum mollis diam. Pellentesque ut neque.
 " %}
