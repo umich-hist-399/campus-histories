@@ -2,7 +2,9 @@
 layout: single-col
 title: Ingalls Mall
 date: 2017-02-19
----
+
+# Ingalls Mall---
+
 Thus far in my historical exploration of the history of the University of Michigan Central Campus I have focused on the original forty-acre plot acquired by the University of Michigan downtown Ann Arbor in 1837. In this essay, however, I will focus not on the central forty, but rather on the northern continuation of the Ingalls Mall that stretches between North University Avenue and East Huron Street and the buildings surrounding it.
 The possibility for the university’s expansion to the north of the original campus plot was originally hindered by existing private developments. On the 1874 map of Ann Arbor (see below), the land in question appears to be divided up into many individual parcels, though it is unclear how many are developed. The only non-residential plots marked are the Union School, the Old Cemetery, and something on the far right that looks to be a pond.
 {% include figure.html class="img-right" src="/images/northaddition1874.png" caption="The 1874 Campus Map including the future site of Ingalls Mall" %}
