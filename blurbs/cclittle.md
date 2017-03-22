@@ -1,3 +1,9 @@
+---
+layout: single-col
+title: C.C. Little Building
+date: 2017-03-22
+---
+
 # C.C. Little Building
 
 Built in 1925 for the medical school by famed Detroit and Ann Arbor architect Albert Kahn who designed many buildings on campus.
