@@ -6,7 +6,7 @@
 <div class="container">
 <h1 class="display-3">{{ include.title}}</h1>
 <p class="lead">
-  {{ include.text}}
+  {{ include.text | markdownify}}
 </p>
 </div>
 </div>

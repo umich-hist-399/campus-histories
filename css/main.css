@@ -14,7 +14,7 @@
     font-family: 'Open Sans', sans-serif;
     line-height: 1.4em;
     background-color: #fefefe;
-    font-size: 14px;
+    font-size: 16px;
   }
 
 .navbar {
@@ -36,16 +36,6 @@
   .lg-left-col {
     margin: 0 1.5%;
   }
-
-  .building {
-  width:100%;
-  }
-
-  .sidebar {
-    font-size:80%;
-    color:#999;
-  }
-
 
 
 /*****************************************************
@@ -91,30 +81,8 @@ p {
   font-family: 'Open Sans', sans-serif;
   line-height: 1.6em;
   margin-bottom: 1.5em;
+  max-width:60em;
 }
-
-
-.home-text p {
-  font-family: 'Raleway', sans-serif;
-  text-align:justify;
-  margin-top:1em;
-}
-
-.home-section-head {
-  font-family: 'Raleway', sans-serif;
-  padding: 1em 0;
-  border-top:1px solid #ccc;
-  border-bottom:1px solid #ccc;
-}
-
-p.title-text {
-  font-family: 'Raleway', sans-serif;
-  font-weight: 300;
-  font-size: 1.2em;
-  color:#eeeeee;
-  line-height: 1.4em;
-}
-
 
 /*****************************************************
 HEADERS
@@ -203,6 +171,10 @@ a:visitd {
 
 a:hover {
  color: #9a4031;
+}
+
+ul {
+  margin-bottom:1.4em;
 }
 
 .lg-left-col ul {
@@ -373,7 +345,7 @@ figcaption {
   color:#666;
   font-family: 'Oxygen', sans-serif;
   display:block;
-  margin:.2em 0 0em 0;
+  margin:.2em 0 1em 0;
   clear:both;
   width: 250px;
   line-height: 1.3em;

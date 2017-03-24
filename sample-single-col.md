@@ -4,14 +4,23 @@ title: Sample Essay
 date: 2017-02-19
 ---
 
-# Sample Essay
+# Sample Layout: single-col
 
 *This page provides a sample 1200-word essay to illustrate how to implement the various typographic features we're using. You can view the code of this page to see exactly how how get certain features on your own essay pages.*
+
+**To use this layout, make sure you have `layout: singlecol` in your page header**
 
 {% include figure.html class="img-right" caption="Perry building" src="/images/perry-building.jpg" %}
 
 ## Heading 2
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
+
+For the image above, use:
+{%raw%}
+```
+{% include figure.html class="img-right" caption="Perry building" src="/images/perry-building.jpg" %}
+```
+{%endraw%}
 
 
 {% include aside.html class="pullquote" text="
@@ -29,11 +38,24 @@ Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit am
 Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce id purus. Ut varius tincidunt libero. Phasellus dolor. Maecenas vestibulum mollis diam. Pellentesque ut neque.
 " %}
 
+To achieve the above full width pull quote, use:
+{%raw%}
+```
+{% include full-width.html class="pullquote" text=" Vestibulum ante ipsum primis in faucibus orci luctus ..." %}
+```
+{%endraw%}
+
 
 Fusce vulputate eleifend sapien. Vestibulum purus quam, scelerisque ut, mollis sed, nonummy id, metus. Nullam accumsan lorem in dui. Cras ultricies mi eu turpis hendrerit fringilla. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; In ac dui quis mi consectetuer lacinia. Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum.
 
-{% include figure.html class="img-center-full" src="/images/church.jpg" %}
+{% include figure.html class="img-center-full" src="/images/church.jpg" caption="Here is your caption. Isn't it nice?"%}
 
+To achieve the above full-width (but not jumbotron) image, use:
+{%raw%}
+```
+{% include figure.html class="img-center-full" src="/images/church.jpg" %}
+```
+{%endraw%}
 
 ## Heading 2
 Sed aliquam ultrices mauris. Integer ante arcu, accumsan a, consectetuer eget, posuere ut, mauris. Praesent adipiscing. Phasellus ullamcorper ipsum rutrum nunc. Nunc nonummy metus. Vestibulum volutpat pretium libero. Cras id dui. Aenean ut eros et nisl sagittis vestibulum. Nullam nulla eros, ultricies sit amet, nonummy id, imperdiet feugiat, pede. Sed lectus. Donec mollis hendrerit risus. Phasellus nec sem in justo pellentesque facilisis. Etiam imperdiet imperdiet orci.
