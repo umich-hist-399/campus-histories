@@ -26,9 +26,9 @@ function getMarkersByDateRange(year, callback) {
             m.start_year = m[2];
             m.end_year = m[3]
             m.name = m[1];
-            m.geometry = m[4];
-            m.images = m[5];
-            m.links = m[6];
+            m.images = m[4];
+            m.links = m[5];
+            m.geometry = m[6];
             // outline should be a javascript array in a string, so
             // this turns it back into an array
             try {
@@ -162,51 +162,53 @@ function loadMarker(i, markerData) {
       }
   };
 
-    console.log(geojsonFeature);
+  console.log(geojsonFeature);
 
-      // assemble the popup!
-      console.log("assembling popup...");
-      var popup = $('<div></div>');
-      if (markerData.name) {
-          $('<h2></h2>')
-          .text(markerData.name)
-          .appendTo(popup);
-      }
-      if (markerData.image || markerData.images) {
-          // image carousel
-          var images = markerData.images || [markerData.image];
-          var slider = $('<ul></ul>')
-          .addClass('image-slider')
-          .appendTo(popup);
-          $.each(images, function(i, url) {
-              $('<img>')
-              .attr('src', url)
-              .appendTo($('<li></li>').appendTo(slider));
-          });
-      }
-      if (markerData.caption) {
-          $('<p></p>')
-          .text(markerData.caption)
-          .appendTo(popup);
-      }
-      if (markerData.link) {
-          $('<a></a>')
-          .addClass('read-more')
-          .attr('href', markerData.link)
-          .attr('target', '_blank')
-          .text("More information »")
-          .appendTo($('<p></p>').appendTo(popup));
-      }
-      console.log(popup.html());
+  // assemble the popup!
+  console.log("assembling popup...");
+  var popup = $('<div></div>');
+  if (markerData.name) {
+      $('<h2></h2>')
+      .text(markerData.name)
+      .appendTo(popup);
+  }
+  if (markerData.image || markerData.images) {
+      // image carousel
+      var images = markerData.images || [markerData.image];
+      var slider = $('<ul></ul>')
+      .addClass('image-slider')
+      .appendTo(popup);
+      $.each(images, function(i, url) {
+          $('<img>')
+          .attr('src', url)
+          .appendTo($('<li></li>').appendTo(slider));
+      });
+  }
+  if (markerData.caption) {
+      $('<p></p>')
+      .text(markerData.caption)
+      .appendTo(popup);
+  }
+  if (markerData.link) {
+      $('<a></a>')
+      .addClass('read-more')
+      .attr('href', markerData.link)
+      .attr('target', '_blank')
+      .text("More information »")
+      .appendTo($('<p></p>').appendTo(popup));
+  }
+  console.log(popup.html());
 
-      var popup = L.popup().setContent(popup.html());
-      outlines.addLayer(L.geoJSON(geojsonFeature).bindPopup(popup).on('click', function(e)
-        {
-          console.log(e.layer.feature.properties.name);
-          $("#info_name").html(e.layer.feature.properties.name);
-        })
-      );
-}
+  var popup = L.popup().setContent(popup.html());
+  //outlines.addLayer(L.geoJSON(geojsonFeature).bindPopup(popup).on('click', function(e) {
+  outlines.addLayer(L.geoJSON(geojsonFeature).on('click', function(e) {
+    console.log(e.layer.feature.properties.name);
+    //$("#info_name").html(e.layer.feature.properties.name);
+    $( "#info_blurb" ).load( "../blurbs/test.html", function() {
+      //alert( "Load was performed." );
+    });
+  }));
+} //end function
 
 getMarkersByDateRange(year, function(markers) {
     // clear away old markers

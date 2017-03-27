@@ -42,24 +42,45 @@
 MAP PAGE
 *****************************************************/
 
-#mapid, #slider {
-  width: 60%;
-  margin-left:15px;
-  float:left;
-  clear:both;
+#mapid, #slider{
 }
 
 #mapid {
+    width: 100%;
     height: 400px;
 }
 
 #slider {
-  clear:both;
+  margin:1em 1em;
 }
 
-#info {
-  width:40%;
-  background-color: #ccc;
+#info_blurb {
+  bborder:1px solid black;
+  bbackground-color: #efefef;
+}
+
+#info_blurb h1 {
+  margin:.5rem 0 .5rem 0;
+  font-size:1.5rem;
+}
+
+#info_blurb h2 {
+    font-size:1.3rem;
+    margin:.5rem 0 .5rem 0;
+}
+
+#info_blurb h3 {
+    font-size:1.1rem;
+    margin:.5rem 0 .5rem 0;
+}
+
+#info_blurb ul {
+margin-left:1rem;
+padding:0;
+}
+
+#info_blurb li {
+font-size: .8rem;
 }
 
 /*****************************************************
