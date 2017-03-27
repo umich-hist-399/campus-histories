@@ -40,7 +40,7 @@ As female enrollment increased, the University saw a need to provide suitable lo
 
 Among fairly routine delay setbacks included ability to secure financing, a search for an architectural team and severe weather, the University also faced significant opposition from private citizens of Ann Arbor who likely earned a significant amount of money from taking in students as boarders (“Building of Dormitory To Be Postponed”; “Dormitory Plans Near Completion”). A statement from the Regents of the University at the time of construction succinctly captures the tension:
 
-{% include figure.html class="img-right" src="regents.jpg" %}
+{% include figure.html class="img-right" src="/images/regents.jpg" %}
 
 At the time regarded as a “thoroughly modern”, “giant structure” that was “one of the most imposing of the University of Michigan’s buildings because of its height and its location”, the $955,000 structure continued to be met with controversy among local residents. (“Contract let for Erection of Dorm”; “U of M Girls’ Dormitory”). In an article from the time of construction, it was noted that “work on the new dormitory was started following a controversy during which rooming-house owners of Ann Arbor sought by various means, including appeal to Governor Fred W. Green, to stop letting of the contract. It was felt by the group that the rooming houses are adequate and the dormitory unnecessary. Dr. Clarence C. Little, then president of the university, was made the butt of the attacks.” (“U of M Girls’ Dormitory”). It is clear that the University and the local residents did not see eye to eye then. Perhaps it is thought-provoking to consider how today, when University sponsored dormitories provide but a drop in the bucket for only nearly a quarter to a third of students, these relations have shifted.
 
@@ -53,9 +53,8 @@ Nonetheless, it is clear that life at Mosher-Jordan created a camaraderie effect
 
 Upon learning the trajectory of local boarding houses and University development, it is insightful to consider the political and social ideologies at the time of construction. It is eye-opening to consider what norms have changed and what has remained the same. It is curious to consider in an age when the University does not hold itself responsible to the same degree for formal social training how off campus establishments reflect, as seen below in a new kind of social training:
 
-{% include figure.html class="img-right"  src="/images/good-time-charley's-ad.jpg"
+{% include figure.html class="img-center-full"  src="/images/good-time-charley's-ad.jpg"
  %}
-
 
 
 
