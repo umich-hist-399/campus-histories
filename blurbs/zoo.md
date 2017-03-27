@@ -1,7 +1,4 @@
 ---
-layout: single-col
-title: The Michigan Zoo
-date: 2017
 ---
 
 # The Michigan Zoo

@@ -6,7 +6,7 @@ date: 2017-02-19
 
 {% include jumbotron.html
   title="Displaced Histories"
-  image="/images/church.jpg"
+  image="images/church.jpg"
   text="
 Neglected but integral stories to campus history, focusing on the spatial interface between campus and the surrounding community.
 " %}

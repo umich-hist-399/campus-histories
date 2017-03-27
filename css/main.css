@@ -14,7 +14,7 @@
     font-family: 'Open Sans', sans-serif;
     line-height: 1.4em;
     background-color: #fefefe;
-    font-size: 14px;
+    font-size: 16px;
   }
 
 .navbar {
@@ -37,39 +37,50 @@
     margin: 0 1.5%;
   }
 
-  .building {
-  width:100%;
-  }
-
-  .sidebar {
-    font-size:80%;
-    color:#999;
-  }
-
-
 
 /*****************************************************
 MAP PAGE
 *****************************************************/
 
-#mapid, #slider {
-  width: 60%;
-  margin-left:15px;
-  float:left;
-  clear:both;
+#mapid, #slider{
 }
 
 #mapid {
+    width: 100%;
     height: 400px;
 }
 
 #slider {
-  clear:both;
+  margin:1em 1em;
 }
 
-#info {
-  width:40%;
-  background-color: #ccc;
+#info_blurb {
+  bborder:1px solid black;
+  bbackground-color: #efefef;
+}
+
+#info_blurb h1 {
+  margin:.5rem 0 .5rem 0;
+  font-size:1.5rem;
+}
+
+#info_blurb h2 {
+    font-size:1.3rem;
+    margin:.5rem 0 .5rem 0;
+}
+
+#info_blurb h3 {
+    font-size:1.1rem;
+    margin:.5rem 0 .5rem 0;
+}
+
+#info_blurb ul {
+margin-left:1rem;
+padding:0;
+}
+
+#info_blurb li {
+font-size: .8rem;
 }
 
 /*****************************************************
@@ -91,30 +102,8 @@ p {
   font-family: 'Open Sans', sans-serif;
   line-height: 1.6em;
   margin-bottom: 1.5em;
+  max-width:60em;
 }
-
-
-.home-text p {
-  font-family: 'Raleway', sans-serif;
-  text-align:justify;
-  margin-top:1em;
-}
-
-.home-section-head {
-  font-family: 'Raleway', sans-serif;
-  padding: 1em 0;
-  border-top:1px solid #ccc;
-  border-bottom:1px solid #ccc;
-}
-
-p.title-text {
-  font-family: 'Raleway', sans-serif;
-  font-weight: 300;
-  font-size: 1.2em;
-  color:#eeeeee;
-  line-height: 1.4em;
-}
-
 
 /*****************************************************
 HEADERS
@@ -206,6 +195,10 @@ a:hover {
 }
 
 ul {
+  margin-bottom:1.4em;
+}
+
+.lg-left-col ul {
   width:62%
 }
 
@@ -373,7 +366,7 @@ figcaption {
   color:#666;
   font-family: 'Oxygen', sans-serif;
   display:block;
-  margin:.2em 0 0em 0;
+  margin:.2em 0 1em 0;
   clear:both;
   width: 250px;
   line-height: 1.3em;
