@@ -56,4 +56,7 @@ Nonetheless, it is clear that life at Mosher-Jordan created a camaraderie effect
 
 Upon learning the trajectory of local boarding houses and University development, it is insightful to consider the political and social ideologies at the time of construction. It is eye-opening to consider what norms have changed and what has remained the same. It is curious to consider in an age when the University does not hold itself responsible to the same degree for formal social training how off campus establishments reflect, as seen below in a new kind of social training:
 
+{% include figure.html class="img-right"  src="/images/good-time-charley's-ad.jpg"
+ %}
+
 
