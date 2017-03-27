@@ -39,7 +39,7 @@ All of this is to prove that the Diag is necessarily a living artifact, one that
 
 The Diag, as I have said, is more than just a walkway, and this is because it encompasses more than a sidewalk and some foliage. It is a vast, wide space; you could really look at the Diag as though it were a park. It is a useful resource for coming together in one place, and being a student area, that is something that goes on quite a bit there. The Diag has a history of being a place where civic protest begins or is staged, and that is no less true as you go back through history:
 
- {% include figure.html class="img-right" src="/images/vietnamprotest1969.jpg" %}
+ {% include figure.html class="img-center-full" src="/images/vietnamprotest1969.jpg" %}
 This first image shouldn’t be entirely surprising; it comes from 1969, and is an anti-Vietnam War protest. Collective American memory has it that the 1960s were some of the more liberal years of the country, and seeing as how a document as radical as _The Port Huron Statement_ has its origins in this very University, it follows that there would be some radical action here. 
 
  {% include figure.html class="img-center" src="/images/southafricaprotest1985.jpg" %}
