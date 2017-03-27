@@ -30,6 +30,8 @@ It should be noted that many female students also took up residence with local A
 
 {% include figure.html class="img-right"  src="/images/boarding-house-female-resident.jpg" %}
 
+## Beginnings of University-sponsored dormitories for women
+
 As female enrollment increased, the University saw a need to provide suitable lodging for young women. In fact, beginning in the 1920s, the University set to open a large (for the time) dorm to house over 400 female students to be named Mosher-Jordan Hall (after Eliza Mosher and Myra Jordan, former women’s deans of the University of Michigan). At the onset, the University stated that in order to put student welfare first, University sponsored dorms offered a safe living space (appealing to parents) and a site of “valuable social training” (“Parents Desire Dormitories”).
 
 {% include figure.html class="img-right"  src="/images/exterior-mj.jpg" caption="Early sketch of Mosher-Jordan Hall (left); Early photograph of the completed hall (right)"
@@ -52,4 +54,6 @@ Nonetheless, it is clear that life at Mosher-Jordan created a camaraderie effect
 {% include figure.html class="img-right"  src="/images/brains-and-beauty.jpg"
  %}
 
-Upon learning the trajectory of local boarding houses and University development, it is insightful to consider the political and social ideologies at the time of construction. It is eye-opening to consider what norms have changed and what has remained the same. It is curious to consider in an age where the University does not hold its responsible to the same degree for formal social training how off campus establishments reflect, as seen below in a new kind of social training:
+Upon learning the trajectory of local boarding houses and University development, it is insightful to consider the political and social ideologies at the time of construction. It is eye-opening to consider what norms have changed and what has remained the same. It is curious to consider in an age when the University does not hold itself responsible to the same degree for formal social training how off campus establishments reflect, as seen below in a new kind of social training:
+
+
