@@ -3,7 +3,6 @@ layout: single-col
 title: President's House
 date: 2017
 ---
-
 # President’s House
 
 -The initial building plan of the University of Michigan called for two buildings for class and student use, and four buildings to house professors and other university faculty.
