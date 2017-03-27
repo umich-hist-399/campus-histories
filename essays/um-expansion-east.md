@@ -18,7 +18,7 @@ Eastern boundary develops stunts for almost twenty years. The University feature
 
 While up until this point, this history has focused on University property, it is important to note that an important aspect of student life also occurs off campus. One such location, ‘the Campus Club’, also known as ‘Prettyman’s Boarding House’, was a mainstay eatery, source of employment and housing for almost thirty years (1885-1914) (The Michigan Alumnus, November 12, 1938, p. 101). Owned and operated by University alumnus and football team captain Horace Prettyman, the house served as an unofficial social hall for students and was regarded as a campus landmark, one of the ‘largest and the most popular of Ann Arbor's boarding houses in the days when the **vast majority of the student body used this type of service for their meals.’**
 
- {% include figure.html class="img-right" src="campus-map-prettymans.jpg" caption="Campus map featuring advertisement for the 'Campus Club' with H.G. Prettyman listed as the proprietor, date unknown" %}
+ {% include figure.html class="img-right" src="/images/campus-map-prettymans.jpg" caption="Campus map featuring advertisement for the 'Campus Club' with H.G. Prettyman listed as the proprietor, date unknown" %}
 
 Revered University of Michigan Football Coach Fielding Yost even kept a ‘training table’ for his players to eat at (The Michigan Alumnus, 45:101). However, as a letter in The Michigan Alumnus of 1938 notes, Prettyman’s “has been altered and remodeled, as have so many structures, which have been in the path of University progress”, further noting that “‘Freeman's’ [another Ann Arbor eating club] held the fort as the last survivor until it met the same nemesis that "Prett's" is now experiencing - the expansion of the University,” (The Michigan Alumnus, 45: 101). It should be noted that Freeman’s was torn down to make way for the Rackham School of Graduate Studies (The Michigan Alumnus, 45: 101). It is clear already that residents and administrative faculty did not always see eye to eye. While the University purchased the home in 1914 to serve as housing for nurses, hospital ward helpers and female students, it was torn down in 1938 to make way for the now present School of Dentistry on the northeast boundary of the original campus, becoming, as the maligned author notes, yet “another Campus landmark [that is] just a memory,” (The Michigan Alumnus, 45: 101).
 
@@ -28,27 +28,28 @@ By the last decade of the nineteenth century, it is clear that the University is
 
 In the map above, from 1890, the University has acquired or constructed many buildings. One building, Tappan School, former elementary school that was condemned as a fire hazard by the state fire inspector in 1922, was purchased by the University that same year and became present day East Hall, seen below (‘Tappan School’).
 
- {% include figure.html class="img-right" src="tappan-school-diag.jpg" %}
+ {% include figure.html class="img-right" src="/images/tappan-school-diag.jpg" %}
 
 Further development on the Diag included the Heating Plant (1883) and the ‘Boiler House’ (1894), built to provide heating for rapidly increasing number of buildings on campus (‘1883 Heating Plant and 1894 Boiler House’). Another plant built on Washington Street in 1911 rendered it no longer needed. The latter unsightly smokestack was disliked by faculty for its aesthetics in the midst of the green space Diag (‘1883 Heating Plant and 1894 Boiler House’).
 
- {% include figure.html class="img-right" src="smokestack.jpg" %}
+ {% include figure.html class="img-right" src="/images/smokestack.jpg" %}
 
 Mortimer Cooley, Dean of Engineering was quoted to have said “I thought if I could make the boiler house as ugly as possible, and fix the guy ropes so some of the professors would get their heads bumped, I might get some help. Suffice to say, the following year I was authorized to make plans for the present boiler house in the old ‘Cat Hole’.” (Scientific Blacksmith, p. 82). The space was subsequently converted into an engineering lab and later an ROTC building in 1925, being used until 1942 (‘1883 Heating Plant and 1894 Boiler House’).
 
 The first map of the new century (1904) shows even more development eastward.
 
- {% include figure.html class="img-right" src="1904-map.jpg" %}
+ {% include figure.html class="img-right" src="/images/1904-map.jpg" %}
 
 Notable additions include a number of medical buildings to the northeast (23 on map)—a homeopathic hospital, Palmer Ward & Nurses Residence, an Allopathy Hospital, an Ophthalmology & Otology facility and a Psychopathic Ward—the University ‘Detroit Observatory’ (1854) and its adjacent student observatory and residence (24 on map), the Waterman Gymnasium (1894) (10 on map) which was used for a variety of student activities such as exercise classes, class registration, a dance hall, a space for fundraising banquets and a space for barrack-like training for WWI soldiers (‘The Detroit Observatory’; Crawford, 1976; ‘Waterman Gymnasiums’).
 
-{% include figure.html class="img-right" src="detroit-observatory.jpg" %}
- 
-{% include figure.html class="img-right" src="waterman1.jpg" %}
-  
-{% include figure.html class="img-right" src="waterman2.jpg" %}
 
-{% include figure.html class="img-right" src="waterman3.jpg" %}
+{% include figure.html class="img-center" src="/images/detroit-observatory.jpg" %}
+ 
+{% include figure.html class="img-right" src="/images/waterman1.jpg" %}
+  
+{% include figure.html class="img-right" src="/images/waterman2.jpg" %}
+
+{% include figure.html class="img-right" src="/images/waterman3.jpg" %}
 
 From top: Sketch of Detroit Observatory plan; exterior of Waterman Gymnasium (top); female students participate in exercise classes (middle); a ‘J-Hop’ dance participants pose in the Block M formation (bottom)
 
@@ -59,15 +60,15 @@ Another significant addition was the ‘New Engineering Building’ (1903), rena
 
 The Arch was and still is a campus landmark, with growing lore attached to it and activities that occur near it.
 
-{% include figure.html class="img-right" src="arch-1.jpg" %}
+{% include figure.html class="img-right" src="/images/arch-1.jpg" %}
 
-{% include figure.html class="img-right" src="arch-2.jpg" %}
+{% include figure.html class="img-right" src="/images/arch-2.jpg" %}
 
-{% include figure.html class="img-right" src="arch-3.jpg" %}
+{% include figure.html class="img-right" src="/images/arch-3.jpg" %}
 
-{% include figure.html class="img-right" src="arch-4.jpg" %}
+{% include figure.html class="img-right" src="/images/arch-4.jpg" %}
 
-{% include figure.html class="img-right" src="arch-5.jpg" %}
+{% include figure.html class="img-right" src="/images/arch-5.jpg" %}
 
 Top: View of Arch from southwest (top); view of Arch from northeast (second from top); students walk through ‘The Arch—A Symbol of The College of Engineering’ (second from bottom); view of Diag from Engineering Arch; the Engineering Arch today.
 
