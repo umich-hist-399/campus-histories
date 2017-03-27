@@ -10,7 +10,7 @@ date: 2017-03-14
 - [UM Expansion East](essays/um-expansion-east)
 - [Social Training](essays/social-training)
 - [State Street Suffrage](essays/state-street-suffrage)
-- [Evolution of State Street](/summaries/evolution-of-state-street)
+- [Evolution of State Street](summaries/evolution-of-state-street)
 - Acquisition of public schools
 - Dorms and Boarding Houses
 - WWII and campus planning
@@ -18,12 +18,12 @@ date: 2017-03-14
 
 ## Buildings
 - [Law Quad](essays/law-quad)
-- [Hatcher Library](/blurbs/hatcher-library)
-- [President's House](/blurbs/presidents-house)
+- [Hatcher Library](blurbs/hatcher-library)
+- [President's House](blurbs/presidents-house)
 - [C.C. Little](essays/cclittle)
-- [Perry Building](/summaries/perrybuilding)
-- [Waterman Gymnasium](/summaries/watermangymnasium)
-- [Winchell House](/summaries/winchell-house)
+- [Perry Building](summaries/perrybuilding)
+- [Waterman Gymnasium](summaries/watermangymnasium)
+- [Winchell House](summaries/winchell-house)
 - Detroit Observatory
 - University Hall
 - Sports stadiums
@@ -31,7 +31,7 @@ date: 2017-03-14
 ## Spaces
 - [Ingalls Mall](essays/ingalls-mall)
 - [The Diag](essays/diag)
-- [Zoo](/blurbs/zoo)
+- [Zoo](blurbs/zoo)
 - Palmer field
 - Original East Campus
 - Original North Campus
