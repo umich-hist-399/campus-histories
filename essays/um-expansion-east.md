@@ -10,7 +10,7 @@ This year, the University of Michigan celebrates its Bicentennial; the 200th ann
 
 On a donation by the Ann Arbor Land Company, the University consisted of four homes for faculty and one building that operated as a classroom and dormitory. The surrounding area, what is known today as the ‘Diag’, lay undeveloped with grazing cows (“UM History”). This iteration did not remain long; soon the University embarked on what would become almost 200 years of expansion in terms of physical and academic inquiry and innovation (“UM History”). The following essay focuses on the University’s expansion east. As Don Callard of The Ann Arbor Observer notes, “nothing expands like a university,” (Callard 2009).
 
-{% include figure.html class="img-right" src="/images/maps1.jpg" caption="At left: Map of Ann Arbor (1854); at right: Map of Ann Arbor (1864)" %}
+{% include figure.html class="img-center-full" src="/images/maps1.jpg" caption="At left: Map of Ann Arbor (1854); at right: Map of Ann Arbor (1864)" %}
 
 In an early city map from 1854, the University, designated as ‘Michigan State University’ reveals the first building on the ‘East Side’ of the Ann Arbor campus: a medical building built in 1850 on a road called ‘University Square East’; the nomenclature of the street name is significant—over the years, the streets on the eastern boundary of campus have taken on a number of different names. On a map made 10 years later, the designer indicates that the original medical building now features an addition, a laboratory, and is referred to as ‘Medical College.’ On this map, the eastern street is not named. Despite this, we can see the emergence of the present-day Church Street and the now-defunct College Street. College Street, along with many other streets such as Haven Avenue and Belser Street, have now become walkways and sidewalks connecting the campus (Callard 2009).
 
@@ -25,11 +25,11 @@ Revered University of Michigan Football Coach Fielding Yost even kept a ‘train
 
 By the last decade of the nineteenth century, it is clear that the University is set on expanding its campus to accommodate the interests of its students and faculty, what Perry and Weiwel (2005) would term “internal logic.”
 
- {% include figure.html class="img-right" src="/images/1890-map-blue-highlighted.jpg" %}
+ {% include figure.html class="img-center-full" src="/images/1890-map-blue-highlighted.jpg" %}
 
 In the map above, from 1890, the University has acquired or constructed many buildings. One building, Tappan School, former elementary school that was condemned as a fire hazard by the state fire inspector in 1922, was purchased by the University that same year and became present day East Hall, seen below (‘Tappan School’).
 
- {% include figure.html class="img-right" src="/images/tappan-school-diag.jpg" %}
+ {% include figure.html class="img-center-full" src="/images/tappan-school-diag.jpg" %}
 
 Further development on the Diag included the Heating Plant (1883) and the ‘Boiler House’ (1894), built to provide heating for rapidly increasing number of buildings on campus (‘1883 Heating Plant and 1894 Boiler House’). Another plant built on Washington Street in 1911 rendered it no longer needed. The latter unsightly smokestack was disliked by faculty for its aesthetics in the midst of the green space Diag (‘1883 Heating Plant and 1894 Boiler House’).
 
@@ -39,18 +39,18 @@ Mortimer Cooley, Dean of Engineering was quoted to have said “I thought if I c
 
 The first map of the new century (1904) shows even more development eastward.
 
- {% include figure.html class="img-right" src="/images/1904-map.jpg" %}
+ {% include figure.html class="img-center-full" src="/images/1904-map.jpg" %}
 
 Notable additions include a number of medical buildings to the northeast (23 on map)—a homeopathic hospital, Palmer Ward & Nurses Residence, an Allopathy Hospital, an Ophthalmology & Otology facility and a Psychopathic Ward—the University ‘Detroit Observatory’ (1854) and its adjacent student observatory and residence (24 on map), the Waterman Gymnasium (1894) (10 on map) which was used for a variety of student activities such as exercise classes, class registration, a dance hall, a space for fundraising banquets and a space for barrack-like training for WWI soldiers (‘The Detroit Observatory’; Crawford, 1976; ‘Waterman Gymnasiums’).
 
 
 {% include figure.html class="img-center" src="/images/detroit-observatory.jpg" %}
  
-{% include figure.html class="img-right" src="/images/waterman1.jpg" %}
+{% include figure.html class="img-center" src="/images/waterman1.jpg" %}
   
-{% include figure.html class="img-right" src="/images/waterman2.jpg" %}
+{% include figure.html class="img-center" src="/images/waterman2.jpg" %}
 
-{% include figure.html class="img-right" src="/images/waterman3.jpg" %}
+{% include figure.html class="img-center" src="/images/waterman3.jpg" %}
 
 From top: Sketch of Detroit Observatory plan; exterior of Waterman Gymnasium (top); female students participate in exercise classes (middle); a ‘J-Hop’ dance participants pose in the Block M formation (bottom)
 
