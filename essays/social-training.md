@@ -63,18 +63,18 @@ Upon learning the trajectory of local boarding houses and University development
 Sources:
 
 “A Chronology of University of Michigan Buildings, 1840-1999.” Bentley Historical Library. 
-http://bentley.umich.edu/legacy-support/campus_tour/chronology.php
+[http://bentley.umich.edu/legacy-support/campus_tour/chronology.php](http://bentley.umich.edu/legacy-support/campus_tour/chronology.php)
 
 “Prettyman’s Boarding House.” University of Michigan Millennium Project.
-http://um2017.org/Ann-Arbor/Ann_Arbor_Maps/Prettymans_Boarding_Club.html 
+[http://um2017.org/Ann-Arbor/Ann_Arbor_Maps/Prettymans_Boarding_Club.html](http://um2017.org/Ann-Arbor/Ann_Arbor_Maps/Prettymans_Boarding_Club.html) 
 
 “Mosher-Jordan Halls (University of Michigan) photograph series- 1920s-1990s.” Bentley Historical Library.
 
 “Tastes of Ann Arbor: a student's guide to dining in Ann Arbor.” (2000).
 
 “Famous Campus Landmark Disappears.” The Michigan Alumnus, vol. 45 (November 12, 1938),  pp. 101.
-Accessed via: http://um2017.org/Ann-Arbor/Ann_Arbor_Maps/Prettymans_Boarding_Club.html
+Accessed via: [http://um2017.org/Ann-Arbor/Ann_Arbor_Maps/Prettymans_Boarding_Club.html](http://um2017.org/Ann-Arbor/Ann_Arbor_Maps/Prettymans_Boarding_Club.html)
 
-https://books.google.com/books?id=ACNYAAAAMAAJ&pg=PA101&lpg=PA101&dq=Freeman%27s+eating+club+ann+arbor&source=bl&ots=LBT6kgTQjM&sig=ev98BkrWpwIzCzIpITfEZjsq05s&hl=en&sa=X&ved=0ahUKEwimjK6vq_zRAhXq5YMKHfzxClgQ6AEIITAD#v=onepage&q=Freeman's%20eating%20club%20ann%20arbor&f=false 
+
 
 
