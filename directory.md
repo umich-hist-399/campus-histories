@@ -7,9 +7,9 @@ date: 2017-03-14
 # Directory
 
 ## Topics
-- [UM Expansion East](/essays/um-expansion-east)
-- [Social Training](/essays/social-training)
-- [State Street Suffrage](/essays/state-street-suffrage)
+- [UM Expansion East](essays/um-expansion-east)
+- [Social Training](essays/social-training)
+- [State Street Suffrage](essays/state-street-suffrage)
 - [Evolution of State Street](/summaries/evolution-of-state-street)
 - Acquisition of public schools
 - Dorms and Boarding Houses
@@ -17,10 +17,10 @@ date: 2017-03-14
 - International Students and Diversity
 
 ## Buildings
-- [Law Quad](/essays/law-quad)
+- [Law Quad](essays/law-quad)
 - [Hatcher Library](/blurbs/hatcher-library)
 - [President's House](/blurbs/presidents-house)
-- [C.C. Little](/essays/cclittle)
+- [C.C. Little](essays/cclittle)
 - [Perry Building](/summaries/perrybuilding)
 - [Waterman Gymnasium](/summaries/watermangymnasium)
 - [Winchell House](/summaries/winchell-house)
@@ -29,8 +29,8 @@ date: 2017-03-14
 - Sports stadiums
 
 ## Spaces
-- [Ingalls Mall](/essays/ingalls-mall)
-- [The Diag](/essays/diag)
+- [Ingalls Mall](essays/ingalls-mall)
+- [The Diag](essays/diag)
 - [Zoo](/blurbs/zoo)
 - Palmer field
 - Original East Campus
