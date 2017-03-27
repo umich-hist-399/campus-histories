@@ -74,32 +74,31 @@ Top: View of Arch from southwest (top); view of Arch from northeast (second from
 Sources:
 
 - ‘‘1883 Heating Plant and 1894 Boiler House’
-http://umhistory.dc.umich.edu/mort/original/1900/18%20-Boiler%20House%20(1894)/index.html
+[http://umhistory.dc.umich.edu/mort/original/1900/18%20-Boiler%20House%20(1894)/index.html](http://umhistory.dc.umich.edu/mort/original/1900/18%20-Boiler%20House%20(1894)/index.html)
 
 - Callard, Don. The Lost Street Names of Ann Arbor. The Ann Arbor Observer, July 24, 2009.
-http://aaobserver.aadl.org/aaobserver/19282
+[http://aaobserver.aadl.org/aaobserver/19282](http://aaobserver.aadl.org/aaobserver/19282)
 
 - Crawford, Pamela. (1976). Detroit Observatory : architectural design project. University of Michigan, College of Architecture and Urban Planning.
 
 - ‘New Engineering Building’
-http://umhistory.dc.umich.edu/mort/original/1925/15%20West%20Engineering%20Building/index.html
+[http://umhistory.dc.umich.edu/mort/original/1925/15%20West%20Engineering%20Building/index.html](http://umhistory.dc.umich.edu/mort/original/1925/15%20West%20Engineering%20Building/index.html)
 
 - Perry, David, and Wim Wiewel. (2005) From campus to city: the university as developer. New York: Routledge.
 
 
 - “Famous Campus Landmark Disappears.” The Michigan Alumnus, vol. 45 (November 12, 1938),  pp. 101
-Accessed via: http://um2017.org/Ann-Arbor/Ann_Arbor_Maps/Prettymans_Boarding_Club.html
+Accessed via: [http://um2017.org/Ann-Arbor/Ann_Arbor_Maps/Prettymans_Boarding_Club.html](http://um2017.org/Ann-Arbor/Ann_Arbor_Maps/Prettymans_Boarding_Club.html)
 
-https://books.google.com/books?id=ACNYAAAAMAAJ&pg=PA101&lpg=PA101&dq=Freeman%27s+eating+club+ann+arbor&source=bl&ots=LBT6kgTQjM&sig=ev98BkrWpwIzCzIpITfEZjsq05s&hl=en&sa=X&ved=0ahUKEwimjK6vq_zRAhXq5YMKHfzxClgQ6AEIITAD#v=onepage&q=Freeman's%20eating%20club%20ann%20arbor&f=false
 
 - ‘Tappan  School’
-	http://um2017.org/Ann-Arbor/Ann_Arbor_Maps/Tappan_School.html
+	[http://um2017.org/Ann-Arbor/Ann_Arbor_Maps/Tappan_School.html](http://um2017.org/Ann-Arbor/Ann_Arbor_Maps/Tappan_School.html)
 
 - ‘The Detroit Observatory’
-http://umhistory.dc.umich.edu/mort/central/Observatory%20Street/Observatory/index.html
+[http://umhistory.dc.umich.edu/mort/central/Observatory%20Street/Observatory/index.html](http://umhistory.dc.umich.edu/mort/central/Observatory%20Street/Observatory/index.html)
 
 - ‘Waterman Gymnasiums’
-http://umhistory.dc.umich.edu/mort/original/1900/19%20Waterman%20Gymnasium/index.html
+[http://umhistory.dc.umich.edu/mort/original/1900/19%20Waterman%20Gymnasium/index.html](http://umhistory.dc.umich.edu/mort/original/1900/19%20Waterman%20Gymnasium/index.html)
 
 - Wineberg, Susan. The Lost University - The Forgotten Campus of 1900. The Ann Arbor Observer, May 27, 2011.
-http://aaobserver.aadl.org/aaobserver/40615
+[http://aaobserver.aadl.org/aaobserver/40615](http://aaobserver.aadl.org/aaobserver/40615)
