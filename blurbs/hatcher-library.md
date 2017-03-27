@@ -1,5 +1,6 @@
 ---
 ---
+
 # Harlan Hatcher Library
 
  Out of the six buildings included in the University’s initial building plan, a library was not one of them.  Instead, space for a library was made in the University Main building. Before a library was made, the university moved the books around to wherever it is most convenient, and often times the reading areas were crowded. In 1863, the library was moved to the law building and stayed there for 20 years until it was asked to move out of concern for lack of space for the Law department.
