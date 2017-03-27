@@ -42,7 +42,7 @@ The Diag, as I have said, is more than just a walkway, and this is because it en
  {% include figure.html class="img-right" src="/images/vietnamprotest1969.jpg" %}
 This first image shouldn’t be entirely surprising; it comes from 1969, and is an anti-Vietnam War protest. Collective American memory has it that the 1960s were some of the more liberal years of the country, and seeing as how a document as radical as _The Port Huron Statement_ has its origins in this very University, it follows that there would be some radical action here. 
 
- {% include figure.html class="img-right" src="/images/southafricaprotest1985.jpg" %}
+ {% include figure.html class="img-center" src="/images/southafricaprotest1985.jpg" %}
 
 But the Diag provides proof that the University of Michigan has not stopped fighting for the greater good; this photo on the right shows “campers” seeking U of M divestment of stock with companies that have ties to South Africa. This comes from 1985, the Reagan era, which is collectively remembered as a more conservative. True that this is a sort of “Baby Boomer” narrative: liberal, free 1960s eventually gives way to corporate 1980s. Yet this narrative may not necessarily be true.
 
