@@ -4,10 +4,10 @@ title: Suffragists on State Street
 date: 2017
 ---
 {% include jumbotron.html
-title="Suffragists on State Street"
-image="images/women-1915.png"
-text=" In 1894, Susan B. Anthony held a lecture on Women's Suffrage in Newberry Hall, and thus The Ann Arbor Equal Suffrage Association was born. "
-%}
+title="Another One"
+image="images/perry-building.jpg"
+text="In 1894, Susan B. Anthony held a lecture on Women's Suffrage in Newberry Hall, and thus The Ann Arbor Equal Suffrage Association was born." %}
+
 
 The university of Michigan has long been regarded as a place that drives social movement and change. Evidence of students and faculty fighting for both justice and their own beliefs can be found in many stages of the university’s past. For many, when they think of these pivotal events, they imagine the spaces of The Diag, or Ingalls Mall. What is often forgotten is the space of State Street, though many a times students and faculty have marched down it in protest or support of this or that cause. There have been several impactful speeches delivered to large crowds on the steps of the Union and Angel Hall, and there have been several rallies and protests that march their way down the street as well. For the Women’s Suffrage Movement however, this is not the case. State Street was the space in which the Women’s Suffrage Movement was most active at the University of Michigan, as well as its birthplace.
 
