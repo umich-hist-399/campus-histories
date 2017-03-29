@@ -24,7 +24,7 @@ date: 2017-3-22
 - The University bought the Perry building in 1967
 - The school moved operations to a location on the outer reaches of Ann Arbor which it credits to increasing its reach for parents from outside Ann Arbor.
 
-{% include figure.html class="img-right" src="perry-building.jpg" %}
+{% include figure.html class="img-right" src="/images/perry-building.jpg" %}
 
 Sources:
 
