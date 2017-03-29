@@ -11,7 +11,7 @@ It is interesting to consider, then, the Diag before pavement. Indeed, as we’l
 
 ## Mapping the Diag
 
- {% include figure.html class="img-center" width="50%" src="/images/campus1854.png" %}
+ {% include figure.html class="img-right" width="50%" src="/images/campus1854.png" %}
 
 The first map I want to draw attention to is this one, drawn from the Ann Arbor, Michigan Historic Maps project. This is the University of Michigan campus in 1854. As you can see, there is no “Diag” to speak of; the University is striving for a pastoral ideal. There appear to be some paths that are mostly for the benefit of professors, as they connect their houses to each other and the main University building. The building in the middle of the “Botanical Gardens” is the old Medicine Building. It’s interesting to see just how far the University has come in this field; in 1854, there wasn’t even a path to this building, and now the campus sports a famously large hospital and medical campus. This map is a good place to start; there isn’t much there, but what is present forms the backbone of the future central campus.
 
