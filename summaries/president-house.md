@@ -8,7 +8,7 @@ date: 2017
 
 -The initial building plan of the University of Michigan called for two buildings for class and student use, and four buildings to house professors and other university faculty.
 
-{% include figure.html class="img-right" caption="Black and white picture of the President's house taken in the 1950's" src="/images/professor-bw.jpg" %}
+{% include figure.html class="img-right" width="33%" caption="Black and white picture of the President's house taken in the 1950's" src="/images/professor-bw.jpg" %}
 
 -Henry Phillip Tappan was made the first president of the University of Michigan in 1852, and he moved into the southwest house with his family. After he moved into, the name remained, The President’s House. During his presidency, a third floor was added to the house.
 
@@ -18,7 +18,7 @@ date: 2017
 
 -James Angell, then the president of University of Vermont, became the next president of the University but only after long negotiations. Many of the concerns that Angell had were with the President’s house which did not live up to the standards that his family was accustomed to.
 
-{% include figure.html class="img-right" caption="Sepia picture of the President's House taken in 1887" src="/images/professor-sep.jpg" %}
+{% include figure.html class="img-right" width="33% caption="Sepia picture of the President's House taken in 1887" src="/images/professor-sep.jpg" %}
 
 -During Angell’s 39 years of presidency, many additions were made to the house including a west wing that added a library and more bedrooms.  Also during this time, the house was wired for electricity. Angell eventually resigned in 1909 when the regents accepted his resignation 4 years after it was submitted, and he continued to live in the house until his death in 1916.
 
@@ -27,3 +27,5 @@ date: 2017
 -Marion LeRoy Burton from the University of Minnesota was selected to be Hutchin’s successor after his retirement. President Burton requested that renovations be made to the house before his family moved in, so a sun parlor was added to the east side and the back porch was made into an enclosed dining area.
 
 -The President’s House is still used today to house the University President and his family. The originally built part of the President’s House stands as one of the oldest buildings on campus.
+
+# Sources
