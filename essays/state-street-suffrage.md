@@ -1,10 +1,13 @@
 ---
-layout: single-col
+layout: singlecol
 title: Suffragists on State Street
 date: 2017
 ---
-
-# Suffragists on State Street
+{% include jumbotron.html
+title="Suffragists on State Street"
+image="images/women-1915.png"
+text="In 1894, Susan B. Anthony held a lecture on Women's Suffrage in Newberry Hall, and thus The Ann Arbor Equal Suffrage Association was born. "
+%}
 
 The university of Michigan has long been regarded as a place that drives social movement and change. Evidence of students and faculty fighting for both justice and their own beliefs can be found in many stages of the university’s past. For many, when they think of these pivotal events, they imagine the spaces of The Diag, or Ingalls Mall. What is often forgotten is the space of State Street, though many a times students and faculty have marched down it in protest or support of this or that cause. There have been several impactful speeches delivered to large crowds on the steps of the Union and Angel Hall, and there have been several rallies and protests that march their way down the street as well. For the Women’s Suffrage Movement however, this is not the case. State Street was the space in which the Women’s Suffrage Movement was most active at the University of Michigan, as well as its birthplace.
 
@@ -12,7 +15,7 @@ The university of Michigan has long been regarded as a place that drives social 
 
 ## State Street as a Space for Women’s Suffrage
 
-In the late 1800’s, the Women’s Suffrage Movement began to gain momentum in Ann Arbor and across the state of Michigan. Madelon L. Stockwell became the first woman to attend the University of Michigan in 1870. By 1910, there were more than 1,000 women enrolled in the university ("For Michigan Women Everywhere", 1924 ). With more educational and career options available to them, women on campus became more and more active in fighting for equal rights. The founding of the first women’s suffrage group happened right on State Street, when the Michigan State Equal Suffrage Association held a lecture. “It convened in Newberry Hall, January 15-17, with a large attendance and resulted in the organization of the Ann Arbor E. S. A., with one hundred members” (Anthony and Stanton 1902, 758). The lecturer that day just happened to be Susan B. Anthony. Thus in 1894, The Ann Arbor Equal Suffrage Association was formed with the goal of gaining the right for women to vote.
+In the late 1800’s, the Women’s Suffrage Movement began to gain momentum in Ann Arbor and across the state of Michigan. Madelon L. Stockwell became the first woman to attend the University of Michigan in 1870. By 1910, there were more than 1,000 women enrolled in the university ("For Michigan Women Everywhere", 1924 ). With more educational and career options available to them, women on campus became more and more active in fighting for equal rights. The founding of the first women’s suffrage group in Ann Arbor happened right on State Street, when the Michigan State Equal Suffrage Association held a lecture. “It convened in Newberry Hall, January 15-17, with a large attendance and resulted in the organization of the Ann Arbor E. S. A., with one hundred members” (Anthony and Stanton 1902, 758). The lecturer that day just happened to be Susan B. Anthony. Thus in 1894, The Ann Arbor Equal Suffrage Association was formed with the goal of gaining the right for women to vote.
 
 In respect to the original forty-acre campus that still existed at the time, State Street had the heaviest traffic of both pedestrians and automobiles because of its shops and restaurants. People would park their flashy automobiles along the street (in part to show off), and these automobiles became an unlikely soap box of sorts for the suffragists. Small groups of women and men would gather in the street to listen to the suffragists announce upcoming speakers, or make speeches themselves. Many speeches were reportedly delivered along State Street from the running boards of vehicles (Behnke 1910-1913, F3-F7; F11-F13).
 
