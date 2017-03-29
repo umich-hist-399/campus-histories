@@ -18,7 +18,7 @@ date: 2017
 
 -James Angell, then the president of University of Vermont, became the next president of the University but only after long negotiations. Many of the concerns that Angell had were with the President’s house which did not live up to the standards that his family was accustomed to.
 
-{% include figure.html class="img-right" width="33% caption="Sepia picture of the President's House taken in 1887" src="/images/professor-sep.jpg" %}
+{% include figure.html class="img-right" width="33%" caption="Sepia picture of the President's House taken in 1887" src="/images/professor-sep.jpg" %}
 
 -During Angell’s 39 years of presidency, many additions were made to the house including a west wing that added a library and more bedrooms.  Also during this time, the house was wired for electricity. Angell eventually resigned in 1909 when the regents accepted his resignation 4 years after it was submitted, and he continued to live in the house until his death in 1916.
 
