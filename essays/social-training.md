@@ -29,7 +29,7 @@ It was to the chagrin of many alumni when these boarding houses closed. In the c
 
 It should be noted that many female students also took up residence with local Ann Arbor families during their time of study.
 
-{% include figure.html class="img-center" width="33%" src="/images/boarding-house-female-resident.jpg" caption="A female University student at a boarding house. Image courtesy of The Bentley Library %}
+{% include figure.html class="img-center" width="33%" src="/images/boarding-house-female-resident.jpg" caption="A female University student at a boarding house. Image courtesy of The Bentley Library" %}
 
 ## Beginnings of University-sponsored dormitories for women
 
