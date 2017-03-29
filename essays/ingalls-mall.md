@@ -2,8 +2,8 @@
 layout: single-col
 title: Ingalls Mall
 date: 2017-02-19
-
-# Ingalls Mall---
+---
+# Ingalls Mall
 
 Thus far in my historical exploration of the history of the University of Michigan Central Campus I have focused on the original forty-acre plot acquired by the University of Michigan downtown Ann Arbor in 1837. In this essay, however, I will focus not on the central forty, but rather on the northern continuation of the Ingalls Mall that stretches between North University Avenue and East Huron Street and the buildings surrounding it.
 
