@@ -7,7 +7,7 @@ From 1929 until 1962, students could visit the campus zoo on the way to class. T
 
 {% include figure.html class="img-center" width="100%" src="/images/zoo.jpg" %}
 
-## Bibliography
+## Sources
 
 - Animal House (Campus Zoo) and Enclosure Covered in Snow (Women’s Athletic Building Visible in Left Background).” Bentley Image Bank, Bentley Historical Library. Accessed March 20, 2017. http://quod.lib.umich.edu/b/bhl/x-hs12966/hs12966.
 
