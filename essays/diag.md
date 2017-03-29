@@ -17,7 +17,7 @@ The first map I want to draw attention to is this one, drawn from the Ann Arbor,
 
  {% include figure.html class="img-center" src="/images/campus1866.png" %}
 
- {% include figure.html class="img-center" src="/images/campus1864.png" %}
+ {% include figure.html class="img-center" width="50%" src="/images/campus1864.png" %}
 
 These next maps are from the Historic Maps Project as well; the rightmost being 10 years later than the first, 1864, and the leftmost from 1866. There aren’t any discernible differences between them, but the 1866 map is useful for visualizing the campus around this time. The 1864 map can be contrasted with the 1854 map in striking ways. There is more of a focus on the Medical Campus now; and indeed, we see the first markings of the modern Diag. It comes down from the northwest, going straight for the Medical College. So then, the Diag began as a way to quickly get to the Medical College, heretofore a bit of an isolated area.
 
