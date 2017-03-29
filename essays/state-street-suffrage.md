@@ -4,7 +4,7 @@ title: Suffragists on State Street
 date: 2017
 ---
 {% include jumbotron.html
-title="Another One"
+title="State Sreet Suffragists"
 image="images/women-1915.png"
 text="In 1894, Susan B. Anthony held a lecture on Women's Suffrage in Newberry Hall, and thus The Ann Arbor Equal Suffrage Association was born." %}
 
