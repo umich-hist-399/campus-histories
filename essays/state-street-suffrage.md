@@ -41,7 +41,7 @@ Though State Street is often thought of as a male space in the early 1900s with 
 
 {% include figure.html class="img-center" width="100%" src="/images/parade.jpg" %}
 
-### Bibliography
+## Sources
 
 - Behnke, Zoe Ann Bliss. “Woman Suffrage Movement in Washtenaw County, 1910-1913.
 
