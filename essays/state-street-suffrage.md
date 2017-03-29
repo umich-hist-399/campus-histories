@@ -8,20 +8,19 @@ title="State Sreet Suffragists"
 image="images/women-1915.png"
 text="In 1894, Susan B. Anthony held a lecture on Women's Suffrage in Newberry Hall, and thus The Ann Arbor Equal Suffrage Association was born." %}
 
-
 The university of Michigan has long been regarded as a place that drives social movement and change. Evidence of students and faculty fighting for both justice and their own beliefs can be found in many stages of the university’s past. For many, when they think of these pivotal events, they imagine the spaces of The Diag, or Ingalls Mall. What is often forgotten is the space of State Street, though many a times students and faculty have marched down it in protest or support of this or that cause. There have been several impactful speeches delivered to large crowds on the steps of the Union and Angel Hall, and there have been several rallies and protests that march their way down the street as well. For the Women’s Suffrage Movement however, this is not the case. State Street was the space in which the Women’s Suffrage Movement was most active at the University of Michigan, as well as its birthplace.
 
-{% include figure.html class="img-center" width="100%" src="/images/statestreet1920.jpg" %}
+{% include figure.html class="img-center-full" src="/images/statestreet1920.jpg" %}
 
 ## State Street as a Space for Women’s Suffrage
 
-In the late 1800’s, the Women’s Suffrage Movement began to gain momentum in Ann Arbor and across the state of Michigan. Madelon L. Stockwell became the first woman to attend the University of Michigan in 1870. By 1910, there were more than 1,000 women enrolled in the university ("For Michigan Women Everywhere", 1924 ). With more educational and career options available to them, women on campus became more and more active in fighting for equal rights. The founding of the first women’s suffrage group in Ann Arbor happened right on State Street, when the Michigan State Equal Suffrage Association held a lecture. “It convened in Newberry Hall, January 15-17, with a large attendance and resulted in the organization of the Ann Arbor E. S. A., with one hundred members” (Anthony and Stanton 1902, 758). The lecturer that day just happened to be Susan B. Anthony. Thus in 1894, The Ann Arbor Equal Suffrage Association was formed with the goal of gaining the right for women to vote.
+In the late 1800’s, the Women’s Suffrage Movement began to gain momentum in Ann Arbor and across the state of Michigan. Madelon L. Stockwell became the first woman to attend the University of Michigan in 1870. By 1910, there were more than 1,000 women enrolled in the university ("For Michigan Women Everywhere", 1924). With more educational and career options available to them, women on campus became more and more active in fighting for equal rights. The founding of the first women’s suffrage group in Ann Arbor happened right on State Street, when the Michigan State Equal Suffrage Association held a lecture. “_It convened in Newberry Hall, January 15-17, with a large attendance and resulted in the organization of the Ann Arbor E. S. A., with one hundred members_” (Anthony and Stanton 1902, 758). The lecturer that day just happened to be Susan B. Anthony. Thus in 1894, The Ann Arbor Equal Suffrage Association was formed with the goal of gaining the right for women to vote.
 
 In respect to the original forty-acre campus that still existed at the time, State Street had the heaviest traffic of both pedestrians and automobiles because of its shops and restaurants. People would park their flashy automobiles along the street (in part to show off), and these automobiles became an unlikely soap box of sorts for the suffragists. Small groups of women and men would gather in the street to listen to the suffragists announce upcoming speakers, or make speeches themselves. Many speeches were reportedly delivered along State Street from the running boards of vehicles (Behnke 1910-1913, F3-F7; F11-F13).
 
-When prominent Suffragists were visiting to speak, members of The Ann Arbor Equal Suffrage Association would distribute window cards to businesses primarily along State Street to advertise the upcoming event. A news article from October 4th, 1912 states that out of all the businessmen asked to display the window cards, “only two made violent objection to equal suffrage, and no one refused to have a card put in his window” (Behnke 1912, F3). This suggests that the University of Michigan and Ann Arbor were generally on board with women’s suffrage in 1912, which was eight years before the 19th Amendment was passed. One could imply that the University of Michigan was more progressive than many other places in the United States at the time.
+When prominent Suffragists were visiting to speak, members of The Ann Arbor Equal Suffrage Association would distribute window cards to businesses primarily along State Street to advertise the upcoming event. A news article from October 4th, 1912 states that out of all the businessmen asked to display the window cards, “**only two made violent objection to equal suffrage, and no one refused to have a card put in his window**” (Behnke 1912, F3). This suggests that the University of Michigan and Ann Arbor were generally on board with women’s suffrage in 1912, which was eight years before the 19th Amendment was passed. One could imply that the University of Michigan was more progressive than many other places in the United States at the time.
 
-{% include figure.html class="img-center" width="100%" src="/images/suffragiststatement.jpg" %}
+{% include figure.html class="img-center-full" src="/images/suffragiststatement.jpg" %}
 
 ## Newberry Hall
 
@@ -29,7 +28,7 @@ Among the members of The Ann Arbor Equal Suffrage Association were many many stu
 
 With a new place to meet, the Young Women's Christian Association began to host a multitude of speakers and events that aligned with their interests. At the time, temperance was a hot ticket issue for Christians, and many supporters spoke to the young women at Newberry Hall (Behnke 1910-1913, F13). Whereas all of the members of the Young Women's Christian Association could agree on the issue of temperance, they were split on the issue of women’s suffrage. The Ann Arbor Equal Suffrage Association was in fact formed at Newberry hall, but it is evident that not all of the women in the Young Women's Christian Association agreed with the idea of women being allowed to vote.
 
-{% include figure.html class="img-center" width="100%" src="/images/newberryhall.jpg" %}
+{% include figure.html class="img-center-full" src="/images/newberryhall.jpg" %}
 
 ## The Anti-Suffragist’s Space
 
@@ -39,7 +38,7 @@ It is with no surprise that as the years progressed, Newberry Hall stopped holdi
 
 Though State Street is often thought of as a male space in the early 1900s with the proliferation of the Union, it was of great importance to the women at University of Michigan and in Ann Arbor. Now that women have the right to vote, it may seem like the distant past, but what was done on State Street was of great importance. It has been forgotten how important Newberry Hall and State Street were as a place of change for the University, but one can hope that it will be forgotten no longer.
 
-{% include figure.html class="img-center" width="100%" src="/images/parade.jpg" %}
+{% include figure.html class="img-center-full" src="/images/parade.jpg" %}
 
 ### Bibliography
 
