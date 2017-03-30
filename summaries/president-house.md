@@ -28,3 +28,7 @@ date: 2017
 -The President’s House is still used today to house the University President and his family. The originally built part of the President’s House stands as one of the oldest buildings on campus.
 
 # Sources
+
+- "The President's House - 1852." The President's House 1875. N.p., n.d. Web. 19 Mar. 2017.
+- "President's House - 1910-1920." President's House - 1910-1920. N.p., n.d. Web. 19 Mar. 2017.
+- "President's House." A Historical Tour of the University of Michigan Campus. N.p., n.d. Web. 19 Mar. 2017.
