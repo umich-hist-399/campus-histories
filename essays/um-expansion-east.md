@@ -4,7 +4,11 @@ title: Expansion of the University to the East
 date: 2017-3-22
 ---
 
-# Expansion of the University to the East
+{% include jumbotron.html
+title="Expansion of the University to the East"
+image="images/jumbotronimageEAST.jpg"
+text=" Over its two hundred year history, the University has expanded greatly, notably geograpahically to the East as the University's needs grow."
+%}
 
 This year, the University of Michigan celebrates its Bicentennial; the 200th anniversary of its founding. Founded in Detroit, Michigan in 1817, the university moved its operations to Ann Arbor, Michigan twenty years later (“UM History”). While today the University is well-known for its sprawling campus—complete with a Central Campus for primary academic activities, a North Campus for supplemental academic programs such as the College of Engineering and the School of Music, Theatre and Dance, a Medical Campus and a South Campus for Wolverine athletic pursuits—the University was not always as expansive; in fact, in the year of its founding in Ann Arbor, the University originally occupied forty acres of land in the recently incorporated city of Ann Arbor (“UM History”).
 
