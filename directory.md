@@ -24,7 +24,7 @@ date: 2017-03-14
 - [Perry Building](summaries/perrybuilding)
 - [Waterman Gymnasium](summaries/watermangymnasium)
 - [Winchell House](summaries/winchell-house)
-- Detroit Observatory (essays/detroit-observatory)
+- [The Detroit Observatory](essays/detroit-observatory)
 - [The Michigan Union](blurbs/union)
 - [University Hall](summaries/university-hall)
 - Sports stadiums
