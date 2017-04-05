@@ -82,7 +82,7 @@ The Arch was and still is a campus landmark, with growing lore attached to it an
 
 Top: View of Arch from southwest (top); view of Arch from northeast (second from top); students walk through ‘The Arch—A Symbol of The College of Engineering’ (second from bottom); view of Diag from Engineering Arch; the Engineering Arch today.
 
-Sources:
+## Sources:
 
 - ‘‘1883 Heating Plant and 1894 Boiler House’
 [http://umhistory.dc.umich.edu/mort/original/1900/18%20-Boiler%20House%20(1894)/index.html](http://umhistory.dc.umich.edu/mort/original/1900/18%20-Boiler%20House%20(1894)/index.html)
