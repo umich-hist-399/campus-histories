@@ -27,7 +27,7 @@ In the interim years before its demolition, usage of the Waterman Gymnasium decl
 {% include figure.html class="img-left" width="31%" src="/images/waterman3.jpg" %}
 
 
-
+-----
 
 ## Sources:
 
