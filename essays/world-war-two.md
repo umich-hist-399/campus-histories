@@ -15,6 +15,8 @@ The contributions that the University of Michigan made to the war efforts during
 
 Before WWII, Japanese was not a widely taught language in the United States. By 1942, this lack of people who could understand and speak Japanese became a major issue for the United States Army. To solve this problem, the Army Japanese Language School was started at the University in 1943 under the direction of Professor Joseph Yamagiwa (Williams 1995, 10). Thus, on January 5th, 1943, 150 officers arrived on campus to be the first students of the University’s Japanese Language School (Yamagiwa 1946, 9).
 
+{% include figure.html class="img-center" width="100%" caption="Japanese Language Specialists in class at University of Michigan. Image courtesy of Bentley Historical Library. " src="/images/soldies-class.jpg" %}
+
 Soldiers needed to learn the language as soon as possible, so that could fill the many roles their new skill was needed for. To accommodate for this lack of time, courses were structured so that students could become proficient enough in as little as a yeat (Yamagiwa 1946, 181). These accelerated courses were offered to civilian students as well, as a way to promote the language.
 
 Before WWII, language courses at the University of Michigan were offered for the standard 3 credits. With the onset of the Japanese Language School, accelerated courses were offered for 4 to 8 credits (Yamagiwa 1946, 2). This was a popular option during the war, because it allowed students to complete credits faster. Thus, the structure was kept after the end of the war and applied to other languages. This is the first example of accelerated course successfully being offerered at the University.
