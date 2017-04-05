@@ -26,7 +26,7 @@ Hill Auditorium was completed in 1913 and seated 4,300. Its first concert was he
 
 This 1920 map also shows the Michigan Union just southwest of the central forty on the west side of State Street. Though construction on the Union had begun in 1916, the structure was not completed until 1919 due to wartime funding shortages. When the Union opened it was equipped with a dining hall, offices, athletic facilities, a billiards room, a library, a ballroom, a swimming pool, a barber shop, and the famous Union Taproom.
 
-{% include figure.html class="img-right" width="40%" src="/images/winchell-house.gif" caption="Professor Winchell's Octagonal House" %}
+{% include figure.html class="img-left" width="40%" src="/images/winchell-house.gif" caption="Professor Winchell's Octagonal House" %}
 
 Although women were allowed at the union (there was even a ladies’ dining room,) they were not permitted to enter the building through the front doors. In the October 1931 issue of The Michigan Technic, Stephen Atwood remarks upon the custom:
 
