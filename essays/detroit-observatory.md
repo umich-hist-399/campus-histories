@@ -6,7 +6,7 @@ date: 2017-03-05
 
 {% include jumbotron.html title="The Detroit Observatory" image="images/detroit-observatory-jumbotron.jpg" text="Tappan's Legacy" %}
 
-{% include figure.html class="img-right" width="75%" src="/images/1854-observatpry.png" caption="The 1854 Ann Arbor Map showing the newly completed Detroit Observatory" %}
+{% include figure.html class="img-right" width="75%" src="/images/1854-observatory.png" caption="The 1854 Ann Arbor Map showing the newly completed Detroit Observatory" %}
 
 The first of the maps in the University of Michigan Bicentennial Map Collection to include the area now referred to as the Hill Neighborhood is the 1854 Map of Ann Arbor. The Detroit Observatory, the Hill’s oldest building, can be seen separated from central campus by the very large Fletcher Farm. Interestingly shaped hatch-marks on this area of the map seem to resemble a body of water, but in reality must denote elevation. Indeed, the map notes that the elevation of the Detroit Observatory is 190 ft. above the Huron River. The Hill, it seems, was named for the actual topographical description, unlike the similarly named Hill Auditorium, which was named for University of Michigan regent Arthur Hill, whose estate funded its construction.
 
