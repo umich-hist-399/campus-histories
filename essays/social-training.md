@@ -63,7 +63,7 @@ Upon learning the trajectory of local boarding houses and University development
 
 
 
-Sources:
+## Sources:
 
 “A Chronology of University of Michigan Buildings, 1840-1999.” Bentley Historical Library. 
 [http://bentley.umich.edu/legacy-support/campus_tour/chronology.php](http://bentley.umich.edu/legacy-support/campus_tour/chronology.php)
