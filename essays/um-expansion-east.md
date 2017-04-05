@@ -87,6 +87,8 @@ Sources:
 - ‘‘1883 Heating Plant and 1894 Boiler House’
 [http://umhistory.dc.umich.edu/mort/original/1900/18%20-Boiler%20House%20(1894)/index.html](http://umhistory.dc.umich.edu/mort/original/1900/18%20-Boiler%20House%20(1894)/index.html)
 
+- Angell, J. Burrill. (1909). Farewell address of President James Burrill Angell to the undergraduate students of the University of Michigan, Waterman gymnasium, May the twenty-eighth, 1909. [Ann Arbor, Mich.: Ann Arbor Press.
+
 - Callard, Don. The Lost Street Names of Ann Arbor. The Ann Arbor Observer, July 24, 2009.
 [http://aaobserver.aadl.org/aaobserver/19282](http://aaobserver.aadl.org/aaobserver/19282)
 
