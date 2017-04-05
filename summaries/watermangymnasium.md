@@ -20,11 +20,11 @@ Both the Waterman and Barbour Gymnasiums were demolished in 1977 to make way for
 In the interim years before its demolition, usage of the Waterman Gymnasium declined as athletic activities were moved to the South Campus of the University.
 
 
-{% include figure.html class="img-left" width="30%" src="/images/waterman2.jpg" %}
+{% include figure.html class="img-left" width="31%" src="/images/waterman2.jpg" %}
 
-{% include figure.html class="img-left" width="30%" src="/images/waterman1.jpg" %}
+{% include figure.html class="img-left" width="31%" src="/images/waterman1.jpg" %}
 
-{% include figure.html class="img-left" width="30%" src="/images/waterman3.jpg" %}
+{% include figure.html class="img-left" width="31%" src="/images/waterman3.jpg" %}
 
 
 
