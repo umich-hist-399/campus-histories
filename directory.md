@@ -24,15 +24,9 @@ date: 2017-03-14
 - [Perry Building](summaries/perrybuilding)
 - [Waterman Gymnasium](summaries/watermangymnasium)
 - [Winchell House](summaries/winchell-house)
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
 - Detroit Observatory (essays/detroit-observatory)
-=======
->>>>>>> Stashed changes
 - [The Michigan Union](blurbs/union)
 - Detroit Observatory
->>>>>>> origin/master
 - [University Hall](summaries/university-hall)
 - Sports stadiums
 
