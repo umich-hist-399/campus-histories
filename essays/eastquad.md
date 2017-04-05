@@ -21,10 +21,10 @@ The Army groups held their contract agreements with the University until July 1,
 
 In the fall of 1952, Tyler and Prescott became housing for women due to great demand for women’s dorms. The reasoning behind this was that South Quadrangle had just been opened, thus fixing the former housing shortage. This decision perturbed the men of East Quad, “who had just nicely begun to re-establish their customs and house organizations following the war” (Shiel, 1707). It was “a great disappointment to them and especially to those who were displaced by this turn of events” (Shiel, 1707). While at first received with some bitterness, it was not long before the girls were accepted as part of East Quad. These coed dormitories, which first were put into practice by necessity, became popular with the residents and became “instrumental” in future housing designs. (Shiel, 1707) 
 
-{% include figure.html class="img-left" width="30%" caption="Addition of Cooley and Anderson houses, 1947." src="/images/equnderconstruction1947rename.jpg" %} 
-{% include figure.html class="img-left" width="30%" caption="The Quad in 1952" src="/images/eq1952rename.jpg" %}
-
 1953 brought another expansion as enrollment began to increase, bringing East Quad’s total capacity to 1,053. (Shiel, 1707) A more radical change in how East Quad was both settled and perceived came during the 1960s.
+
+{% include figure.html class="img-left" width="25%" caption="Addition of Cooley and Anderson houses, 1947." src="/images/equnderconstruction1947rename.jpg" %} 
+{% include figure.html class="img-left" width="25%" caption="The Quad in 1952" src="/images/eq1952rename.jpg" %}
 
 Continuing enrollment pressures (36,000 students were enrolled by Fall 1966) raised questions of accommodation for the Literary School of U of M. In 1966, the Planning Committee issued its idea of a Residential College. It would be a small living-learning community meant to combat the “impersonality” and “inertial drag of bigness” of a large liberal arts college like U of M (Robertson, 230). Initially, the planners envisioned a liberal arts college of 1,200 people with its own campus. That campus was originally going to be a fifty acre tract of land just north of the Huron River. The Residential College was enthusiastically received as an experiment, and the Regents approved the Committee’s early schematics and plans on June 23, 1966. Construction of the campus was projected to be done by February, 1969. (Robertson, 230-231)
 
