@@ -13,7 +13,7 @@ date: 2017-03-14
 - [Evolution of State Street](summaries/evolution-of-state-street)
 - Acquisition of public schools
 - Dorms and Boarding Houses
-- WWII and campus planning
+- [WWII and campus planning](essays/world-war-two)
 - International Students and Diversity
 
 ## Buildings
@@ -24,6 +24,7 @@ date: 2017-03-14
 - [Perry Building](summaries/perrybuilding)
 - [Waterman Gymnasium](summaries/watermangymnasium)
 - [Winchell House](summaries/winchell-house)
+- [The Michigan Union](blurbs/union)
 - Detroit Observatory
 - [University Hall](summaries/university-hall)
 - Sports stadiums
