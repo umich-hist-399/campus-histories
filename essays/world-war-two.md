@@ -1,6 +1,6 @@
 ---
 layout: single-col
-title: How World War Two shaped the University
+title: How World War II shaped the University
 date: 2017
 ---
 {% include jumbotron.html
