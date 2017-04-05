@@ -13,17 +13,11 @@ The Perry Building, located at 330 Packard Road on the southern edge of U-M's An
 
 There is also another Perry School in neighboring Ypsilanti, now called Foundations Preschool of Washtenaw County, named for Lawrence Perry, Ypsilanti's (neighboring town of Ann Arbor) first African American school board member. The aforementioned Perry School, named for Walter S. Perry, a former Ann Arbor superintendent of schools. 
 
-Walter S. Perry was funded by the Depression-era WPA Porject in 1934, as the Perry Elementary School
-- It built a reputation as an excellent school dedicated to serving one-parent families.
-- During World War II, Perry Elementary got funding under the Lanham Act, created to make it possible for mothers to work in the defense industry.
-- Following the war, community activists organized to keep the school in operation, under the realization that a need for the school remained as there were many single women, divorced or widowed.
-- In the heyday of Perry Elementary, unplanned pregnancies were prevalent due to the absence of the availability of birth control pills and the timing (prior to the women's liberation movement) when dropping out of school and quick and short marriages followed by low-paying employment was the norm
-- The school later became a United Way Agency to serve low income and at risk families
+Walter S. Perry was funded by the Depression-era WPA Porject in 1934, as the Perry Elementary School. It built a reputation as an excellent school dedicated to serving one-parent families. During World War II, Perry Elementary got funding under the Lanham Act, created to make it possible for mothers to work in the defense industry. Following the war, community activists organized to keep the school in operation, under the realization that a need for the school remained as there were many single women, divorced or widowed.
+In the heyday of Perry Elementary, unplanned pregnancies were prevalent due to the absence of the availability of birth control pills and the timing (prior to the women's liberation movement) when dropping out of school and quick and short marriages followed by low-paying employment was the norm. The school later became a United Way Agency to serve low income and at risk families
 
-- The on-campus location afforded easier access to recruit additional help from University students studying education, psychology and nursing.
-- Eventually, costs to maintain the school became too high for the nonprofit United Way and the school was put up for sale.
-- The University bought the Perry building in 1967
-- The school moved operations to a location on the outer reaches of Ann Arbor which it credits to increasing its reach for parents from outside Ann Arbor.
+
+The on-campus location afforded easier access to recruit additional help from University students studying education, psychology and nursing. Eventually, costs to maintain the school became too high for the nonprofit United Way and the school was put up for sale. The University bought the Perry building in 1967. The school moved operations to a location on the outer reaches of Ann Arbor which it credits to increasing its reach for parents from outside Ann Arbor.
 
 {% include figure.html class="img-center" width="50%" src="/images/classroom1911.jpg" %}
 
