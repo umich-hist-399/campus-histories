@@ -9,7 +9,7 @@
 
  To accommodate the growing student population at the University, the Michigan Legislature appropriated $100,000 to construct a library for the University. The library, originally known as the General Library, was completed in 1883 and contained 43,366 volumes when it opened.  Within four years, the library reached capacity for the amount of volumes it can hold, so additions had to be made. Now known as the Harlan Hatcher Graduate Library, the new library was completed in 1920, and the additions created room for a thousand readers and over a million volumes.
 
-# Sources
+## Sources
 
 - "Library." A Historical Tour of the University of Michigan Campus. N.p., n.d. Web. 18 Mar. 2017.
 - "New General Library." Library. N.p., n.d. Web. 18 Mar. 2017.

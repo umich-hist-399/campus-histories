@@ -25,7 +25,7 @@ date: 2017-03-14
 - [Waterman Gymnasium](summaries/watermangymnasium)
 - [Winchell House](summaries/winchell-house)
 - Detroit Observatory
-- University Hall
+- [University Hall](summaries/university-hall)
 - Sports stadiums
 
 ## Spaces

@@ -25,7 +25,7 @@ Finished in 1933, Hutchin’s Hall, named after University president, Harry Hutc
 
 Even after the building plan was finished, the university continued to add onto the law quadrangle. The Allan and Alene Law Library, named after two very active members of the law school faculty, was completed in 1980. Cook oversaw the final steps of his creation at his home in New York during the final years of his life, in order to ensure that it goes as he imagined. In 1930, William Cook died before being able to see his Law Quadrangle be completed, and his only reasoning for not wanting to see his creation is that “it might spoil his dream”.
 
-# Sources
+## Sources
 
 - "The Law Quadrangle." The Law Quadrangle. N.p., n.d. Web. 18 Mar. 2017.
 - Horste, Kathryn. The Michigan Law Quadrangle: architecture and origins. Ann Arbor: U of Michigan Press, 1997. Print.

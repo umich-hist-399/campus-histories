@@ -25,7 +25,7 @@ The next of the halls to be added to the building was Haven Hall, named after un
 
 The last of the halls to be added to the building was Tisch Hall, named after Preston Robert Tisch, who was a famous businessman as well as alumni from the University of Michigan. He donated the funds that would go to the creation of Tisch Hall. Originally serving as a connector between Angell and Haven Halls, Tisch Hall’s construction was completed in 1996. Tisch Hall is primarily used for the History department here at the University of Michigan, as well as other courses. The university hall complex has been undergoing a series of additions and renovations since the opening of the university.  When it first opened, the complex served as the central hub the university and its students, and it has continued to do so today. Towering as a monolith on State Street, University Hall stands as a constant reminder to students and others of its historical and academic significance.
 
-# Sources
+## Sources
 
 - "University Main Building - Mason Hall." University Main Building - Mason. N.p., n.d. Web. 04 Apr. 2017.
 - "Mason and Haven Halls, and Angell Hall addition." Mason and Haven Halls, and Angell Hall addition. N.p., n.d. Web. 04 Apr. 2017.
