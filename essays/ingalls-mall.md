@@ -3,10 +3,8 @@ layout: single-col
 title: Ingalls Mall
 date: 2017-02-19
 ---
-<<<<<<< HEAD
+
 # Ingalls Mall
-=======
->>>>>>> origin/master
 
 {% include jumbotron.html title="Ingalls Mall" image="images/ingalls-mall-jumbotron.jpg" text=" The northern gateway to the diag" %}
 
