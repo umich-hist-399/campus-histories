@@ -1,3 +1,8 @@
+---
+layout: single-col
+title: The Diag
+date: 2017-02-19
+---
 {% include jumbotron.html
 title="East Quad"
 image="images/EQ1940.jpg"
