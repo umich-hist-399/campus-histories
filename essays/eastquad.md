@@ -1,11 +1,8 @@
----
 {% include jumbotron.html
 title="East Quad"
 image="images/EQ1940.jpg"
 text="From housing America's military to its rich, colorful history as the home of the Residential College, East Quad has history to spare."
 %} 
----
-
 
 During the era of the Great Depression, the University of Michigan Regents embarked on a program of building more and more dormitories using federal funds meant to create jobs (Peckham, 201). Out of this atmosphere of pre-war expansion was birthed a building project entitled PWA Project Docket, Michigan 1714-F. This was an all-trades contract awarded to the Bryant & Detwiler Company from Detroit on February 24, 1939, to the tune of $647,817. This project "almost immediately" came to be called East Quadrangle. (Shiel, 1705)
 
