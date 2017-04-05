@@ -6,7 +6,7 @@ date: 2017
 {% include jumbotron.html
 title="How World War Two shaped the University"
 image="images/diag-march.jpg"
-text="During WWII, many programs and policies arose that left a lasting legacy" %}
+text="During WWII, many programs and policies arose that left a lasting legacy upon the University of Michigan." %}
 
 
 The contributions that the University of Michigan made to the war efforts during World War Two are well known, but what is lesser known are the ways that WWII left an impact on the university itself. Due to the nature of war, soldiers and civilians did not have the luxury of time. This lead to lasting changes in the University that can still be seen today.
