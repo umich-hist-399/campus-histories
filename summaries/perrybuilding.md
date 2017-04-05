@@ -11,13 +11,9 @@ date: 2017-3-22
 
 The Perry Building, located at 330 Packard Road on the southern edge of U-M's Ann Arbor campus, currently houses the Inter-university Consortium for Political and Social Research (established 1962), a center that “maintains and provides access to a vast archive of social science data for research and instruction.”
 
-Formerly known as Perry School, not be confused with another Perry School in neighboring Ypsilanti, now called Foundations Preschool of Washtenaw County, named for Lawrence Perry, Ypsilanti's (neighboring town of Ann Arbor) first African American school board member.
+There is also another Perry School in neighboring Ypsilanti, now called Foundations Preschool of Washtenaw County, named for Lawrence Perry, Ypsilanti's (neighboring town of Ann Arbor) first African American school board member. The aforementioned Perry School, named for Walter S. Perry, a former Ann Arbor superintendent of schools. 
 
-
-
-Walter S. Perry, a former Ann Arbor superintendent of schools. The aforementioned Perry School began as an elementary school and was named after L
-- The aforementioned Perry School was funded by the Depression-era WPA in 1934, as the Perry Elementary School at Packard and Madison
-- The building was named for W.
+Walter S. Perry was funded by the Depression-era WPA Porject in 1934, as the Perry Elementary School
 - It built a reputation as an excellent school dedicated to serving one-parent families.
 - During World War II, Perry Elementary got funding under the Lanham Act, created to make it possible for mothers to work in the defense industry.
 - Following the war, community activists organized to keep the school in operation, under the realization that a need for the school remained as there were many single women, divorced or widowed.
