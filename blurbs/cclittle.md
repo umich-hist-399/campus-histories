@@ -14,5 +14,5 @@ date: 2017-03-22
  {% include figure.html class="img-center" width="50%" src="/images/cc-little.jpg" %}
 
 
-Sources:
+## Sources:
 [http://sites.lsa.umich.edu/greekcampus/centralcampus/cc-little-building/](http://sites.lsa.umich.edu/greekcampus/centralcampus/cc-little-building/)
