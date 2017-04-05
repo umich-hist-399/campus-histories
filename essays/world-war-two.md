@@ -21,7 +21,7 @@ Before WWII, language courses at the University of Michigan were offered for the
 
 This accelerated structure gave birth to the credit system for languages that is still in use at Michigan. Today, Language classes are offered for a standard 4 credits a semester, and an accelerated 8 credits. Without the onset of WWII, students today may not have had the option to take the accelerated courses that allow them to graduate earlier. They also may not have even had the opportunity to study the Japanese language at all.
 
-{% include figure.html class="img-center" width="100%" caption="The first class of soldiers to pass through the Japanese Language School and become Japanese Language Specialists for the Army. Image curtesy of Bentley Historical Library. " src="/images/japanese.jpg" %}
+{% include figure.html class="img-center" width="100%" caption="The first class of soldiers to pass through the Japanese Language School and become Japanese Language Specialists for the Army. Image courtesy of Bentley Historical Library. " src="/images/japanese.jpg" %}
 
 ## NAME and the Navy
 
@@ -29,13 +29,13 @@ After the Great Depression, shipbuilding became almost obsolete, but WWII brough
 
 This three-year approach had been used before, during World War One, but it had not yet been available outside of war time. Today, one can still meticulously arrange their schedule and be done in three years.
 
-{% include figure.html class="img-center" width="100%" src="/images/navy.jpg" caption="Naval units at University of Michigan marching to Ferry Field for Saturday morning review. Image curtesy of Bentley Historical Library." %}
+{% include figure.html class="img-center" width="100%" src="/images/navy.jpg" caption="Naval units at University of Michigan marching to Ferry Field for Saturday morning review. Image courtesy of Bentley Historical Library." %}
 
 During the war, curriculum was largely focused on military application, which helped Michigan’s Naval Architecture program rise to the top. Thus, in 1946, the Reserve Officers Naval Architecture Group (RONAG) was moved by the Navy from Annapolis to Ann Arbor (Greenbaum 1940). This gave a new level of prestige to the program and left a lasting impact and cemented the relationship between the University and the Navy. NAME is still regarded as one of the best programs of its kind, and frequently works with the Navy.
 
 An overlooked benefit of the heavy presence of the Navy on campus was the persistence of Varsity sports. While many schools had to discontinue their sports during the war years because of low civilian male enrollment, and rules restricting the military from participating in extracurricular activities, Michigan could keep them going (“About the University of Michigan, its work in peace and war” 1945, 18). This was due to the fact that the Navy was the only branch of the military that was allowed to participate in athletics (Williams 1995, 11). In part because the team was able to exist during the war years, for the years following WWII Michigan football was a force to be reckoned with.
 
-{% include figure.html class="img-center" width="100%" caption="Aviation Cadets listening to a Michigan vs. Ohio State Football Game. Image curtesy of Bentley Historical Library."
+{% include figure.html class="img-center" width="100%" caption="Aviation Cadets listening to a Michigan vs. Ohio State Football Game. Image courtesy of Bentley Historical Library."
 src="/images/radio-football.jpg" %}
 
 ## Women and the War
@@ -44,19 +44,19 @@ WWII brought many changes to not only to the lives of soldiers, but of civilians
 
 Prior to 1940, you would be hard pressed to find a woman’s name under the list of editors for the Michigan Daily and the Michiganensian. Because they kept the papers afloat during the war however, they become common after it as well. Today, there are many women who serve as editors for the Michigan Daily, who owe the opportunity to their counterparts in the 1940’s.
 
-{% include figure.html class="img-center" width="100%" caption="Pamphlet distributed to rally women into participating in the war effort. Image curtesy of Bentley Historical Library." src="/images/women-war.jpg" %}
+{% include figure.html class="img-center" width="100%" caption="Pamphlet distributed to rally women into participating in the war effort. Image courtesy of Bentley Historical Library." src="/images/women-war.jpg" %}
 
 One way that many female students contributed to the war effort during the war was by selling war bonds. They sold them in many places on campus, The Union being one of such places (Williams 1995, 12). During war time, women were allowed to serve as busboys at the Union because of a shortage of men as well (Bordin 1999, xxix). This rose the question of why women were not allowed to enter themselves through the front door.
 
 After the war was over, many women who worked at the Union during the war expressed their desire to be able to enter the Union through the front door, without an escort. This raised a discussion amongst the leaders of the University, as it was a controversial point. Although many students were for women being allowed through the front doors, many were against it as well. Finally, in 1954 women were allowed to enter through the front door of the Union, something that we take for granted today (Bordin 1999, 81). Without the women who generously offered to fill roles where they were needed in the Union during WWII, that entry day may have came much later.
 
-{% include figure.html class="img-center" width="100%" caption="Women selling war bonds in fake bunker set up on State Street for the purpose of selling bonds. Image curtesy of Bentley Historical Library." src="/images/war-bonds.jpg" %}
+{% include figure.html class="img-center" width="100%" caption="Women selling war bonds in fake bunker set up on State Street for the purpose of selling bonds. Image courtesy of Bentley Historical Library." src="/images/war-bonds.jpg" %}
 
 ## Lasting Change
 
 It is clear that many of the privileges that Michigan students and faculty enjoy today are the result of changes made during WWII. While people often know that the campus operated differently during war time, they do not think of the legacy these changes left. There is a common thought that after the war, Michigan went back to the way it was before it. That is not the case however, WWII left a lasting impact upon the University of Michigan that molded many programs and policies that students take for granted today.
 
-{% include figure.html class="img-center" width="100%" caption="V-J Day Celebration on Main Street. Image curtesy of Bentley Historical Library." src="/images/v-j-day.jpg" %}
+{% include figure.html class="img-center" width="100%" caption="V-J Day Celebration on Main Street. Image courtesy of Bentley Historical Library." src="/images/v-j-day.jpg" %}
 
 ## Sources
 
