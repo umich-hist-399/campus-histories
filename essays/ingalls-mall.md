@@ -9,7 +9,7 @@ Thus far in my historical exploration of the history of the University of Michig
 
 The possibility for the university’s expansion to the north of the original campus plot was originally hindered by existing private developments. On the 1874 map of Ann Arbor (see below), the land in question appears to be divided up into many individual parcels, though it is unclear how many are developed. The only non-residential plots marked are the Union School, the Old Cemetery, and something on the far right that looks to be a pond.
 
-{% include figure.html class="img-right" width="25%" src="/images/northaddition1874.png" caption="The 1874 Campus Map including the future site of Ingalls Mall" %}
+{% include figure.html class="img-right" width="40%" src="/images/northaddition1874.png" caption="The 1874 Campus Map including the future site of Ingalls Mall" %}
 
 On the 1880 map, which is in panorama format and shows simple sketches of buildings, we see that the parcels in the previous map are a fully-fledged neighborhood.
 
