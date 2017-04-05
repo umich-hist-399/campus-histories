@@ -13,7 +13,7 @@ The University of Michigan has long been regarded as a place that drives social 
 
 For many, when they think of these pivotal events, they imagine the spaces of The Diag, or Ingalls Mall. What is often forgotten is the space of State Street, though many a times students and faculty have marched down it in protest or support of this or that cause. There have been several impactful speeches delivered to large crowds on the steps of the Union and Angel Hall, and there have been several rallies and protests that march their way down the street as well. For the Women’s Suffrage Movement however, this is not the case. State Street was the space in which the Women’s Suffrage Movement was most active at the University of Michigan, as well as its birthplace.
 
-{% include figure.html class="img-center" width="100%" caption="Women would deliver speeches from the running boards of vehicles parked along State Street." src="/images/statestreet1920.jpg" %}
+{% include figure.html class="img-center" width="100%" caption="Women would deliver speeches from the running boards of vehicles parked along State Street. Image curtesy of Bentley Historical Library." src="/images/statestreet1920.jpg" %}
 
 ## State Street as a Space for Women’s Suffrage
 
@@ -23,7 +23,7 @@ In respect to the original forty-acre campus that still existed at the time, Sta
 
 When prominent Suffragists were visiting to speak, members of The Ann Arbor Equal Suffrage Association would distribute window cards to businesses primarily along State Street to advertise the upcoming event. A news article from October 4th, 1912 states that out of all the businessmen asked to display the window cards, **"only two made violent objection to equal suffrage, and no one refused to have a card put in his window"** (Behnke 1912, F3). This suggests that the University of Michigan and Ann Arbor were generally on board with women’s suffrage in 1912, which was eight years before the 19th Amendment was passed. One could imply that the University of Michigan was more progressive than many other places in the United States at the time.
 
-{% include figure.html class="img-center" width="100%" caption="Window cards like these would be placed in windows to advertise upcoming speakers." src="/images/suffragiststatement.jpg" %}
+{% include figure.html class="img-center" width="100%" caption="Window cards like these would be placed in windows to advertise upcoming speakers. Image curtesy of Bentley Historical Library." src="/images/suffragiststatement.jpg" %}
 
 ## Newberry Hall
 
@@ -31,7 +31,7 @@ Among the members of The Ann Arbor Equal Suffrage Association were many many stu
 
 With a new place to meet, the Young Women's Christian Association began to host a multitude of speakers and events that aligned with their interests. At the time, temperance was a hot ticket issue for Christians, and many supporters spoke to the young women at Newberry Hall (Behnke 1910-1913, F13). Whereas all of the members of the Young Women's Christian Association could agree on the issue of temperance, they were split on the issue of women’s suffrage. The Ann Arbor Equal Suffrage Association was in fact formed at Newberry hall, but it is evident that not all of the women in the Young Women's Christian Association agreed with the idea of women being allowed to vote.
 
-{% include figure.html class="img-center" width="100%" caption="Speakers would hold assemblies in this lecture room of Newberry Hall" src="/images/newberryhall.jpg" caption="One of the classrooms in Newberry Hall where Suffragists would hold meetings and other events." %}
+{% include figure.html class="img-center" width="100%" caption="Speakers would hold assemblies in this lecture room of Newberry Hall" src="/images/newberryhall.jpg" caption="One of the classrooms in Newberry Hall where Suffragists would hold meetings and other events. Image curtesy of Bentley Historical Library." %}
 
 ## The Anti-Suffragist’s Space
 
@@ -41,7 +41,7 @@ It is with no surprise that as the years progressed, Newberry Hall stopped holdi
 
 Though State Street is often thought of as a male space in the early 1900s with the proliferation of the Union, it was of great importance to the women at University of Michigan and in Ann Arbor. Now that women have the right to vote, it may seem like the distant past, but what was done on State Street was of great importance. It has been forgotten how important Newberry Hall and State Street were as a place of change for the University, but one can hope that it will be forgotten no longer.
 
-{% include figure.html class="img-center" width="100%" caption="The Ann Arbor Equal Suffrage Association participating in the Michigan Suffragists Parade" src="/images/parade.jpg" %}
+{% include figure.html class="img-center" width="100%" caption="The Ann Arbor Equal Suffrage Association participating in the Michigan Suffragists Parade. Image curtesy of Bentley Historical Library." src="/images/parade.jpg" %}
 
 ## Sources
 
