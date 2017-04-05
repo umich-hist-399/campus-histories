@@ -24,12 +24,12 @@ date: 2017-3-22
 - The University bought the Perry building in 1967
 - The school moved operations to a location on the outer reaches of Ann Arbor which it credits to increasing its reach for parents from outside Ann Arbor.
 
-{% include figure.html class="img-right" src="perry-building.jpg" %}
+{% include figure.html class="img-center" width="50%" src="/images/perry-building.jpg" %}
 
 Sources:
 
-- http://home.isr.umich.edu/about/contact-us/
-- http://www.demariabuild.com/projects/perry-building-phase-i-2-renovation/
-- https://en.wikipedia.org/wiki/Inter-university_Consortium_for_Political_and_Social_Research
-- https://localwiki.org/ann-arbor/Perry_Building
-- http://annarborobserver.com/articles/which_perry__full_article.html
+- [http://home.isr.umich.edu/about/contact-us/](http://home.isr.umich.edu/about/contact-us/)
+- [http://www.demariabuild.com/projects/perry-building-phase-i-2-renovation/](http://www.demariabuild.com/projects/perry-building-phase-i-2-renovation/)
+- [https://en.wikipedia.org/wiki/Inter-university_Consortium_for_Political_and_Social_Research](https://en.wikipedia.org/wiki/Inter-university_Consortium_for_Political_and_Social_Research)
+- [https://localwiki.org/ann-arbor/Perry_Building](https://localwiki.org/ann-arbor/Perry_Building)
+- [http://annarborobserver.com/articles/which_perry__full_article.html](http://annarborobserver.com/articles/which_perry__full_article.html)

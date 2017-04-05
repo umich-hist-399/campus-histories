@@ -5,7 +5,7 @@ date: 2017-02-19
 ---
 
 # Writing Guide
-This page provides a writing guide for the content you're creating. In it you'll find things to review and improve as you publish and revise your essays.
+This page provides a writing guide for the content you're creating. In it you'll find things to review and improve as you publish and revise your essays. For more technical information about layouts, see the sample layouts menu in the nav bar.
 
 ## Questions to keep in mind
 - Who is our audience?
@@ -14,12 +14,17 @@ This page provides a writing guide for the content you're creating. In it you'll
 - How do we want them to think differently?
 - What kinds of design will encourage curiosity and exploration?
 
+## Style
+- Write something you'd like to read
+- Aim for informal sophistication
+- Demonstrate your expertise through description AND analysis
+- Compose informative topic sentences that provide a clear progression through the essay
+
 ## Make Sure You Have
 - Citations. Your research will not be published without them, and you will not get credit for them.
 - Meaningful headings.
 - No **bold** in your headings; use an appropriate heading level (as shown below). We can create new styles if need be.
-- Informative first sentences that, in themselves, provide a clear progression through the essay.
-- Consistent use of bold and italics, both throughout your essay and roughly compared to other essays. Don't use either too often, or it negates the effect of highlighting something. Do not use either for references; leave those as plain text.
+- Consistent use of bold and italics. Don't use either too often, or it negates the effect of highlighting something. Do not use either for references; leave those as plain text.
 - Images. Choose carefully to achieve the greatest effect and synergy with your essay.
 - Pull Quotes and Sidebars. These typographic features help call attention to certain ideas that you want to highlight and provide a way of fast reading.
 
@@ -50,7 +55,7 @@ For your reference, all the headings styles are demonstrated below. Remember tha
 
 
 ### Lists
-``` md
+``` markdown
 - item 1
 - item 2
   - put two spaces in front of your dash to sub-indent
@@ -67,4 +72,4 @@ For your reference, all the headings styles are demonstrated below. Remember tha
 For more on how to achieve certain layout effects, please see the various sample essays; they each contain the code snippets to make things appear properly for the kind of layout you are using.
 
 ## Further Reference
-If you can't find what you need on this page, please consult the Markdown [basic writing and formatting guide](https://help.github.com/articles/basic-writing-and-formatting-syntax/). And bring questions to class, both technical and broader design questions.
+If you can't find what you need on the sample pages, please consult the Markdown [basic writing and formatting guide](https://help.github.com/articles/basic-writing-and-formatting-syntax/). And bring questions to class, both technical and broader design questions.

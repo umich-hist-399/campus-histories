@@ -7,22 +7,31 @@ date: 2017-03-14
 # Directory
 
 ## Topics
+- [UM Expansion East](essays/um-expansion-east)
+- [Social Training](essays/social-training)
+- [State Street Suffrage](essays/state-street-suffrage)
+- [Evolution of State Street](summaries/evolution-of-state-street)
 - Acquisition of public schools
 - Dorms and Boarding Houses
-- Eastern expansion
-- Social Movements
 - WWII and campus planning
 - International Students and Diversity
 
 ## Buildings
+- [Law Quad](essays/law-quad)
+- [Hatcher Library](blurbs/hatcher-library)
+- [President's House](blurbs/presidents-house)
+- [C.C. Little](essays/cclittle)
+- [Perry Building](summaries/perrybuilding)
+- [Waterman Gymnasium](summaries/watermangymnasium)
+- [Winchell House](summaries/winchell-house)
 - Detroit Observatory
 - University Hall
-- Law Quad
 - Sports stadiums
 
 ## Spaces
-- The Diag
+- [Ingalls Mall](essays/ingalls-mall)
+- [The Diag](essays/diag)
+- [Zoo](blurbs/zoo)
 - Palmer field
 - Original East Campus
 - Original North Campus
-- Ingalls Mall

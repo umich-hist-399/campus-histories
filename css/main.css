@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Abril+Fatface');
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
 @import url('https://fonts.googleapis.com/css?family=Raleway');
+@import url('https://fonts.googleapis.com/css?family=Oswald');
 
 
 @media screen {
@@ -14,11 +15,25 @@
     font-family: 'Open Sans', sans-serif;
     line-height: 1.4em;
     background-color: #fefefe;
-    font-size: 14px;
+    font-size: 15px;
   }
 
 .navbar {
   height:60px;
+  background-color:#00274c;
+  color:#efefef;
+}
+
+.navbar-default .navbar-nav>li>a {
+  color:#ccc;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+  color:#FFC72C;
+}
+
+.lg-left-col div.highlighter-rouge {
+  width:64%;
 }
 
   .main {
@@ -37,39 +52,50 @@
     margin: 0 1.5%;
   }
 
-  .building {
-  width:100%;
-  }
-
-  .sidebar {
-    font-size:80%;
-    color:#999;
-  }
-
-
 
 /*****************************************************
 MAP PAGE
 *****************************************************/
 
-#mapid, #slider {
-  width: 60%;
-  margin-left:15px;
-  float:left;
-  clear:both;
+#mapid, #slider{
 }
 
 #mapid {
+    width: 100%;
     height: 400px;
 }
 
 #slider {
-  clear:both;
+  margin:1em 1em;
 }
 
-#info {
-  width:40%;
-  background-color: #ccc;
+#info_blurb {
+  bborder:1px solid black;
+  bbackground-color: #efefef;
+}
+
+#info_blurb h1 {
+  margin:.5rem 0 .5rem 0;
+  font-size:1.5rem;
+}
+
+#info_blurb h2 {
+    font-size:1.3rem;
+    margin:.5rem 0 .5rem 0;
+}
+
+#info_blurb h3 {
+    font-size:1.1rem;
+    margin:.5rem 0 .5rem 0;
+}
+
+#info_blurb ul {
+margin-left:1rem;
+padding:0;
+}
+
+#info_blurb li {
+font-size: .8rem;
 }
 
 /*****************************************************
@@ -89,39 +115,18 @@ HOME PAGE
 
 p {
   font-family: 'Open Sans', sans-serif;
+
   line-height: 1.6em;
   margin-bottom: 1.5em;
+  max-width:60em;
 }
-
-
-.home-text p {
-  font-family: 'Raleway', sans-serif;
-  text-align:justify;
-  margin-top:1em;
-}
-
-.home-section-head {
-  font-family: 'Raleway', sans-serif;
-  padding: 1em 0;
-  border-top:1px solid #ccc;
-  border-bottom:1px solid #ccc;
-}
-
-p.title-text {
-  font-family: 'Raleway', sans-serif;
-  font-weight: 300;
-  font-size: 1.2em;
-  color:#eeeeee;
-  line-height: 1.4em;
-}
-
 
 /*****************************************************
 HEADERS
 *****************************************************/
 
 h1, h2, h3, h4, h5 {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Abril Fatface', sans-serif;
   text-align:left;
   margin: 3rem 0 .4rem 0;
 }
@@ -145,7 +150,6 @@ h1 {
 
 
 h2 {
-  font-family: 'Raleway', sans-serif;
   font-size: 2.3rem;
 }
 
@@ -206,6 +210,10 @@ a:hover {
 }
 
 ul {
+  margin-bottom:1.4em;
+}
+
+.lg-left-col ul {
   width:62%
 }
 
@@ -220,30 +228,6 @@ li ul li {
   margin-bottom:1em;
 }
 
-.has-pullquote:before {
-  /* Reset metrics. */
-  padding: 0em;
-  border: 0px solid #ccc;
-
-  /* Content */
-  content: attr(data-pullquote);
-
-  /* Pull out to the right, modular scale based margins. */
-  float: right;
-  width: 20em;
-  margin: 0em 0 1em 2em;
-
-  /* Baseline correction */
-  position: relative;
-  top: 5px;
-
-  /* Typography (30px line-height equals 25% incremental leading) */
-  font-family: Roboto;
-  font-weight: 400;
-  font-size: 120%;
-  line-height: 130%;
-  text-align: justify;
-}
 
 main {
   margin: 0 1.5%;
@@ -293,6 +277,22 @@ float:left;
   width:100%;
 }
 
+
+
+aside.pullquote {
+  border-top:.3rem solid #333;
+  border-bottom:.3rem solid #333;
+  margin-left:1rem;
+}
+
+aside.pullquote p{
+  font-family:'Oswald';
+  font-size:1.5rem;
+  padding: 1rem;
+  line-height:1.8rem;
+  text-align:left;;
+}
+
 aside.aside-right {
 float:left;
 margin-left:64%;
@@ -303,17 +303,6 @@ float:left;
 left:0;
 }
 
-.pullquote {
-  border-top:.2rem solid #333;
-  border-bottom:.2rem solid #333;
-}
-
-.pullquote p{
-  font-family:'Raleway';
-  font-size:130%;
-  padding: 1rem 0;
-  line-height:2.3rem;
-}
 
 .lg-left-col .pullquote p{
     font-size:130%;
@@ -321,8 +310,9 @@ left:0;
     font-size:130%;
     padding: 1rem 0;
     line-height:2.3rem;
-
 }
+
+
 /*****************************************************
 IMAGES
 *****************************************************/
@@ -350,7 +340,6 @@ figure {
   clear:none;
   margin:none;
   /* no bottom padding; handled with caption */
-  width:30%;
 }
 
 .img-right {
@@ -364,8 +353,10 @@ figure {
   padding:0 2rem 0px 0px;
 }
 
-.img-center-full {
-  width:100%;
+.img-center {
+  text-align:center;
+  margin-left:auto;
+  margin-right:auto;
 }
 
 figcaption {
@@ -373,10 +364,9 @@ figcaption {
   color:#666;
   font-family: 'Oxygen', sans-serif;
   display:block;
-  margin:.2em 0 0em 0;
+  margin:.2rem 0 2rem 0;
   clear:both;
-  width: 250px;
-  line-height: 1.3em;
+  line-height: 1.3rem;
 }
 
 figcaption.img-right {
