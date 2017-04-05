@@ -19,13 +19,15 @@ In addition to physical education, the Barbour Gymnasium was also used for socia
 Both the Waterman and Barbour Gymnasiums were demolished in 1977 to make way for the expansion of the adjacent Chemistry building.
 In the interim years before its demolition, usage of the Waterman Gymnasium declined as athletic activities were moved to the South Campus of the University.
 
-{% include figure.html class="img-right" width="30%" src="/images/waterman1.jpg" %}
+{% include figure.html class= width="30%" src="/images/waterman1.jpg" %}
 
-{% include figure.html class="img-center" width="30%" src="/images/waterman2.jpg" %}
+{% include figure.html class= width="30%" src="/images/waterman2.jpg" %}
 
-{% include figure.html class="img-left" width="30%" src="/images/waterman3.jpg" %}
+{% include figure.html class= width="30%" src="/images/waterman3.jpg" %}
 
 Sources:
+Angell, J. Burrill. (1909). Farewell address of President James Burrill Angell to the undergraduate students of the University of Michigan, Waterman gymnasium, May the twenty-eighth, 1909. [Ann Arbor, Mich.: Ann Arbor Press.
+
 [http://umhistory.dc.umich.edu/mort/original/1900/19%20Waterman%20Gymnasium/index.html](http://umhistory.dc.umich.edu/mort/original/1900/19%20Waterman%20Gymnasium/index.html)
 [http://bentley.umich.edu/legacy-support/campus_tour/barbour.php](http://bentley.umich.edu/legacy-support/campus_tour/barbour.php)
 [http://bentley.umich.edu/legacy-support/campus_tour/waterman.php](http://bentley.umich.edu/legacy-support/campus_tour/waterman.php)  
