@@ -33,3 +33,4 @@ Sources:
 - [https://en.wikipedia.org/wiki/Inter-university_Consortium_for_Political_and_Social_Research](https://en.wikipedia.org/wiki/Inter-university_Consortium_for_Political_and_Social_Research)
 - [https://localwiki.org/ann-arbor/Perry_Building](https://localwiki.org/ann-arbor/Perry_Building)
 - [http://annarborobserver.com/articles/which_perry__full_article.html](http://annarborobserver.com/articles/which_perry__full_article.html)
+- [http://quod.lib.umich.edu/b/bhl/x-bl000091/bl000091](http://quod.lib.umich.edu/b/bhl/x-bl000091/bl000091)
