@@ -4,7 +4,7 @@ title: How World War II shaped the University
 date: 2017
 ---
 {% include jumbotron.html
-title="How World War Two shaped the University"
+title="How World War II shaped the University"
 image="images/diag-march.jpg"
 text="During WWII, many programs and policies arose that left a lasting legacy upon the University of Michigan." %}
 
