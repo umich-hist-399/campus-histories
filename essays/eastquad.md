@@ -19,9 +19,8 @@ Originally designed to accommodate 398 students, the original East Quad was comp
 
 The Army groups held their contract agreements with the University until July 1, 1945, and by 1946 East Quad no longer housed military personnel. After the war, the University anticipated a surge in enrollment, and the Regents undertook a residence hall expansion study. Out of this came an expansion of East Quad. By the Fall of 1947, two new houses, Cooley and Anderson, were available to live in at the Quad, and two more, Strauss and Hayden, were ready by Christmas. These new houses were named after former distinguished faculty. The first year that these accommodations were available, East Quad filled to over capacity; due to housing shortages, 1,480 men were housed within walls meant to hold 924. (Shiel, 1706-1707)
 
-{% include figure.html class="img-left" width="25%" caption="Addition of Cooley and Anderson houses, 1947." src="/images/equnderconstruction1947.jpg" %} 
-
-{% include figure.html class="img-right" width="25%" caption="The Quad in 1952" src="/images/eq1952.jpg" %}
+{% include figure.html class="img-left" width="30%" caption="Addition of Cooley and Anderson houses, 1947." src="/images/equnderconstruction1947rename.jpg" %} 
+{% include figure.html class="img-left" width="30%" caption="The Quad in 1952" src="/images/eq1952rename.jpg" %}
 
 In the fall of 1952, Tyler and Prescott became housing for women due to great demand for women’s dorms. The reasoning behind this was that South Quadrangle had just been opened, thus fixing the former housing shortage. This decision perturbed the men of East Quad, “who had just nicely begun to re-establish their customs and house organizations following the war” (Shiel, 1707). It was “a great disappointment to them and especially to those who were displaced by this turn of events” (Shiel, 1707). While at first received with some bitterness, it was not long before the girls were accepted as part of East Quad. These coed dormitories, which first were put into practice by necessity, became popular with the residents and became “instrumental” in future housing designs. (Shiel, 1707) 
 
