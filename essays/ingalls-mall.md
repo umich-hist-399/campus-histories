@@ -15,11 +15,12 @@ On the 1880 map, which is in panorama format and shows simple sketches of buildi
 
 It’s a bit hard to see, so here’s a closeup. At the corner of East Washington and Liberty we can see the Union School (marked with the number 7,) where North Quad now stands. Another noteworthy landmark is the rather unusual octagonal house at the center of North University Avenue. According to a 1998 article in the University Record, this house was built by Professor Alexander Winchell in 1853 following his appointment as chair of Physics and Civil Engineering at the university.
 
-{% include figure.html class="img-left" width="40%" src="/images/winchell-house.gif" caption="Professor Winchell's Octagonal House" %}
 
 Winchell died in 1891 and the house remained in the ownership of his heirs until it was purchased by the University in 1901. The university rented it out to residential tenants until 1904, by which time it had also managed to acquire the remaining land parcels along the north side of North University Avenue between South Thayer and Fletcher streets.
 
 On December 6 1909, then University of Michigan Regent Arthur Hill died, leaving the university a sum of $200,000 for the construction of an auditorium. The site of the Winchell house was selected, and in 1910 construction of the Hill Auditorium began. The building was designed by renowned Detroit architect Albert Kahn and took nearly three years to complete.
+
+{% include figure.html class="img-left" width="40%" src="/images/winchell-house.gif" caption="Professor Winchell's Octagonal House" %}
 
 Hill Auditorium was completed in 1913 and seated 4,300. Its first concert was held on May 13, 1913.
 
