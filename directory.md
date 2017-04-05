@@ -20,7 +20,7 @@ date: 2017-03-14
 - [Law Quad](essays/law-quad)
 - [Hatcher Library](blurbs/hatcher-library)
 - [President's House](blurbs/presidents-house)
-- [C.C. Little](essays/cclittle)
+- [C.C. Little](blurbs/cclittle)
 - [Perry Building](summaries/perrybuilding)
 - [Waterman Gymnasium](summaries/watermangymnasium)
 - [Winchell House](summaries/winchell-house)
