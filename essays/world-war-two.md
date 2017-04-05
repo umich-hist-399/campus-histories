@@ -5,7 +5,7 @@ date: 2017
 ---
 {% include jumbotron.html
 title="How World War Two shaped the University"
-image="images/march-rotc.png"
+image="images/march-rotc.jpg"
 text="During WWII, many programs and policies arose that left a lasting legacy" %}
 
 
