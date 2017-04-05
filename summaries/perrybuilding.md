@@ -7,6 +7,8 @@ date: 2017-3-22
 
 # Perry Building
 
+{% include figure.html class="img-center" width="50%" src="/images/perry-building.jpg" %}
+
 - Currently houses the Inter-university Consortium for Political and Social Research (established 1962), a center that “maintains and provides access to a vast archive of social science data for research and instruction”
 - Formerly known as Perry School
 - There is also a Perry School (the former Perry Nursery School of Ann Arbor), on Packard near Carpenter, now called Foundations Preschool of Washtenaw County.
@@ -24,7 +26,9 @@ date: 2017-3-22
 - The University bought the Perry building in 1967
 - The school moved operations to a location on the outer reaches of Ann Arbor which it credits to increasing its reach for parents from outside Ann Arbor.
 
-{% include figure.html class="img-center" width="50%" src="/images/perry-building.jpg" %}
+
+
+
 
 Sources:
 
