@@ -62,8 +62,8 @@ It is clear that many of the privileges that Michigan students and faculty enjoy
 -----
 ## Sources
 
-- Bordin, Ruth Birgitta Anderson. Women at Michigan: The “dangerous	experiment,” 1870s to the Present. xxxii, 138 p. Ann Arbor: University	of Michigan Press, 1999. http://hdl.handle.net/2027/.
-- Chapman, Charles T., David. Owen, Larry. Towe, and University of	Michigan. Michigan on the March. Ann Arbor, Mich.: University of	Michigan, 1944. http://hdl.handle.net/2027/.
+- Bordin, Ruth Birgitta Anderson. [Women at Michigan: The “dangerous	experiment,”](http://hdl.handle.net/2027/) 1870s to the Present. xxxii, 138 p. Ann Arbor: University	of Michigan Press, 1999.
+- Chapman, Charles T., David. Owen, Larry. Towe, and University of	Michigan. [Michigan on the March.](http://hdl.handle.net/2027/) Ann Arbor, Mich.: University of	Michigan, 1944.
 - Greenbaum, Maurice Coleman. “Maurice C. Greenbaum Papers, 1940	1941.,” (1940).
 - University of Michigan. About the University of Michigan, Its Work in Peace	and War. University of Michigan. Official Publication,v. 46, No. 58,	Jan. 4, 1945, 32 p. [Ann Arbor, Mich.], 1945.
 - University of Michigan. “War Training Program.,” no. v. (1941).
