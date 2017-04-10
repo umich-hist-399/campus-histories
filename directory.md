@@ -26,7 +26,7 @@ date: 2017-03-14
 - [Winchell House](summaries/winchell-house)
 - [The Detroit Observatory](essays/detroit-observatory)
 - [The Michigan Union](blurbs/union)
-- [University Hall](summaries/university-hall)
+- [University Hall](essays/university-hall)
 - Sports stadiums
 
 ## Spaces
