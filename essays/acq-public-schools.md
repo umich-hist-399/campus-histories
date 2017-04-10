@@ -5,7 +5,7 @@ date: 2017-3-22
 ---
 
 {% include jumbotron.html
-title="Buying Schools to Make Schools: The U's Acquisition of Public Schools"
+title="Buying Schools to Make Schools: The Universitys Acquisition of Public Schools"
 image="images/1965aerialcampus.jpg"
 Text=" As Don Callard of _The Ann Arbor Observer_ wrote, “nothing expands like a university,” (Callard 2009). Learn how the University of Michigan covered ground for its expanding needs through the acquisition of public schools."
 %}
