@@ -20,7 +20,6 @@ The first plant provided heat for the west and north sections of the campus, nam
 
 
 
-
 -----
 ## Sources:
 
