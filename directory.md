@@ -18,6 +18,7 @@ date: 2017-03-14
 
 ## Buildings
 - [Law Quad](essays/law-quad)
+- [East Quad](essays/eastquad)
 - [Hatcher Library](blurbs/hatcher-library)
 - [President's House](blurbs/presidents-house)
 - [C.C. Little](blurbs/cclittle)
