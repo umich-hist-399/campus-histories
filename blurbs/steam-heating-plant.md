@@ -15,7 +15,7 @@ The first plant provided heat for the west and north sections of the campus, nam
 
 {% include figure.html class="img-center" width="31%" src="/images/power-plants-map.jpg" %}
 
-{% include figure.html class="img-right" width="31%" src="/images/power-plant2.jpg" %}
+{% include figure.html class="img-center" width="31%" src="/images/power-plant2.jpg" %}
 
 
 
