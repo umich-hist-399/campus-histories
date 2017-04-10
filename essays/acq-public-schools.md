@@ -31,9 +31,7 @@ Additionally, administrators noted that Tappan School was “badly located with 
 
 On the other side of the Diag lies the present-day site of **North Quad**, a living and learning community, dining and academic complex. From State Street and Washington Street, this tall red brick structure looks impressive as it enters its seventh year of existence. However, if one goes on Huron Street and looks at the back of the façade, this will see something that does not quite resemble the rest of the architecture: the original columned entrance to the Carnegie Library of Ann Arbor.
 
-{% include figure.html class="img-left" width="48%" src="/images/carnegielibraryfront.jpg" %}
-
-{% include figure.html class="img-left" width="48%" src="/images/carnegielibraryside.jpg" %}
+{% include figure.html class="img-left" width="48%" src="/images/carnegies.jpg" %}
 
 
 Before the Carnegie Library was built however, this site had much more history to spare. In 1839, four businessmen purchased the site, recognizing its potential in its proximity to the recently settled University (Mason, 2005, 7). In 1855, the land was deeded to the Ann Arbor School District followed by the construction of a high school on the site called **Union School** in 1857 (Mason, 2005, 7).
@@ -56,14 +54,17 @@ Despite renovation efforts in 1957 to update the building, the **Frieze Building
 
 {% include figure.html class="img-left" width="33%" src="/images/planoptionfriezenq.jpg" %}
 
+{% include figure.html class="img-left" width="33%" src="/images/carnegie.jpg" %}
+
 # Sources
 
-- “Andrew Carnegie, Philanthropist” http://www.americaslibrary.gov/aa/carnegie/aa_carnegie_phil_1.html
-- Berry, Margaret D. (1954). “A History of Tappan Junior High School.”
-- Callard, Don. (2009)
-- Mason, Jeremiah. (2005). “The Frieze Building : an informal report analyzing its past, present, and future /”
+- “Andrew Carnegie, Philanthropist” [http://www.americaslibrary.gov/aa/carnegie/aa_carnegie_phil_1.html](http://www.americaslibrary.gov/aa/carnegie/aa_carnegie_phil_1.html)
+- Berry, Margaret D. “A History of Tappan Junior High School.” 1954.
+- Callard, Don. The Lost Street Names of Ann Arbor. _The Ann Arbor Observer_, July 24, 2009.
+[http://aaobserver.aadl.org/aaobserver/19282](http://aaobserver.aadl.org/aaobserver/19282)
+- Mason, Jeremiah. “The Frieze Building : an informal report analyzing its past, present, and future /”, 2005.
 - [Pamphlets and articles about Frieze]. Bentley Library envelope, call number J 13.12 A1
-- Shackman, Grace (2009). “Ann Arbor’s Carnegie Library.”
-	http://aaobserver.aadl.org/aaobserver/15245
-- Vosgerchian, Jessica (2007). “The rise and fall of the Frieze building” https://www.michigandaily.com/content/rise-and-fall-frieze-building
+- Shackman, Grace. “Ann Arbor’s Carnegie Library.”, _The Ann Arbor Observer_ 2009.
+	[http://aaobserver.aadl.org/aaobserver/15245](http://aaobserver.aadl.org/aaobserver/15245)
+- Vosgerchian, Jessica. “The rise and fall of the Frieze building”,  _The Michigan Daily_, February 9, 2007. [https://www.michigandaily.com/content/rise-and-fall-frieze-building](https://www.michigandaily.com/content/rise-and-fall-frieze-building)
 
