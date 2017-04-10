@@ -125,7 +125,7 @@ HOME PAGE
     margin-bottom: 2rem;
     background-image: url('../images/church.jpg');
     background-position: 0% 25%;
-
+    text-align:center;
     background-size: cover;
     background-repeat: no-repeat;
     color: white;
@@ -135,10 +135,13 @@ HOME PAGE
 
 p {
   font-family: 'Open Sans', sans-serif;
-  text-align:center;
   line-height: 1.6em;
   margin-bottom: 1.5em;
   max-width:60em;
+}
+
+.jumbotron p {
+  text-align:center;
 }
 
 /*****************************************************
