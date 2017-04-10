@@ -22,8 +22,8 @@ The first plant provided heat for the west and north sections of the campus, nam
 -----
 ## Sources:
 
-http://umhistory.dc.umich.edu/mort/original/1900/11%20Steam%20Heating%20Plant/index.html
+-http://umhistory.dc.umich.edu/mort/original/1900/11%20Steam%20Heating%20Plant/index.html
 
-“University of Michigan Power Plant (print made from glass negative); HS1567.” http://quod.lib.umich.edu/b/bhl/x-hs1567/hs1567. University of Michigan Library Digital Collections. Accessed: April 10, 2017.
+-“University of Michigan Power Plant (print made from glass negative); HS1567.” http://quod.lib.umich.edu/b/bhl/x-hs1567/hs1567. University of Michigan Library Digital Collections. Accessed: April 10, 2017.
 
-“Chemistry Lab, Pharmacology Wing; BL004185.” http://quod.lib.umich.edu/b/bhl/x-bl004185/bl004185. University of Michigan Library Digital Collections. Accessed: April 10, 2017.
+-“Chemistry Lab, Pharmacology Wing; BL004185.” http://quod.lib.umich.edu/b/bhl/x-bl004185/bl004185. University of Michigan Library Digital Collections. Accessed: April 10, 2017.
