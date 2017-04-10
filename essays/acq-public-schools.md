@@ -34,17 +34,17 @@ On the other side of the Diag lies the present-day site of North Quad, a living 
 
 Before the Carnegie Library was built however, this site had much more history to spare. In 1839, four businessmen purchased the site, recognizing its potential in its proximity to the recently settled University (Mason, 2005, 7). In 1855, the land was deeded to the Ann Arbor School District followed by the construction of a high school on the site called Union School in 1857 (Mason, 2005, 7).
 
-{% include figure.html class="img-left" width="60%" src="/images/unionhighschool.jpg" %}
+{% include figure.html class="img-left" width="30%" src="/images/unionhighschool.jpg" %}
 
 As the story goes, in 1904, all of Union School was destroyed beyond repair by a fire in the middle of the night with the exception of the library’s contents, which was spared (Mason, 2005, 11). Recognizing the need for a high school in the area, a new school was built—Ann Arbor City High School—with an attached library within. (Mason, 2005, 16).
 
-{% include figure.html class="img-left" width="48%" src="/images/friezebuilding.jpg" %}
+{% include figure.html class="img-left" width="38%" src="/images/friezebuilding.jpg" %}
 
-{% include figure.html class="img-left" width="48%" src="/images/city-hs-firemap.jpg" %}
+{% include figure.html class="img-left" width="38%" src="/images/city-hs-firemap.jpg" %}
 
 Remarkably, this attached library to “City High School” as it was called was the only library for all residents of the city, serving more than solely the students. For many years, residents, including the Ladies Library Association, had been jockeying for a new library to exist beyond the school (Mason, 2005, 9). Thus, the community found it to be optimal time to apply for a Carnegie Grant, an initiative supported by the business magnate Andrew Carnegie funds, which permitted the library and school to be built simultaneously (Shackman, 2009). In 1924, supported by the realization that the school had fallen into disrepair, Ann Arbor residents began to rally around the idea of building a freestanding library, which did come to fruition in 1957 with a location on Fifth Avenue (Shackman, 2009).
 
-{% include figure.html class="img-left" width="33%" src="/images/carnegie.jpg" %}
+{% include figure.html class="img-left" width="20%" src="/images/carnegie.jpg" %}
 
 Meanwhile, City High School was falling into deeper and deeper disrepair. The Ann Arbor School Board decided to announce plans to shift enrollment of high school students to a new, recently constructed location near the southern end of the University’s campus, Pioneer High School (Mason, 2005, 16). By 1956, much like what occurred with the acquisition of Tappan School years before, the University of Michigan purchased the City High School site for a sum of $1.4 million and renamed it the Frieze Building after former University President Henry S. Frieze (Shackman, 2009). Curiously, while many students today may not recognize the Frieze name and may attribute the name to an architectural feature (frieze as in sculptural decoration) he was a revered individual, educator and professional during his time ([Pamphlets and articles about Frieze], see eulogy and erection of monument remarks by presiding University President Angell).
 
