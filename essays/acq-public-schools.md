@@ -51,3 +51,15 @@ Meanwhile, City High School was falling into deeper and deeper disrepair. The An
 Despite renovation efforts in 1957 to update the building, the Frieze Building was never a sound reflection of what a University building can be, resigned for years for its decrepit condition (Vosgerchian, 2007). Still, the space was used to house academic departments such as Communication Studies and Theater for a time (Vosgerchian, 2007). In 2004 however, University President Mary Sue Coleman announced plans to tear down the building and construct North Quad (Mason, 205, 19) Many Ann Arborites and City High School alums expressed anger at the news, believing the site should be preserved and renovated due to the Carnegie Library and high school’s history (Mason, 2005; Vosgerchian, 2007). Eventually, a compromise was reached, which lead to the incorporation of the façade of the Carnegie Library and various architectural elements of the original building (Mason, 2005).
 
 {% include figure.html class="img-left" width="33%" src="/images/planoptionfriezenq.jpg" %}
+
+# Sources
+
+- “Andrew Carnegie, Philanthropist” http://www.americaslibrary.gov/aa/carnegie/aa_carnegie_phil_1.html
+- Berry, Margaret D. (1954). “A History of Tappan Junior High School.”
+- Callard, Don. (2009)
+- Mason, Jeremiah. (2005). “The Frieze Building : an informal report analyzing its past, present, and future /”
+- [Pamphlets and articles about Frieze]. Bentley Library envelope, call number J 13.12 A1
+- Shackman, Grace (2009). “Ann Arbor’s Carnegie Library.”
+	http://aaobserver.aadl.org/aaobserver/15245
+- Vosgerchian, Jessica (2007). “The rise and fall of the Frieze building” https://www.michigandaily.com/content/rise-and-fall-frieze-building
+
