@@ -6,10 +6,9 @@ date: 2017-3-22
 
 {% include jumbotron.html
 title="Buying Schools to Make Schools: The U's Acquisition of Public Schools"
-image="images/.jpg"
+image="images/1965aerialcampus.jpg"
 Text=" As Don Callard of _The Ann Arbor Observer_ wrote, “nothing expands like a university,” (Callard 2009). Learn how the University of Michigan covered ground for its expanding needs through the acquisition of public schools."
 %}
-
 
 
 As early as the 1880s, the University of Michigan was beginning to realize that they were running out of space to house their growing needs. Everything from student housing (link to East Quad essay and Social Training essay), research laboratories and classroom halls needed to be somewhere, and the current acreage owned would not be able to cut it for much longer. The following essay tracks the University’s involvement and ownership in two public schools in Ann Arbor: Tappan School and Ann Arbor City High School. Addition information on the University’s acquisition of a third public school, the Perry School, can be found here (link to Perry Building synopsis).
