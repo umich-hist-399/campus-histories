@@ -54,7 +54,7 @@ Despite renovation efforts in 1957 to update the building, the **Frieze Building
 
 {% include figure.html class="img-left" width="33%" src="/images/planoptionfriezenq.jpg" %}
 
-{% include figure.html class="img-left" width="33%" src="/images/carnegie.jpg" %}
+{% include figure.html class="img-left" width="33%" src="/images/carnegielibraryside.jpg" %}
 
 # Sources
 
