@@ -1,15 +1,15 @@
 ---
 layout: single-col
-title: Buying Schools to Make Schools: The U's Acquisition of Public Schools
+title: Buying Schools to Make Schools: The Us Acquisition of Public Schools
 date: 2017-3-22
 ---
 
 {% include jumbotron.html
 title="Buying Schools to Make Schools: The Universitys Acquisition of Public Schools"
 image="images/1965aerialcampus.jpg"
-Text="As Don Callard of _The Ann Arbor Observer_ wrote, “nothing expands like a university,” (Callard 2009). Learn how the University of Michigan covered ground for its expanding needs through the acquisition of public schools."
 %}
 
+As Don Callard of _The Ann Arbor Observer_ wrote, “nothing expands like a university,” (Callard 2009). Learn how the University of Michigan covered ground for its expanding needs through the acquisition of public schools.
 
 As early as the 1880s, the University of Michigan was beginning to realize that they were running out of space to house their growing needs. Everything from [student](https://umich-hist-399.github.io/campus-histories/essays/social-training) [housing](https://umich-hist-399.github.io/campus-histories/essays/eastquad), research laboratories and classroom halls needed to be somewhere, and the current acreage owned would not be able to cut it for much longer. The following essay tracks the University’s involvement and ownership in two public schools in Ann Arbor: Tappan School and Ann Arbor City High School. Addition information on the University’s acquisition of a third public school, the Perry School, can be found [here](https://umich-hist-399.github.io/campus-histories/summaries/perrybuilding)  
 
@@ -17,13 +17,13 @@ In 1883, the Ann Arbor School Board allocated $10,988 to build Tappan School on 
 
 In fact, though Tappan School was built not forty years before, by 1920, it was recognized that the school was inadequate: characterized by overcrowdedness, not forward thinking curriculum wise (as many parts of the country embraced the junior high school model with ‘progressive education’) and had facilities that had fallen into disrepair (Berry, 1954, 4). Local fire inspector reports from the time corroborate that the school did not pass the fire codes and was unsafe. 
 
-{% include figure.html class="img-center" width="75%" src="/images/Tappan-School-fire-map.jpg" %}
+{% include figure.html class="img-center" width="35%" src="/images/Tappan-School-fire-map.jpg" %}
 
 Additionally, administrators noted that Tappan School was “badly located with reference to its district [students who lived in a particular part of the city of Ann Arbor] being directly across the street from the University campus on land which the University will undoubtedly acquire in time,” (Berry, 1954, 4). By 1921, the Ann Arbor School Board had plans to shut it down and build a new school on a location purchased on South University Avenue that was more centrally located for the students in the district (Berry, 1954, 4).
 
 In 1923, the prediction came true: the University of Michigan purchased Tappan School on East University for a sum of $76, 211, intended to be “turned over to the Engineering College for its over-flowing class” (Berry, 1954, 7). Following this acquisition, confusion ensued for the Ann Arbor School Board over naming rights. The School Board faced a decision: they believed that the University would retain the name Tappan School for the building they had just purchased as a way to honor the University’s first president, Henry Phillip Tappan. Thus, the School Board struggled with how to name the new school on South University. The possibility of naming it after revered University president James B. Angell School was offered (Berry, 1954, 7). However, this headache resolved itself partially when “it became evident that the University was to re-name the old building East Hall,” (Berry, 1954, 8). As a result, the School Board named the new school “Tappan Junior High School”, a reflection of the school system’s recognition of teaching philosophy of the junior high school model and as a way to accommodate prior over-enrollment (Berry, 1954, 8).
 
-{% include figure.html class="img-center" width="75%" src="/images/East-Hall-map.jpg" %}
+{% include figure.html class="img-center" width="55%" src="/images/East-Hall-map.jpg" %}
 
 On the other side of the Diag lies the present-day site of North Quad, a living and learning community, dining and academic complex. From State Street and Washington Street, this tall red brick structure looks impressive as it enters its seventh year of existence. However, if one goes on Huron Street and looks at the back of the façade, this will see something that does not quite resemble the rest of the architecture: the original columned entrance to the Carnegie Library of Ann Arbor.
 
