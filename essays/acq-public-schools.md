@@ -1,12 +1,12 @@
 ---
 layout: single-col
-title: Buying Schools to Make Schools: The Us Acquisition of Public Schools
+title: Buying Schools to Make Schools
 date: 2017-3-22
 ---
 
 {% include jumbotron.html
-title="Buying Schools to Make Schools: The Universitys Acquisition of Public Schools"
-image="images/1965aerialcampus.jpg"
+title="Buying Schools to Make Schools"
+image="/images/1965aerialcampus.jpg"
 %}
 
 As Don Callard of _The Ann Arbor Observer_ wrote, “nothing expands like a university,” (Callard 2009). Learn how the University of Michigan covered ground for its expanding needs through the acquisition of public schools.
@@ -17,7 +17,7 @@ As early as the 1880s, the University of Michigan was beginning to realize that 
 
 In 1883, the Ann Arbor School Board allocated $10,988 to build **Tappan School** on East University Avenue near Church Street (Berry, 1954, 1). Today, many Ann-Arborites may recognize this location as present day **East Hall**, home of the University’s departments of Mathematics and Psychology, and they would be right. While today East Hall is a formidable presence on the eastern side of the Central Campus [Diag](https://umich-hist-399.github.io/campus-histories/essays/diag), the University’s acquisition of this space was met with much chagrin.
 
-In fact, though Tappan School was built not forty years before, by 1920, it was recognized that the school was inadequate: characterized by overcrowdedness, not forward thinking curriculum wise (as many parts of the country embraced the junior high school model with ‘progressive education’) and had facilities that had fallen into disrepair (Berry, 1954, 4). Local fire inspector reports from the time corroborate that the school did not pass the fire codes and was unsafe. 
+In fact, though Tappan School was built not forty years before, by 1920, it was recognized that the school was inadequate: characterized by overcrowdedness, not forward thinking curriculum wise (as many parts of the country embraced the junior high school model with ‘progressive education’) and had facilities that had fallen into disrepair (Berry, 1954, 4). Local fire inspector reports from the time corroborate that the school did not pass the fire codes and was unsafe.
 
 {% include figure.html class="img-center" width="35%" src="/images/Tappan-School-fire-map.jpg" %}
 
@@ -67,4 +67,3 @@ Despite renovation efforts in 1957 to update the building, the **Frieze Building
 - Shackman, Grace. “Ann Arbor’s Carnegie Library.”, _The Ann Arbor Observer_ 2009.
 	[http://aaobserver.aadl.org/aaobserver/15245](http://aaobserver.aadl.org/aaobserver/15245)
 - Vosgerchian, Jessica. “The rise and fall of the Frieze building”,  _The Michigan Daily_, February 9, 2007. [https://www.michigandaily.com/content/rise-and-fall-frieze-building](https://www.michigandaily.com/content/rise-and-fall-frieze-building)
-

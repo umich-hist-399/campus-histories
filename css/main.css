@@ -10,9 +10,18 @@
   PAGE SETUP
   *****************************************************/
 
+  .slick-prev:before, .slick-next:before {
+      font-family: "Glyphicons Halflings", "slick", sans-serif;
+      font-size: 40px;
+      color:black;
+  }
+
+
+  .slick-prev:before { content: "\e257"; color:black;}
+  .slick-next:before { content: "\e258"; }
 
 .carousel {
-  width:100%;
+  width:90%;
 }
 
 .carousel img{
@@ -124,6 +133,7 @@ HOME PAGE
 .jumbotron {
     margin-bottom: 2rem;
     background-image: url('../images/church.jpg');
+    opacity:.6;
     background-position: 0% 25%;
     text-align:center;
     background-size: cover;
@@ -198,12 +208,12 @@ hr {
     border-top: 1px solid #999;
     margin: 1em 0;
     padding: 0;
+    clear:both;
 }
 
 hr {
   margin-top: 2rem;
   margin-bottom: 2rem;
-  color:#333;
 }
 
 p.abstract {
