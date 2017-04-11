@@ -1,7 +1,7 @@
 ---
 layout: single-col
 title: Buying Schools to Make Schools
-date: 2017-3-22
+date: 2017-4-10
 ---
 
 {% include jumbotron.html
