@@ -33,16 +33,15 @@ On the other side of the Diag lies the present-day site of **North Quad**, a liv
 
 {% include figure.html class="img-left" width="48%" src="/images/carnegies.jpg" %}
 
-
 Before the Carnegie Library was built however, this site had much more history to spare. In 1839, four businessmen purchased the site, recognizing its potential in its proximity to the recently settled University (Mason, 2005, 7). In 1855, the land was deeded to the Ann Arbor School District followed by the construction of a high school on the site called **Union School** in 1857 (Mason, 2005, 7).
 
-{% include figure.html class="img-left" width="30%" src="/images/unionhighschool.jpg" %}
+{% include figure.html class="img-right" width="30%" src="/images/unionhighschool.jpg" %}
 
 As the story goes, in 1904, all of Union School was destroyed beyond repair by a fire in the middle of the night with the exception of the library’s contents, which was spared (Mason, 2005, 11). Recognizing the need for a high school in the area, a new school was built—**Ann Arbor City High School**—with an attached library within. (Mason, 2005, 16).
 
 {% include figure.html class="img-left" width="38%" src="/images/friezebuilding.jpg" %}
 
-{% include figure.html class="img-left" width="38%" src="/images/city-hs-firemap.jpg" %}
+{% include figure.html class="img-center" width="38%" src="/images/city-hs-firemap.jpg" %}
 
 Remarkably, this attached library to “City High School” as it was called was the only library for all residents of the city, serving more than solely the students. For many years, residents, including the Ladies Library Association, had been jockeying for a new library to exist beyond the school (Mason, 2005, 9). Thus, the community found it to be optimal time to apply for a Carnegie Grant, an initiative supported by the business magnate Andrew Carnegie funds, which permitted the library and school to be built simultaneously (Shackman, 2009). In 1924, supported by the realization that the school had fallen into disrepair, Ann Arbor residents began to rally around the idea of building a freestanding library, which did come to fruition in 1957 with a location on Fifth Avenue (Shackman, 2009).
 
@@ -52,9 +51,9 @@ Meanwhile, City High School was falling into deeper and deeper disrepair. The An
 
 Despite renovation efforts in 1957 to update the building, the **Frieze Building** was never a sound reflection of what a University building can be, resigned for years for its decrepit condition (Vosgerchian, 2007). Still, the space was used to house academic departments such as Communication Studies and Theater for a time (Vosgerchian, 2007). In 2004 however, University President Mary Sue Coleman announced plans to tear down the building and construct **North Quad** (Mason, 205, 19) Many Ann Arborites and City High School alums expressed anger at the news, believing the site should be preserved and renovated due to the **Carnegie Library** and high school’s history (Mason, 2005; Vosgerchian, 2007). Eventually, a compromise was reached, which lead to the incorporation of the façade of the **Carnegie Library** and various architectural elements of the original building (Mason, 2005).
 
-{% include figure.html class="img-left" width="33%" src="/images/planoptionfriezenq.jpg" %}
+{% include figure.html class="img-center" width="33%" src="/images/planoptionfriezenq.jpg" %}
 
-{% include figure.html class="img-left" width="33%" src="/images/carnegielibraryside.jpg" %}
+{% include figure.html class="img-center" width="33%" src="/images/carnegielibraryside.jpg" %}
 
 # Sources
 
