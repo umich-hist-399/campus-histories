@@ -62,10 +62,10 @@ It is clear that many of the privileges that Michigan students and faculty enjoy
 -----
 ## Sources
 
-- Bordin, Ruth Birgitta Anderson. [Women at Michigan: The “dangerous	experiment,”](http://hdl.handle.net/2027/) 1870s to the Present. xxxii, 138 p. Ann Arbor: University	of Michigan Press, 1999.
-- Chapman, Charles T., David. Owen, Larry. Towe, and University of	Michigan. [Michigan on the March.](http://hdl.handle.net/2027/) Ann Arbor, Mich.: University of	Michigan, 1944.
-- Greenbaum, Maurice Coleman. “Maurice C. Greenbaum Papers, 1940	1941.,” (1940).
-- University of Michigan. About the University of Michigan, Its Work in Peace	and War. University of Michigan. Official Publication,v. 46, No. 58,	Jan. 4, 1945, 32 p. [Ann Arbor, Mich.], 1945.
-- University of Michigan. “War Training Program.,” no. v. (1941).
-- Williams, Brian A. Michigan on the March: The University of Michigan in	World War II. Bulletin / Bentley Historical Library ;no. 42 (Dec. 1995),	43 p. [Ann Arbor, Mich.]: Bentley Historical Library, University of	Michigan, 1995.
-- Yamagiwa, Joseph K. The Japanese Language Programs at the University	of Michigan during World War II. 5 v. Ann Arbor, Mich., 1946.
+- Bordin, Ruth Birgitta Anderson. _Women at Michigan: The “dangerous experiment,” 1870s to the Present_. xxxii, 138 p. Ann Arbor: University	of Michigan Press, 1999.
+- Chapman, Charles T., David. Owen, Larry. Towe, and University of	Michigan. Michigan on the March. Ann Arbor, Mich.: University of	Michigan, 1944.
+- Greenbaum, Maurice Coleman. _Maurice C. Greenbaum Papers_. Bentley Historical Museum. (1940).
+- University of Michigan. _About the University of Michigan, Its Work in Peace	and War. University of Michigan_. Official Publication,v. 46, No. 58,	Jan. 4, 1945, 32 p. [Ann Arbor, Mich.], 1945.
+- University of Michigan. “War Training Program.,” no. v. Bentley Historical Museum (1941).
+- Williams, Brian A. _Michigan on the March: The University of Michigan in	World War II_. Bulletin / Bentley Historical Library ;no. 42 (Dec. 1995),	43 p. [Ann Arbor, Mich.]: Bentley Historical Library, University of	Michigan, 1995.
+- Yamagiwa, Joseph K. _The Japanese Language Programs at the University	of Michigan during World War II_. 5 v. Ann Arbor, Mich., 1946.
