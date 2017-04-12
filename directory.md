@@ -34,7 +34,7 @@ date: 2017-03-14
 ## Spaces
 - [Ingalls Mall](essays/ingalls-mall)
 - [The Diag](essays/diag)
-- [Zoo](blurbs/zoo)
+- [Animal House](blurbs/zoo)
 - Palmer field
 - Original East Campus
 - Original North Campus
