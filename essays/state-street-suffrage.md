@@ -45,13 +45,7 @@ Though State Street is often thought of as a male space in the early 1900s with 
 -----
 ## Sources
 
-- Behnke, Zoe Ann Bliss. “Woman Suffrage Movement in Washtenaw County, 1910-1913.
-
-- [“Flier Distributed by the National American Woman Suffrage Association Advocating the Vote for Women.”](http://quod.lib.umich.edu/b/bhl/x-bl000394/bl000394) Bentley Image Bank, Bentley Historical Library. Accessed March 20, 2017.
-
-- Hazzard, Florence W., and Katharine Lee Bates. “Florence W. Hazzard Papers", Ca. 1920-1966.
-
-- Behnke, Zoe Ann Bliss. “Woman Suffrage Movement in Washtenaw County", 1910-1913.
+- Behnke, Zoe Ann Bliss. _Woman Suffrage Movement in Washtenaw County_. 1910-1913.
 
 - [“Flier Distributed by the National American Woman Suffrage Association Advocating the Vote for Women.”](http://quod.lib.umich.edu/b/bhl/x-bl000394/bl000394) Bentley Image Bank, Bentley Historical Library. Accessed March 20, 2017.
 

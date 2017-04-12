@@ -3,7 +3,7 @@
 
 # The Michigan "Animal House"
 
-From 1929 until 1962, students could visit the "Animal House" on the way to class.
+_From 1929 until 1962, students could visit the "Animal House" on the way to class._
 
 - The zoo occupied a space that was once part of the Fletcher Farm (Pettibone; 1854). After which, the property was acquired by Dr. Ransom Smith, who built a house upon it.
 - After his death, the property was donated to the University of Michigan. The house was first used by the university as a Nurses' Home for the Homeopathic Medical School, where nurses would live while working and studying at the hospital (McRae; 1901).
