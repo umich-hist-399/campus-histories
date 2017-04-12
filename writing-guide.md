@@ -5,7 +5,7 @@ date: 2017-02-19
 ---
 
 # Writing Guide
-This page provides a writing guide for the content you're creating. In it you'll find things to review and improve as you publish and revise your essays. For more technical information about layouts, see the sample layouts menu in the nav bar.
+This page provides a writing guide for the content you're creating, outlines the minimum requirements for your essays, and explains how you will be evaluated on your website contributions. For more technical information about layouts, see the sample layouts menu in the nav bar.
 
 ## Questions to keep in mind
 - Who is our audience?
@@ -20,21 +20,36 @@ This page provides a writing guide for the content you're creating. In it you'll
 - Demonstrate your expertise through description AND analysis
 - Compose informative topic sentences that provide a clear progression through the essay
 
-## Make Sure You Have
-- Citations. Your research will not be published without them, and you will not get credit for them.
-- Meaningful headings.
-- No **bold** in your headings; use an appropriate heading level (as shown below). We can create new styles if need be.
-- Consistent use of bold and italics. Don't use either too often, or it negates the effect of highlighting something. Do not use either for references; leave those as plain text.
-- Images. Choose carefully to achieve the greatest effect and synergy with your essay.
-- Pull Quotes and Sidebars. These typographic features help call attention to certain ideas that you want to highlight and provide a way of fast reading.
+## Essay Requirements (and percent of grade)
+- Citations. Along with the analysis contained in your essay, citations are the primary indication of the breadth and depth of your research. You should have at least original historical sources. You should list relevant websites, but not cite them as historical sources. Your research must be your own. (40%)
+- Engaging writing with minimal use of passive voice. (20%)
+- Images with descriptive captions. Images must be appropriately sized and of sufficient quality for web publication. Use images not only for eye candy, but to visually communicate the main points of your story. (15%)
+- Clearly stated goal for each section (see questions above) (10%)
+- Meaningful headings that provide clear structure and ideally communicate main points. (5%)
+- Pull Quotes and Sidebars. These typographic features help call attention to certain ideas that you want to highlight and provide a way of fast reading. (5%)
+- Consistent use of bold and italics. Don't use either too often, or it negates the effect of highlighting something. Do not use either for references; leave those as plain text. (5%)
+
+## Blurbs and Summaries
+- Blurbs are ~200 words.
+- Summaries are ~600 words.
+- Both require the same level of research and citation care as essays
+
+# All work due April 28!
 
 ## Citations
-We will use author date notation (Smith 1975, 13). Avoid citing webpages whenever possible; rather, find the original historical source. If you need to respond to something on the webpage itself (as opposed some historical source it discusses), you won't have a page number, but you'll still have author and date. If you can't find a date, be annoyed and  use "n.d." (for no date).
+For inline citations, we will use author date notation (Smith 1975, 13). Do not cite webpages as primary sources! Find the original historical source, and cite that instead. If you need to respond to something on the webpage itself (as opposed some historical source it discusses), then, and only then, should you cite the webpage. You won't have a page number, but you'll still have author and date. If you can't find a date, use "n.d." (for no date).
 
-Be as specific and consistent as you can with your citations, even though some of your historical sources may make this difficult.
+Be as specific and consistent as you can with your citations, even though some of your historical sources may require some improvising.
+
+
+## Sources
+At the end of your essay, you should list the full bibliographic entry for your source to complement the inline citations that appear in the text. Use an second-level heading that says "Sources" (with no colon) at the top of this section.
+
+## Image Credits
+Provide descriptive phrases for your captions, and use the first few words as a "key" that you can use in your Image Credits section (also a second-level heading). Do not use images that you don't have permission to use. As with in-text references, you must provide detailed citations to your image source. This means that you cannot simply reuse an image you've found online unless you have a specific reference for it.
 
 ## Section Headings
-For your reference, all the headings styles are demonstrated below. Remember that you must have a space between the ### and the actual heading!
+Do not use **bold** in your headings; use an appropriate heading level (as shown below). We can create new styles if need be. For your reference, all the headings styles are demonstrated below. Remember that you must have a space between the ### and the actual heading!
 
 ```
 # Heading 1

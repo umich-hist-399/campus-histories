@@ -11,21 +11,24 @@ date: 2017-03-14
 - [Social Training](essays/social-training)
 - [State Street Suffrage](essays/state-street-suffrage)
 - [Evolution of State Street](summaries/evolution-of-state-street)
-- Acquisition of public schools
+- [Acquisition of Public Schools](essays/acq-public-schools)
 - Dorms and Boarding Houses
-- WWII and campus planning
+- [WWII and campus planning](essays/world-war-two)
 - International Students and Diversity
 
 ## Buildings
 - [Law Quad](essays/law-quad)
+- [East Quad](essays/eastquad)
 - [Hatcher Library](blurbs/hatcher-library)
 - [President's House](blurbs/presidents-house)
-- [C.C. Little](essays/cclittle)
+- [C.C. Little](blurbs/cclittle)
 - [Perry Building](summaries/perrybuilding)
 - [Waterman Gymnasium](summaries/watermangymnasium)
 - [Winchell House](summaries/winchell-house)
-- Detroit Observatory
-- [University Hall](summaries/university-hall)
+- [The Detroit Observatory](essays/detroit-observatory)
+- [The Michigan Union](blurbs/union)
+- [University Hall](essays/university-hall)
+- [Rackham School of Graduate Studies](blurbs/rackham-school)
 - Sports stadiums
 
 ## Spaces

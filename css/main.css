@@ -10,13 +10,41 @@
   PAGE SETUP
   *****************************************************/
 
-
-  body {
-    font-family: 'Open Sans', sans-serif;
-    line-height: 1.4em;
-    background-color: #fefefe;
-    font-size: 15px;
+  .slick-prev:before, .slick-next:before {
+      font-family: "Glyphicons Halflings", "slick", sans-serif;
+      font-size: 40px;
+      color:black;
   }
+
+
+  .slick-prev:before { content: "\e257"; color:black;}
+  .slick-next:before { content: "\e258"; }
+
+.carousel {
+  width:90%;
+}
+
+.carousel img{
+  max-width:100%;
+}
+
+p.carousel-caption {
+  color:black;
+  border:1px solid black;
+  bottom: 0;
+  min-height: 80px;
+  left: 0;
+  position: relative;
+  width: 100%;
+  z-index: 2;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  line-height: 1.4em;
+  background-color: #fefefe;
+  font-size: 15px;
+}
 
 .navbar {
   height:60px;
@@ -103,9 +131,11 @@ HOME PAGE
 *****************************************************/
 
 .jumbotron {
-    margin-bottom: 0px;
+    margin-bottom: 2rem;
     background-image: url('../images/church.jpg');
+    opacity:.6;
     background-position: 0% 25%;
+    text-align:center;
     background-size: cover;
     background-repeat: no-repeat;
     color: white;
@@ -115,10 +145,13 @@ HOME PAGE
 
 p {
   font-family: 'Open Sans', sans-serif;
-
   line-height: 1.6em;
   margin-bottom: 1.5em;
   max-width:60em;
+}
+
+.jumbotron p {
+  text-align:center;
 }
 
 /*****************************************************
@@ -168,6 +201,15 @@ h5 {
   font-size:1.4rem;
 }
 
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #999;
+    margin: 1em 0;
+    padding: 0;
+    clear:both;
+}
 
 hr {
   margin-top: 2rem;
@@ -362,13 +404,13 @@ figure {
 }
 
 figcaption {
-  font-size: 80%;
-  color:#666;
+  font-size: 1rem;
+  color:#888;
   font-family: 'Oxygen', sans-serif;
   display:block;
   margin:.2rem 0 2rem 0;
   clear:both;
-  line-height: 1.3rem;
+  line-height: 1.1rem;
 }
 
 figcaption.img-right {
@@ -382,6 +424,8 @@ figcaption.img-left {
 figcaption p {
   margin:0;
   padding:0;
+  line-height: 1.2rem;
+
 }
 
 footer {
