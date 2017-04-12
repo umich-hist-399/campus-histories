@@ -32,9 +32,9 @@ date: 2017-03-14
 - Sports stadiums
 
 ## Spaces
+- [Animal House](blurbs/zoo)
 - [Ingalls Mall](essays/ingalls-mall)
 - [The Diag](essays/diag)
-- [Animal House](blurbs/zoo)
 - Palmer field
 - Original East Campus
 - Original North Campus
