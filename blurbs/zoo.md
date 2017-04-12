@@ -18,7 +18,7 @@ From 1929 until 1962, students could visit the "Animal House" on the way to clas
 
 - "Animal House (Campus Zoo) and Enclosure Covered in Snow (Women’s Athletic Building Visible in Left Background)." Bentley Image Bank, Bentley Historical Library. Accessed March 20, 2017. http://quod.lib.umich.edu/b/bhl/x-hs12966/hs12966.
 
-- [“Animal House | U-M LSA U-M College of LSA.”](https://lsa.umich.edu/lsa/news-events/all-news/search-news/animal-house.html) Accessed March 20, 2017.
+- [“Animal House: U-M LSA U-M College of LSA.”](https://lsa.umich.edu/lsa/news-events/all-news/search-news/animal-house.html) Accessed March 20, 2017.
 
 - Fraser, Kelly. [“Welcome to the Jungle: The Real Animal House.”](https://digital.bentley.umich.edu/midaily/mdp.39015071755180/660) Michigan Daily Digital Archives, November 8, 2007.
 
