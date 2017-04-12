@@ -47,18 +47,18 @@ Though State Street is often thought of as a male space in the early 1900s with 
 
 - Behnke, Zoe Ann Bliss. “Woman Suffrage Movement in Washtenaw County, 1910-1913.
 
-- “Flier Distributed by the National American Woman Suffrage Association Advocating the Vote for Women.” Bentley Image Bank, Bentley Historical Library. Accessed March 20, 2017. http://quod.lib.umich.edu/b/bhl/x-bl000394/bl000394.
+- [“Flier Distributed by the National American Woman Suffrage Association Advocating the Vote for Women.”](http://quod.lib.umich.edu/b/bhl/x-bl000394/bl000394) Bentley Image Bank, Bentley Historical Library. Accessed March 20, 2017.
 
-- Hazzard, Florence W., and Katharine Lee Bates. “Florence W. Hazzard Papers, Ca. 1920-1966.
+- Hazzard, Florence W., and Katharine Lee Bates. “Florence W. Hazzard Papers", Ca. 1920-1966.
 
-- Behnke, Zoe Ann Bliss. “Woman Suffrage Movement in Washtenaw County, 1910-1913.
+- Behnke, Zoe Ann Bliss. “Woman Suffrage Movement in Washtenaw County", 1910-1913.
 
-- “Flier Distributed by the National American Woman Suffrage Association Advocating the Vote for Women.” Bentley Image Bank, Bentley Historical Library. Accessed March 20, 2017. http://quod.lib.umich.edu/b/bhl/x-bl000394/bl000394.
+- [“Flier Distributed by the National American Woman Suffrage Association Advocating the Vote for Women.”](http://quod.lib.umich.edu/b/bhl/x-bl000394/bl000394) Bentley Image Bank, Bentley Historical Library. Accessed March 20, 2017.
 
 - Hazzard, Florence W., and Katharine Lee Bates. “Florence W. Hazzard Papers", Ca. 1920-1966".
 
-- Shaw, Wilfred Byron, and University of Michigan. The University of Michigan, an Encyclopedic Survey, 2001. http://quod.lib.umich.edu/u/umsurvey/.
+- Shaw, Wilfred Byron, and University of Michigan. [_The University of Michigan, an Encyclopedic Survey_](http://quod.lib.umich.edu/u/umsurvey/), 2001.
 
-- Stanton, Elizabeth Cady, Susan Brownell Anthony, Matilda Joslyn Gage, and Ida Husted Harper. History of Woman Suffrage: 1900-1920. Fowler & Wells, 1922.
+- Stanton, Elizabeth Cady, Susan Brownell Anthony, Matilda Joslyn Gage, and Ida Husted Harper. _History of Woman Suffrage: 1900-1920_. Fowler & Wells, 1922.
 
-- University of Michigan. For Michigan Women Everywhere. [24] p. incl. illus., ports. Detroit, Mich.: University of Michigan Women’s League building and endowment fund, 1924. http://hdl.handle.net/2027/ mdp.39015071368834.
+- University of Michigan. _For Michigan Women Everywhere_. [24] p. incl. illus., ports. Detroit, Mich.: University of Michigan Women’s League building and endowment fund, 1924.
