@@ -28,6 +28,7 @@ date: 2017-03-14
 - [The Detroit Observatory](essays/detroit-observatory)
 - [The Michigan Union](blurbs/union)
 - [University Hall](essays/university-hall)
+- [Rackham School of Graduate Studies](blurbs/rackham-school)
 - Sports stadiums
 
 ## Spaces
