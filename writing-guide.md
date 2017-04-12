@@ -12,7 +12,7 @@ This page provides a writing guide for the content you're creating, outlines the
 - What do they know?
 - What do we want them to know?
 - How do we want them to think differently?
-- What kinds of design will encourage curiosity and exploration?
+- How can typography encourage curiosity and exploration?
 
 ## Style
 - Write something you'd like to read
@@ -20,19 +20,20 @@ This page provides a writing guide for the content you're creating, outlines the
 - Demonstrate your expertise through description AND analysis
 - Compose informative topic sentences that provide a clear progression through the essay
 
-## Essay Requirements (and percent of grade)
-- Citations. Along with the analysis contained in your essay, citations are the primary indication of the breadth and depth of your research. You should have at least original historical sources. You should list relevant websites, but not cite them as historical sources. Your research must be your own. (40%)
-- Engaging writing with minimal use of passive voice. (20%)
-- Images with descriptive captions. Images must be appropriately sized and of sufficient quality for web publication. Use images not only for eye candy, but to visually communicate the main points of your story. (15%)
-- Clearly stated goal for each section (see questions above) (10%)
+## Essay Requirements (and percent of each essay grade)
+- Citations. Along with the analysis contained in your essay, citations are the primary indication of the breadth and depth of your research. You should have around 5 original historical sources and 5 secondary sources. You should list relevant websites, but not count them as official sources. Your research must be your own. (40%)
+- Engaging writing, engaging the above questions, with minimal use of passive voice. (20%)
+- Images with descriptive captions. Images must be appropriately sized, fit into the page, and of sufficient quality for web publication. Use images not merely as eye candy, but to visually communicate the main points of your story. (15%)
+- Clearly stated goal/relevance for each section (see questions above). (10%)
 - Meaningful headings that provide clear structure and ideally communicate main points. (5%)
-- Pull Quotes and Sidebars. These typographic features help call attention to certain ideas that you want to highlight and provide a way of fast reading. (5%)
-- Consistent use of bold and italics. Don't use either too often, or it negates the effect of highlighting something. Do not use either for references; leave those as plain text. (5%)
+- Pull quotes and sidebars in all essays; one essay must use the wide-col layout. These typographic features help call attention to certain ideas that you want to highlight and provide a way of fast reading. (5%)
+- Consistent use of bold and italics. Don't use either too often; you'll negate the effect of highlighting something. Do not use either for references; leave those as unformatted text. (5%)
+- All essays (combined) are 50% of total writing grade;
 
 ## Blurbs and Summaries
-- Blurbs are ~200 words.
-- Summaries are ~600 words.
-- Both require the same level of research and citation care as essays
+- Blurbs are ~200 words (30% total writing grade).
+- Summaries are ~600 words (20% total writing grade).
+- Both require the same level of research and citation care as essays!
 
 # All work due April 28!
 
@@ -84,7 +85,7 @@ Do not use **bold** in your headings; use an appropriate heading level (as shown
 
 
 ## Site Layouts and Typography
-For more on how to achieve certain layout effects, please see the various sample essays; they each contain the code snippets to make things appear properly for the kind of layout you are using.
+For more on how to achieve certain layout effects, please see the various sample essays; they each contain the code snippets you can copy and paste into your own page.
 
 ## Further Reference
 If you can't find what you need on the sample pages, please consult the Markdown [basic writing and formatting guide](https://help.github.com/articles/basic-writing-and-formatting-syntax/). And bring questions to class, both technical and broader design questions.

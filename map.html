@@ -5,7 +5,7 @@ title: Map
 
 <div class="container-fluid">
   <div class="row">
-    <div class="col-md-6">
+    <div class="col">
 
       <div id="mapid"></div>
 
@@ -17,9 +17,6 @@ title: Map
 
     </div>
 
-    <div class="col-md-6 info">
-      <div id="info_blurb"></div>
-    </div>
   </div>
 </div>
 
@@ -38,17 +35,10 @@ title: Map
 
   var outlines = new L.FeatureGroup();
 
-  /*
-  function addDataToMap(data, map) {
-      var dataLayer = L.geoJson(data);
-      dataLayer.addTo(map);
-  }
-
-  $.getJSON("1876-ground-plat.geojson", function(data) { addDataToMap(data, map); });
-  */
 </script>
 
-<script src="{{site.baseurl}}/js/main.js"></script>
+<script src="{{site.baseurl}}/js/map.js"></script>
+<script src="{{site.baseurl}}/js/togeojson.js"></script>
 
 
 <script>

@@ -4,8 +4,8 @@
 
 <div class="jumbotron jumbotron-fluid" style="background-image: url('{{site.baseurl}}/{{include.image}}')">
 <div class="container">
-<h1 class="display-3">{{ include.title}}</h1>
-<p class="lead">
+<h1 id="page-title" class="display-3">{{ include.title}}</h1>
+<p id="page-subtitle" class="lead">
   {{ include.text | markdownify}}
 </p>
 </div>

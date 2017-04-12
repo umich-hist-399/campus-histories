@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>martha-cook</name>
+    <Style id="poly-097138-1-76-nodesc-normal">
+      <LineStyle>
+        <color>ff387109</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4c387109</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-097138-1-76-nodesc-highlight">
+      <LineStyle>
+        <color>ff387109</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4c387109</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-097138-1-76-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-097138-1-76-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-097138-1-76-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>martha-cook</name>
+      <styleUrl>#poly-097138-1-76-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -83.7380773,42.2748121,0
+              -83.7380666,42.2742088,0
+              -83.737852,42.2742128,0
+              -83.7378627,42.2746891,0
+              -83.737734,42.2746891,0
+              -83.7377393,42.2748121,0
+              -83.7380773,42.2748121,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>
