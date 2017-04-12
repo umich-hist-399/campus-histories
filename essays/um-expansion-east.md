@@ -34,11 +34,11 @@ It should be noted that Freeman’s was torn down to make way for the Rackham Sc
 
 By the last decade of the nineteenth century, it is clear that the University is set on expanding its campus to accommodate the interests of its students and faculty, what Perry and Weiwel (2005) would term “internal logic.”
 
- {% include figure.html class="img-center" src="/images/1890-map-blue-highlighted.jpg" %}
+ {% include figure.html class="img-center" width="50%" src="/images/1890-map-blue-highlighted.jpg" %}
 
 In the map above, from 1890, the University has acquired or constructed many buildings. One building, Tappan School, former elementary school that was condemned as a fire hazard by the state fire inspector in 1922, was purchased by the University that same year and became present day East Hall, seen below (‘Tappan School’).
 
- {% include figure.html class="img-center" src="/images/tappan-school-diag.jpg" %}
+ {% include figure.html class="img-center" width="50%" src="/images/tappan-school-diag.jpg" %}
 
 Further development on the Diag included the Heating Plant (1883) and the ‘Boiler House’ (1894), built to provide heating for rapidly increasing number of buildings on campus (‘1883 Heating Plant and 1894 Boiler House’). Another plant built on Washington Street in 1911 rendered it no longer needed. The latter unsightly smokestack was disliked by faculty for its aesthetics in the midst of the green space Diag (‘1883 Heating Plant and 1894 Boiler House’).
 
@@ -82,14 +82,14 @@ The Arch was and still is a campus landmark, with growing lore attached to it an
 
 Top: View of Arch from southwest (top); view of Arch from northeast (second from top); students walk through ‘The Arch—A Symbol of The College of Engineering’ (second from bottom); view of Diag from Engineering Arch; the Engineering Arch today.
 
-## Sources:
+## Sources
 
 - ‘‘1883 Heating Plant and 1894 Boiler House’
 [http://umhistory.dc.umich.edu/mort/original/1900/18%20-Boiler%20House%20(1894)/index.html](http://umhistory.dc.umich.edu/mort/original/1900/18%20-Boiler%20House%20(1894)/index.html)
 
-- Angell, J. Burrill. (1909). Farewell address of President James Burrill Angell to the undergraduate students of the University of Michigan, Waterman gymnasium, May the twenty-eighth, 1909. [Ann Arbor, Mich.: Ann Arbor Press.
+- Angell, J. Burrill. Farewell address of President James Burrill Angell to the undergraduate students of the University of Michigan, Waterman gymnasium, May the twenty-eighth, 1909. [Ann Arbor, Mich.: Ann Arbor Press].
 
-- Callard, Don. The Lost Street Names of Ann Arbor. The Ann Arbor Observer, July 24, 2009.
+- Callard, Don. The Lost Street Names of Ann Arbor. _The Ann Arbor Observer_, July 24, 2009.
 [http://aaobserver.aadl.org/aaobserver/19282](http://aaobserver.aadl.org/aaobserver/19282)
 
 - Crawford, Pamela. (1976). Detroit Observatory : architectural design project. University of Michigan, College of Architecture and Urban Planning.
@@ -104,14 +104,15 @@ Top: View of Arch from southwest (top); view of Arch from northeast (second from
 Accessed via: [http://um2017.org/Ann-Arbor/Ann_Arbor_Maps/Prettymans_Boarding_Club.html](http://um2017.org/Ann-Arbor/Ann_Arbor_Maps/Prettymans_Boarding_Club.html)
 
 
-- ‘Tappan  School’
-	[http://um2017.org/Ann-Arbor/Ann_Arbor_Maps/Tappan_School.html](http://um2017.org/Ann-Arbor/Ann_Arbor_Maps/Tappan_School.html)
-
+- Berry, Margaret D. “A History of Tappan Junior High School.” 1954.
+	
 - ‘The Detroit Observatory’
 [http://umhistory.dc.umich.edu/mort/central/Observatory%20Street/Observatory/index.html](http://umhistory.dc.umich.edu/mort/central/Observatory%20Street/Observatory/index.html)
 
 - ‘Waterman Gymnasiums’
 [http://umhistory.dc.umich.edu/mort/original/1900/19%20Waterman%20Gymnasium/index.html](http://umhistory.dc.umich.edu/mort/original/1900/19%20Waterman%20Gymnasium/index.html)
+
+- Wear, Robert E. “University of Michigan’s Waterman Gymnasium : development and expansion from 1894 to 1930.”, 1950. Call number 861152 Aa 1
 
 - Wineberg, Susan. The Lost University - The Forgotten Campus of 1900. The Ann Arbor Observer, May 27, 2011.
 [http://aaobserver.aadl.org/aaobserver/40615](http://aaobserver.aadl.org/aaobserver/40615)
