@@ -1,3 +1,10 @@
+---
+layout: single-col
+title: Rackham School of Graduate Studies
+date: 2017-04-12
+---
+
+
 # Rackham School of Graduate Studies
 
 - Construction funded by Horace H. Rackham and Mary A. Rackham in 1935 with a gift of  more than $10 million dollars
