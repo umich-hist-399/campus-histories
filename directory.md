@@ -32,7 +32,7 @@ date: 2017-03-14
 - Sports stadiums
 
 ## Spaces
-- [Animal House](blurbs/zoo)
+- [Animal House](blurbs/animal-house)
 - [Ingalls Mall](essays/ingalls-mall)
 - [The Diag](essays/diag)
 - Palmer field
