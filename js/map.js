@@ -75,11 +75,13 @@ function loadMarker(i, markerData) {
     });
 
     var popup = '<a href="#"><div class="map-popup">';
+    popup += '<img src="images/arch-1.jpg">';
     popup += "<h4>" + markerData.name + "</h4>";
     popup += '<p>' + markerData.teaser + '</p>';
     popup += '</div></a>';
 
     popup += '<a href="#"><div class="map-popup">';
+    popup += '<img src="images/arch-2.jpg">';
     popup += "<h4>The University Goes South</h4>";
     popup += '<p>Nothing Expands like a University</p>';
     popup += '</div></a>';
