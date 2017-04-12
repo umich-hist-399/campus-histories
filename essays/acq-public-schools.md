@@ -13,7 +13,7 @@ As Don Callard of _The Ann Arbor Observer_ wrote, “nothing expands like a univ
 
 As early as the 1880s, the University of Michigan was beginning to realize that they were running out of space to house their growing needs. Everything from [student](https://umich-hist-399.github.io/campus-histories/essays/social-training) [housing](https://umich-hist-399.github.io/campus-histories/essays/eastquad), research laboratories and classroom halls needed to be somewhere, and the current acreage owned would not be able to cut it for much longer. The following essay tracks the University’s involvement and ownership in two public schools in Ann Arbor: Tappan School and Ann Arbor City High School. Addition information on the University’s acquisition of a third public school, the Perry School, can be found [here](https://umich-hist-399.github.io/campus-histories/summaries/perrybuilding)  
 
-# Tappan School to East Hall
+## Tappan School to East Hall
 
 In 1883, the Ann Arbor School Board allocated $10,988 to build **Tappan School** on East University Avenue near Church Street (Berry, 1954, 1). Today, many Ann-Arborites may recognize this location as present day **East Hall**, home of the University’s departments of Mathematics and Psychology, and they would be right. While today East Hall is a formidable presence on the eastern side of the Central Campus [Diag](https://umich-hist-399.github.io/campus-histories/essays/diag), the University’s acquisition of this space was met with much chagrin.
 
@@ -27,7 +27,7 @@ Additionally, administrators noted that Tappan School was “badly located with 
 
 {% include figure.html class="img-center" width="55%" src="/images/East-Hall-map.jpg" %}
 
-# Union to City to Frieze to North Quad
+## Union to City to Frieze to North Quad
 
 On the other side of the Diag lies the present-day site of **North Quad**, a living and learning community, dining and academic complex. From State Street and Washington Street, this tall red brick structure looks impressive as it enters its seventh year of existence. However, if one goes on Huron Street and looks at the back of the façade, this will see something that does not quite resemble the rest of the architecture: the original columned entrance to the Carnegie Library of Ann Arbor.
 
