@@ -26,7 +26,7 @@ Beginning as early as 1875, three primary boarding houses existed to serve prima
 
 Owned and operated by University alumnus and football team captain Horace Prettyman, the house served as an unofficial social hall for students and was regarded as a campus landmark, one of the ‘largest and the most popular of Ann Arbor's boarding houses in the days when the vast majority of the student body used this type of service for their meals.’ Within these boarding houses, the proprietors offered a collegial atmosphere for lodgers, as seen below.
 
-{% include figure.html class="img-center-full" src="/images/boarding-house-residents.jpg" caption="A group of student residents of 21 Six Street in Ann Arbor, circa June 1896. Image courtesy of The Bentley Library"
+{% include figure.html class="img-center" width="70%" src="/images/boarding-house-residents.jpg" caption="A group of student residents of 21 Six Street in Ann Arbor, circa June 1896. Image courtesy of The Bentley Library"
  %}
 
 It was to the chagrin of many alumni when these boarding houses closed. In the case of Chubb’s and Prettyman’s, the University purchased the lots at first to use as University sponsored housing. Later, the buildings were razed in order to make way for the Rackham Graduate School in the case of the former and the School of Dentistry in the case of the latter. (Michigan Alumnus issue from 1938).
@@ -63,7 +63,7 @@ Upon learning the trajectory of local boarding houses and University development
 
 
 
-## Sources:
+## Sources
 
 “A Chronology of University of Michigan Buildings, 1840-1999.” Bentley Historical Library. 
 [http://bentley.umich.edu/legacy-support/campus_tour/chronology.php](http://bentley.umich.edu/legacy-support/campus_tour/chronology.php)
