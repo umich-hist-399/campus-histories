@@ -5,8 +5,9 @@
 - Architecturally designed to face Hatcher Graduate Library, inspired by the plan of the World’s Columbian Exposition in Chicago in 1893.
 - Now serves as a school for graduate students seeking master’s degrees and Ph.D’s in a number of disciplines and as a space for lectures and talks
 
+{% include figure.html class="img-center" width="33%" caption="The Rackham School of Graduate Studies today" src="/images/AerialViewRackham.jpg" %}
 
 # Sources
 - The Michigan Alumnus, November 12, 1938, page 101
 - “A Historical Tour of the University of Michigan campus, 2007”; Bentley Historical Library.
-- Image credit: http://www.rackham.umich.edu/rackhamgrad/
+- Image credit: [http://www.rackham.umich.edu/rackhamgrad/](http://www.rackham.umich.edu/rackhamgrad/)
