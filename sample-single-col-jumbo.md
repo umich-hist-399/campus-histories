@@ -81,19 +81,42 @@ Pellentesque auctor neque nec urna. Proin sapien ipsum, porta a, auctor quis, eu
 
 <div class="carousel">
   <div>
-    <img src="/images/waterman1.jpg">
+    <img src="../images/waterman1.jpg">
     <p class="carousel-caption">This is my 1 caption.</p>
   </div>
-  <div><img src="/images/waterman2.jpg">
+  <div><img src="../images/waterman2.jpg">
     <p class="carousel-caption">This is my 2 caption.</p>
   </div>
-  <div><img src="/images/waterman3.jpg">
+  <div><img src="../images/waterman3.jpg">
     <p class="carousel-caption">This is my 3 caption.</p>
   </div>
-  <div><img src="/images/campus-plan-cobb.jpg">
+  <div><img src="../images/campus-plan-cobb.jpg">
     <p class="carousel-caption">This is my 4 caption.</p>
   </div>
-  <div><img src="/images/campus-plan-rippey.jpg">
+  <div><img src="../images/campus-plan-rippey.jpg">
     <p class="carousel-caption">This is my 5 caption.</p>
   </div>
 </div>
+
+```
+{%raw%}
+<div class="carousel">
+  <div>
+    <img src="../images/waterman1.jpg">
+    <p class="carousel-caption">This is my 1 caption.</p>
+  </div>
+  <div><img src="../images/waterman2.jpg">
+    <p class="carousel-caption">This is my 2 caption.</p>
+  </div>
+  <div><img src="../images/waterman3.jpg">
+    <p class="carousel-caption">This is my 3 caption.</p>
+  </div>
+  <div><img src="../images/campus-plan-cobb.jpg">
+    <p class="carousel-caption">This is my 4 caption.</p>
+  </div>
+  <div><img src="../images/campus-plan-rippey.jpg">
+    <p class="carousel-caption">This is my 5 caption.</p>
+  </div>
+</div>
+{%endraw%}
+```

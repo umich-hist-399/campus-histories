@@ -5,17 +5,16 @@
  * ==============================
  */
 
-// Sheetrock expects to be outputting HTML for each row, so here's a place to put it.
-$('<div id="sheetrock"></div>').appendTo(document.body).hide();
-
-function getMarkersByDateRange(year, callback) {
+function getMarkers(callback) {
+  console.log($('#sheetrock').html());
+  console.log("starting getMarkers");
     // The spreadsheet must be either "visible to anyone with the link", or "public on the web".
-    var sheetURL =
-     "https://docs.google.com/spreadsheets/d/1FUMifB2hMs0nSj3l7NYDgqjnBBYPfPBqBzKK1kmSvBY/edit?usp=sharing#gid=0";
+
+    var sheetURL = "https://docs.google.com/spreadsheets/d/1FUMifB2hMs0nSj3l7NYDgqjnBBYPfPBqBzKK1kmSvBY/edit?usp=sharing#gid=0";
+    //var sheetURL = "https://docs.google.com/spreadsheets/d/1fDk5N0cqxQx4wEWwA3Ck_Jsho9Vluh0aHWFWhUZw7FU/edit?usp=sharing#gid=0";
     var markers = [];
     $('#sheetrock').sheetrock({
         url: sheetURL,
-        //query: "select * where C <= " + year + " and D >= " + year,
         query: "select *",
         fetchSize: 0,
         reset: true,
@@ -42,68 +41,71 @@ function getMarkersByDateRange(year, callback) {
     });
 }
 
-function loadMarker(i, markerData) {
+function createPopupRows(pages) {
 
+  //loop through supplied slugs to retrieve page title and subtitle
+  console.log("about to begin page loop.");
+
+  $.each(pages, function(i,val) {
+    var filename = val + '.html';
+    console.log("processing " + filename);
+
+    var $div = $('<div>');
+    var temp = i;
+
+    // format for spreadsheet (and lesson on separators)
+    // title;blurb;link|title;blurb;link|etc
+
+    $div.load(filename + '', function($row){
+      console.log("finished loading page content.");
+      console.log("index at callback" + temp);
+      var title = $(this).find("h1:first").text();
+      var subtitle = $(this).find("#page-subtitle").text();
+      var image = $(this).find("img:first").attr('src');
+      console.log(image);
+      image = image.replace("/images/", "images/thumbs/"); //  use thumbs path instead
+      var rowString = '<a href='+filename+'><div class="popup-row">';
+      rowString += '<img src="' + image + '">';
+      rowString += '<h4>' + title + '</h4>';
+      rowString += '<p>' + subtitle + '</p>';
+      rowString += '<div style="clear:both"></div></div></a>';
+      console.log("just made row: " + rowString);
+      console.log($('.map-popup').html());
+      $('.map-popup').append(rowString);
+    });
+  }); // end each
+}
+
+function loadMarker(i, markerData) {
+  console.log("loadMarker...");
   var slug = markerData.kmlFile;
   var filename = "kml/" + slug + ".kml";
   var geojsonFeature = {};
+
+  console.log("about to get KML file");
+
   $.ajax(filename).done(function(xml) {
+    console.log("KML file loaded.");
     geojsonFeature = toGeoJSON.kml(xml);
-    //console.log(geojsonFeature);
-    //console.log(JSON.stringify(geojsonFeature));
 
-    // create pop-up
-    console.log("assembling popup...");
-
-
-    $.each(markerData.contentPages, function(i,val) {
-      var filename = val + '.html';
-      console.log(filename);
-
-      var $div = $('<div>');
-
-      $div.load(filename + '', function(){
-          console.log("getting data from file...")
-          //console.log($(this).html());
-          var title = $(this).find("h1:first");
-          console.log(title);
-          var ttext = $(title).text();
-          console.log(ttext);
-      });
-
-
-    });
-
-    var popup = '<a href="#"><div class="map-popup">';
-    popup += '<img src="images/arch-1.jpg">';
+    var popup = '<div class="map-popup">';
     popup += "<h4>" + markerData.name + "</h4>";
     popup += '<p>' + markerData.teaser + '</p>';
     popup += '</div></a>';
 
-    popup += '<a href="#"><div class="map-popup">';
-    popup += '<img src="images/arch-2.jpg">';
-    popup += "<h4>The University Goes South</h4>";
-    popup += '<p>Nothing Expands like a University</p>';
-    popup += '</div></a>';
-
-    console.log(popup);
-
-
+    //console.log(popup);
     var popup = L.popup().setContent(popup);
-    outlines.addLayer(L.geoJSON(geojsonFeature).bindPopup(popup).on('click', function(e) {
+    featureGroup.addLayer(L.geoJSON(geojsonFeature).bindPopup(popup, {
+    maxWidth : 560}).on('click', function(e) {
       //console.log(e.layer.feature.properties.name);
+      //should i make the popup here?
+      $.when( createPopupRows(markerData.contentPages) ).then(function( ) {
+        console.log("createPopupRows is done."); // Alerts 200
+      });
+      //createPopupRows(markerData.contentPages, rowString);
+      console.log("moved past createPopupRows call.");
+
     }));
 
   }); //end ajax
 } //end loadMarker
-
-
-getMarkersByDateRange(year, function(markers) {
-    // clear away old markers
-    outlines.clearLayers();
-    // and add the markers for this year
-    $.each(markers, loadMarker);
-    console.log(outlines);
-    map.addLayer(outlines);
-  }
-);

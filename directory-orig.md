@@ -7,6 +7,7 @@ date: 2017-03-14
 # Directory
 
 ## Topics
+
 - [UM Expansion East](essays/um-expansion-east)
 - [Social Training](essays/social-training)
 - [State Street Suffrage](essays/state-street-suffrage)

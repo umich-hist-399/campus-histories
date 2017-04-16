@@ -1,40 +1,25 @@
-<!-- Static navbar -->
-      <nav class="navbar navbar-default navbar-fixed-top">
-          <div class="navbar-header">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
-              <span class="sr-only">Toggle navigation</span>
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-            </button>
-            <a class="navbar-brand" href="{{site.baseurl}}/">Displaced Histories</a>
-          </div>
-          <div id="navbar" class="navbar-collapse collapse">
-            <ul class="nav navbar-nav">
-              <li><a href="{{site.baseurl}}/about">About</a></li>
-              <li><a href="{{site.baseurl}}/map">Map</a></li>
-              <li><a href="{{site.baseurl}}/directory">Directory</a></li>
-              <li><a href="{{site.baseurl}}/bibliography">Bibliography</a></li>
-              <!--
-              <li class="dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Summaries</a>
-                <ul class="dropdown-menu">
-                  <li><a href="{{site.baseurl}}summaries/perry-building.html">Perry Building</a></li>
-                  <li role="separator" class="divider"></li>
-                  <li class="dropdown-header">Explore</li>
-                  <li><a href="#">Directory</a></li>
-                </ul>
-              </li>
-            -->
-              <li><a href="{{site.baseurl}}/writing-guide">Writing Guide</a></li>
-              <li class="dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Sample Layouts</a>
-                <ul class="dropdown-menu">
-                  <li><a href="{{site.baseurl}}/sample-single-col">single-col</a></li>
-                  <li><a href="{{site.baseurl}}/sample-single-col-jumbo">single-col with jumbotron</a></li>
-                  <li><a href="{{site.baseurl}}/sample-lg-left-col">lg-left-col</a></li>
-                </ul>
-              </li>
-            </ul>
-          </div><!--/.nav-collapse -->
-      </nav>
+<nav class="navbar fixed-top navbar-toggleable-sm navbar-inverse bg-inverse">
+  <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <a class="navbar-brand" href="{{site.baseurl}}/">Displaced Histories</a>
+  <div class="collapse navbar-collapse" id="navbarNavDropdown">
+    <ul class="navbar-nav">
+      <li class="nav-item"><a class="nav-link" href="{{site.baseurl}}/about">About</a></li>
+      <li class="nav-item"><a class="nav-link" href="{{site.baseurl}}/map">Map</a></li>
+      <li class="nav-item"><a class="nav-link" href="{{site.baseurl}}/directory">Directory</a></li>
+      <li class="nav-item"><a class="nav-link" href="{{site.baseurl}}/bibliography">Bibliography</a></li>
+      <li class="nav-item"><a class="nav-link" href="{{site.baseurl}}/writing-guide">Writing Guide</a></li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Sample Layouts
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+          <a href="{{site.baseurl}}/sample-single-col">single-col</a>
+          <a href="{{site.baseurl}}/sample-single-col-jumbo">single-col with jumbotron</a>
+          <a href="{{site.baseurl}}/sample-lg-left-col">lg-left-col</a>
+        </div>
+      </li>
+    </ul>
+  </div>
+</nav>
