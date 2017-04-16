@@ -85,7 +85,7 @@ The Arch was and still is a campus landmark, with growing lore attached to it an
   <div><img src="../images/arch-3.jpg">
     <p class="carousel-caption">Students walk through ‘The Arch' regarded as a 'A Symbol of The College of Engineering’.</p>
   </div>
-  <div><img src="../images/arch-4.jpg">
+  <div><img src="../images/arch-4-new.jpg">
     <p class="carousel-caption">View of Diag from Engineering Arch.</p>
   </div> 
   <div><img src="../images/arch-6.jpg">
