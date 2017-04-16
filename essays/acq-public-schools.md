@@ -40,7 +40,6 @@ Before the Carnegie Library was built however, this site had much more history t
 
 As the story goes, in 1904, all of Union School was destroyed beyond repair by a fire in the middle of the night with the exception of the library’s contents, which was spared (Mason, 2005, 11). Recognizing the need for a high school in the area, a new school was built—**Ann Arbor City High School**—with an attached library within. (Mason, 2005, 16).
 
-{% include figure.html class="img-left" width="38%" src="/images/friezebuilding.jpg" %}
 
 {% include figure.html class="img-center" width="38%" src="/images/city-hs-firemap.jpg" %}
 
@@ -54,7 +53,6 @@ Despite renovation efforts in 1957 to update the building, the **Frieze Building
 
 {% include figure.html class="img-center" width="33%" src="/images/planoptionfriezenq.jpg" %}
 
-{% include figure.html class="img-center" width="33%" src="/images/carnegielibraryside.jpg" %}
 
 # Sources
 
