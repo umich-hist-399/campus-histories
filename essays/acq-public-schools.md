@@ -32,7 +32,7 @@ On the other side of the Diag lies the present-day site of **North Quad**, a liv
 
 {% include figure.html class="img-center" width="48%" src="/images/carnegies.jpg" %}
 
-{% include juxtapose.html image1="/images/1958-carnegiefrieze.jpg" image2="/images/2017-NQ.jpg" %}
+{% include juxtapose.html image1="/images/1958-carnegiefrieze.jpg" image2="/images/2017-NQupdated.jpg" %}
 
 Before the Carnegie Library was built however, this site had much more history to spare. In 1839, four businessmen purchased the site, recognizing its potential in its proximity to the recently settled University (Mason, 2005, 7). In 1855, the land was deeded to the Ann Arbor School District followed by the construction of a high school on the site called **Union School** in 1857 (Mason, 2005, 7).
 
