@@ -50,7 +50,7 @@ function createCard(i,page) {
     console.log("processing " + filename);
 
     var rowString = '<a href="'+filename+'">';
-    rowString += '<div class="card">';
+    rowString += '<div class="card">'; 
     rowString += '<img class="card-img-top" src="images/cards/' + page.image + '.jpg" alt="Essay image">';
     rowString += '<div class="card-block">';
     rowString += '<h4 class="card-title">' + page.title + '</h4>';
