@@ -46,6 +46,8 @@ Further development on the Diag included the Heating Plant (1883) and the ‘Boi
 
 Mortimer Cooley, Dean of Engineering was quoted to have said “I thought if I could make the boiler house as ugly as possible, and fix the guy ropes so some of the professors would get their heads bumped, I might get some help. Suffice to say, the following year I was authorized to make plans for the present boiler house in the old ‘Cat Hole’.” (Scientific Blacksmith, p. 82). The space was subsequently converted into an engineering lab and later an ROTC building in 1925, being used until 1942 (‘1883 Heating Plant and 1894 Boiler House’).
 
+{% include aside.html class="pullquote" text="I thought if I could make the boiler house as ugly as possible, and fix the guy ropes so some of the professors would get their heads bumped, I might get some help. Suffice to say, the following year I was authorized to make plans for the present boiler house in the old _Cat Hole_." %}
+
 The first map of the new century (1904) shows even more development eastward.
 
  {% include figure.html class="img-center" width="33%" src="/images/1904-map.jpg" %}
@@ -68,11 +70,10 @@ Notable additions include a number of medical buildings to the northeast (23 on 
   </div>
 </div>
 
-Another significant addition was the ‘New Engineering Building’ (1903), renamed ‘West Engineering’ (6 on map)(‘New Engineering Building’). As the Diag as a thoroughfare was already a mainstay, this building had to be designed in order to not interfere “with the diagonal walk of the campus”. Thus, Professor Charles Denison
+Another significant addition was the ‘New Engineering Building’ (1903), renamed ‘West Engineering’ (6 on map)(‘New Engineering Building’). As the Diag as a thoroughfare was already a mainstay, this building had to be designed in order to not interfere “with the diagonal walk of the campus”. Thus, Professor Charles Denison “prepared a sketch showing the diagonal walk passing through an archway in the building. The Arch was named the Denison Archway in his honor. In later years it was referred to as the “Engineering Arch,” (as quoted in ‘New Engineering Building’)
 
-“prepared a sketch showing the diagonal walk passing through an archway in the building. The Arch was named the Denison Archway in his honor. In later years it was referred to as the “Engineering Arch,” (as quoted in ‘New Engineering Building’)
 
-The Arch was and still is a campus landmark, with growing lore attached to it and activities that occur near it.
+The Arch was and still is a campus landmark, [with growing lore](https://umich-hist-399.github.io/campus-histories/blurbs/arch) attached to it and activities that occur near it.
 
 <div class="carousel">
   <div>
