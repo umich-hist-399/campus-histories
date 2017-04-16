@@ -87,6 +87,9 @@ The Arch was and still is a campus landmark, with growing lore attached to it an
   </div>
   <div><img src="../images/arch-4.jpg">
     <p class="carousel-caption">View of Diag from Engineering Arch.</p>
+  </div> 
+  <div><img src="../images/arch-6.jpg">
+    <p class="carousel-caption"> The Engineering Arch in 1921.</p>
   </div>
   <div><img src="../images/arch-5.jpg">
     <p class="carousel-caption">The Engineering Arch today.</p>
