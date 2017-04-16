@@ -52,17 +52,21 @@ The first map of the new century (1904) shows even more development eastward.
 
 Notable additions include a number of medical buildings to the northeast (23 on map)—a homeopathic hospital, Palmer Ward & Nurses Residence, an Allopathy Hospital, an Ophthalmology & Otology facility and a Psychopathic Ward—the University ‘Detroit Observatory’ (1854) and its adjacent student observatory and residence (24 on map), the Waterman Gymnasium (1894) (10 on map) which was used for a variety of student activities such as exercise classes, class registration, a dance hall, a space for fundraising banquets and a space for barrack-like training for WWI soldiers (‘The Detroit Observatory’; Crawford, 1976; ‘Waterman Gymnasiums’).
 
-
-{% include figure.html class="img-center" width="33%" src="/images/detroit-observatory.jpg" %}
-
-{% include figure.html class="img-center" width="33%" src="/images/waterman1.jpg" %}
-
-{% include figure.html class="img-center" width="33%" src="/images/waterman2.jpg" %}
-
-{% include figure.html class="img-center" width="33%" src="/images/waterman3.jpg" %}
-
-**From top: Sketch of Detroit Observatory plan; exterior of Waterman Gymnasium (top); female students participate in exercise classes (middle); a ‘J-Hop’ dance participants pose in the Block M formation (bottom)**
-
+<div class="carousel">
+  <div>
+    <img src="../images/detroit-observatory.jpg">
+    <p class="carousel-caption">A plan of the Detroit Observatory from the 1970s.</p>
+  </div>
+  <div><img src="../images/waterman1.jpg">
+    <p class="carousel-caption">Exterior of Waterman Gymnasium.</p>
+  </div>
+  <div><img src="../images/waterman2.jpg">
+    <p class="carousel-caption">Female students participate in exercise classes.</p>
+  </div>
+  <div><img src="../images/waterman3.jpg">
+    <p class="carousel-caption">‘J-Hop’ dance participants pose in the Block M formation.</p>
+  </div>
+</div>
 
 Another significant addition was the ‘New Engineering Building’ (1903), renamed ‘West Engineering’ (6 on map)(‘New Engineering Building’). As the Diag as a thoroughfare was already a mainstay, this building had to be designed in order to not interfere “with the diagonal walk of the campus”. Thus, Professor Charles Denison
 
@@ -70,17 +74,26 @@ Another significant addition was the ‘New Engineering Building’ (1903), rena
 
 The Arch was and still is a campus landmark, with growing lore attached to it and activities that occur near it.
 
-{% include figure.html class="img-center" width="75%" src="/images/arch-1.jpg" %}
+<div class="carousel">
+  <div>
+    <img src="../images/arch-1.jpg">
+    <p class="carousel-caption">View of Arch from Southwest.</p>
+  </div>
+  <div><img src="../images/arch-2.jpg">
+    <p class="carousel-caption">View of Arch from Northeast.</p>
+  </div>
+  <div><img src="../images/arch-3.jpg">
+    <p class="carousel-caption">Students walk through ‘The Arch' regarded as a 'A Symbol of The College of Engineering’.</p>
+  </div>
+  <div><img src="../images/arch-4.jpg">
+    <p class="carousel-caption">View of Diag from Engineering Arch.</p>
+  </div>
+  <div><img src="../images/arch-5.jpg">
+    <p class="carousel-caption">The Engineering Arch today.</p>
+  </div>
+</div>
 
-{% include figure.html class="img-center" src="/images/arch-2.jpg" %}
 
-{% include figure.html class="img-center" width="33%" src="/images/arch-3.jpg" %}
-
-{% include figure.html class="img-center" width="33%" src="/images/arch-4.jpg" %}
-
-{% include figure.html class="img-center" width="33%" src="/images/arch-5.jpg" %}
-
-Top: View of Arch from southwest (top); view of Arch from northeast (second from top); students walk through ‘The Arch—A Symbol of The College of Engineering’ (second from bottom); view of Diag from Engineering Arch; the Engineering Arch today.
 
 ## Sources
 
