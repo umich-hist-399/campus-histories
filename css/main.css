@@ -7,11 +7,31 @@
 @media screen {
 
 .card {
-  width:30%;
+  width:21%;
   min-width:235px;
   margin: 3rem 2rem 0rem 0;
   float:left;
+  opacity:.8;
+}
 
+.card:hover {
+  background:#eee;
+  opacity:1;
+}
+
+.cards > a {
+  opacity:1;
+  color:#000;
+}
+
+.cards > a p {
+  opacity:1;
+  color:#333;
+}
+
+
+.cards > a:hover {
+  //background:#eee;
 }
 
 .card-block {
@@ -32,6 +52,17 @@
 .card-text {
   font-size:1.2rem;
 }
+
+
+.card-home {
+  width:49%;
+  margin-right:0;
+}
+
+.card-img-top-home {
+  height:250px;
+}
+
 
 #sheetrock {
   display:none;
@@ -132,6 +163,8 @@ body {
 /*****************************************************
 MAP PAGE
 *****************************************************/
+
+
 
 #mapid {
     width: 100%;

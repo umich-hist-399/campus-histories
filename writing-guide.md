@@ -35,6 +35,16 @@ This page provides a writing guide for the content you're creating, outlines the
 - Summaries are ~600 words (20% total writing grade).
 - Both require the same level of research and citation care as essays!
 
+## Google Sheets
+We are using two Google Sheets to organize metadata for our content. These are integral to the site functioning properly.
+The following sheet is used to generate content for the directory page:
+- https://docs.google.com/spreadsheets/d/1x-7ms5fDNzW2Ah9AXylV0ERWh4O-YlwVpguptmWlWbU/edit#gid=0
+
+The following sheet is used to display the outlines on the map page, as well as the content in the popups.
+- https://docs.google.com/spreadsheets/d/1FUMifB2hMs0nSj3l7NYDgqjnBBYPfPBqBzKK1kmSvBY/edit#gid=0
+
+
+
 # All work due April 28!
 
 ## Citations

@@ -6,7 +6,7 @@
 
 {% include header-default.html %}
 
-<body>
+<body style="height:100%">
 
 {% include nav.html %}
 
@@ -23,7 +23,7 @@
 <script src="{{site.baseurl}}/js/togeojson.js"></script>
 
 
-<div class="main">
+<div class="main" style="height:100%">
 
 <!--Sheetrock expects to be outputting HTML for each row, so here's a place to put it.-->
 <div id="sheetrock"></div>
@@ -41,7 +41,7 @@
 
 <script>
 
-var map = L.map('mapid').setView([42.276987, -83.738113], 16);
+var map = L.map('mapid').setView([42.276987, -83.738113], 15);
 var featureGroup = new L.FeatureGroup();
 
 L.tileLayer('https://api.mapbox.com/styles/v1/fwgibbs/cizd8o5in008t2rnq4advsa25/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiZndnaWJicyIsImEiOiJJaXJoT2JBIn0.nh7hFFVgOnPApRImOtXcCQ', {
