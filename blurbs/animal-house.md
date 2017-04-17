@@ -29,6 +29,6 @@ _From 1929 until 1962, students could visit the "Animal House" on the way to cla
 
 - University of Michigan, and Alexander Grant Ruthven. _The University Museums Building of the University of Michigan_. 29 p. Ann Arbor: The University of Michigan, 1929.
 
-## images
+## Images
 
 - ["Animal House (Campus Zoo) and Enclosure Covered in Snow (Women’s Athletic Building Visible in Left Background)."](http://quod.lib.umich.edu/b/bhl/x-hs12966/hs12966) Bentley Image Bank, Bentley Historical Library. Accessed March 20, 2017.
