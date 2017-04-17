@@ -39,7 +39,7 @@ Of course, the space of State Street was also used as an arena for the Anti-Suff
 
 It is with no surprise that as the years progressed, Newberry Hall stopped holding as many controversial speakers, who instead opted for High School Hall (Behnke 1913, F13). Newberry Hall still hosted the occasional speaker, however. Despite this departure from Newberry Hall, State Street remained an arena for many of the suffragist marches and speeches until the 19th Amendment was signed in August, 1920.
 
-Though State Street is often thought of as a male space in the early 1900s because of the proliferation of the Union, it was of great importance to the women at University of Michigan and in Ann Arbor. Now that women have the right to vote, it may seem like the distant past, but what was done on State Street was of great importance. It has been forgotten how important Newberry Hall and State Street were as a place of change for the University, but one can hope that it will be forgotten no longer.
+Though State Street is often thought of as a male space in the early 1900s because of the proliferation of the Union, it was of great importance to the women at University of Michigan and in Ann Arbor. Now that women have the right to vote, it may seem like the distant past, but what was done on State Street was of great importance. It has been forgotten how important Newberry Hall and State Street are as a place of change for the University, but one can hope that it will be forgotten no longer.
 
 {% include figure.html class="img-center" width="100%" caption="The Ann Arbor Equal Suffrage Association participating in the Michigan Suffragists Parade. Image courtesy of Bentley Historical Library." src="/images/parade.jpg" %}
 -----
