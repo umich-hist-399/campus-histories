@@ -7,7 +7,7 @@
 - This myth is very popular and is regularly featured on “Best College Myths” and “Best College Romantic Legends” lists
 - The Arch is also a popular thoroughfare for students walking to and from class as well as a frequent campus tour attraction.
 
-{% include figure.html class="img-center" width="33%" caption="The Arch, 1921" src="/images/arch-6.jpg" %}
+{% include figure.html class="img-center" width="50%" caption="The Arch, 1921" src="/images/arch-6.jpg" %}
 
 Sources
 
