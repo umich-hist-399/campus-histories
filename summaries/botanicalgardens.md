@@ -6,6 +6,8 @@ date: 2017-02-19
 
 # The Botanical Gardens
 
+## Founded in 1907, the Botanical Gardens are truly mobile, from its initial beginnings on campus, then moving near Ypsilanti, then finally its eventual home east of where it first began.
+
 When the University of Michigan was founded in 1817, the law provided that the governing board should be able to provide “useful literary and scientific institutions”, and “botanic gardens” were one of these (Bartlett, 506). Thus began a process which would last for the rest of the 19th century; planting the Botanical Gardens. The first sign of progress came on June 5, 1837, U of M’s Ann Arbor birthday. That day, the Regents appointed Asa Gray as professor of botany, and in 1838 he helped draw up the original campus development plan of U of M (Bartlett, 506). A map of the university campus from 1854 shows that the eastern half was “botanic gardens”, but it is not clear whether or not they were there. By 1868, desire for the gardens to be planted was stirred up once again, and in 1897, finally, the first seeds were planted on the campus itself (Bartlett, 506).
 
 {% include figure.html class="img-left" width="33%" caption="Looking across Botanical Gardens to Engineering Laboratory, ca. 1905. Back when the Gardens were a campus fixture." src="/images/botanicalgardens1905.jpg" %}
