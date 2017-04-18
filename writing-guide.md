@@ -21,18 +21,20 @@ This page provides a writing guide for the content you're creating, outlines the
 - Compose informative topic sentences that provide a clear progression through the essay
 
 ## Essay Requirements (and percent of each essay grade)
-- Citations. Along with the analysis contained in your essay, citations are the primary indication of the breadth and depth of your research. You should have around 5 original historical sources and 5 secondary sources. You should list relevant websites, but not count them as official sources. Your research must be your own. (40%)
-- Engaging writing, engaging the above questions, with minimal use of passive voice. (20%)
-- Images with descriptive captions. Images must be appropriately sized, fit into the page, and of sufficient quality for web publication. Use images not merely as eye candy, but to visually communicate the main points of your story. (15%)
-- Clearly stated goal/relevance for each section (see questions above). (10%)
-- Meaningful headings that provide clear structure and ideally communicate main points. (5%)
-- Pull quotes and sidebars in all essays; one essay must use the wide-col layout. These typographic features help call attention to certain ideas that you want to highlight and provide a way of fast reading. (5%)
-- Consistent use of bold and italics. Don't use either too often; you'll negate the effect of highlighting something. Do not use either for references; leave those as unformatted text. (5%)
+- **Citations**. Along with the analysis contained in your essay, citations are the primary indication of the breadth and depth of your research. You should have around 5 original historical sources and 5 secondary sources. You should list relevant websites, but not count them as official sources. Your research must be your own. (40%)
+- **Engaging writing**, engaging the above questions, with minimal use of passive voice. (20%)
+- **Images with descriptive captions**. Images must be appropriately sized, fit into the page, and of sufficient quality for web publication. Use images not merely as eye candy, but to visually communicate the main points of your story. **All images must be uploaded in jpg format** in the images folder. (15%)
+- **Clearly stated goal/relevance** for each section (see questions above). (10%)
+- **Meaningful headings** that provide clear structure and ideally communicate main points. (5%)
+- **Pull quotes**, **sidebars**, and **jumbotron** heading in all essays. (5%)
+- **One essay must use the wide-col layout**. (5%)
+- **Consistent use of bold and italics**. Don't use either too often; you'll negate the effect of highlighting something. Do not use either for references; leave those as unformatted text. (5%)
 - All essays (combined) are 50% of total writing grade;
 
 ## Blurbs and Summaries
 - Blurbs are ~200 words (30% total writing grade).
 - Summaries are ~600 words (20% total writing grade).
+- Both must have a H1 (#) and H2 (##) headers to populate the map pop-up.
 - Both require the same level of research and citation care as essays!
 
 ## Google Sheets
@@ -40,9 +42,12 @@ We are using two Google Sheets to organize metadata for our content. These are i
 The following sheet is used to generate content for the directory page:
 - [https://docs.google.com/spreadsheets/d/1x-7ms5fDNzW2Ah9AXylV0ERWh4O-YlwVpguptmWlWbU/edit#gid=0](https://docs.google.com/spreadsheets/d/1x-7ms5fDNzW2Ah9AXylV0ERWh4O-YlwVpguptmWlWbU/edit#gid=0)
 
+The title and teaser columns show up on the cards, and the page slug should match the title of your content page. Obviously, image-slug determines the image. Technically, these images come are loaded from a separate folder /images/cards/, which we automatically generate from the image you upload to the images folder. **You do not need to upload anything else for the images on the cards**.
+
 The following sheet is used to display the outlines on the map page, as well as the content in the popups.
 - [https://docs.google.com/spreadsheets/d/1FUMifB2hMs0nSj3l7NYDgqjnBBYPfPBqBzKK1kmSvBY/edit#gid=0](https://docs.google.com/spreadsheets/d/1FUMifB2hMs0nSj3l7NYDgqjnBBYPfPBqBzKK1kmSvBY/edit#gid=0)
 
+You need to provide a KML file (in the kml folder, naturally) for each of your pages. This spreadsheet enables your KML files to appear on the map; relevant-pages in the spreadsheet column allow the various rows in the popup to appear. You can link pages by separating them with a comma. **Aim for two or three**. The image is automatically generated from the first image on the linked page. **All pages must have at least one image**.
 
 
 # All work due April 28!
