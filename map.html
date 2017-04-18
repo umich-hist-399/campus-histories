@@ -16,7 +16,13 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
 
+
 <script src="https://unpkg.com/leaflet@1.0.3/dist/leaflet.js"></script>
+
+
+<script src="https://unpkg.com/leaflet-responsive-popup@0.2.0/leaflet.responsive.popup.js"></script>
+<link rel="stylesheet" href="https://unpkg.com/leaflet-responsive-popup@0.2.0/leaflet.responsive.popup.css" />
+
 
 <script src="{{site.baseurl}}/js/sheetrock.min.js"></script>
 <script src="{{site.baseurl}}/js/map.js"></script>
@@ -41,7 +47,7 @@
 
 <script>
 
-var map = L.map('mapid').setView([42.276987, -83.738113], 15);
+var map = L.map('mapid').setView([42.276987, -83.738113], 13);
 var featureGroup = new L.FeatureGroup();
 
 L.tileLayer('https://api.mapbox.com/styles/v1/fwgibbs/cizd8o5in008t2rnq4advsa25/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiZndnaWJicyIsImEiOiJJaXJoT2JBIn0.nh7hFFVgOnPApRImOtXcCQ', {

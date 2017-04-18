@@ -60,7 +60,9 @@ function createPopupRows(pages) {
       console.log("finished loading page content.");
       console.log("index at callback" + temp);
       var title = $(this).find("h1:first").text();
+      // try to get from jumbotron; if blank use h2
       var subtitle = $(this).find("#page-subtitle").text();
+      if (!subtitle) subtitle = $(this).find("h2:first").text();
       var image = $(this).find("img:first").attr('src');
       console.log(image);
       image = image.replace("/images/", "/images/thumbs/"); //  use thumbs path instead
@@ -94,7 +96,7 @@ function loadMarker(i, markerData) {
     popup += '</div></a>';
 
     //console.log(popup);
-    var popup = L.popup().setContent(popup);
+    var popup = L.responsivePopup().setContent(popup);
     featureGroup.addLayer(L.geoJSON(geojsonFeature).bindPopup(popup, {
     maxWidth : 560}).on('click', function(e) {
       //console.log(e.layer.feature.properties.name);

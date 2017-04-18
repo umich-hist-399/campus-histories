@@ -6,6 +6,12 @@
 
 @media screen {
 
+.headshot {
+  float:left;
+  width:150px;
+  margin-right:2rem;
+}
+
 .card {
   width:21%;
   min-width:235px;
