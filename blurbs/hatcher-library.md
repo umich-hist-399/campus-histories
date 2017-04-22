@@ -1,4 +1,7 @@
 ---
+layout: single-col
+title: Hatcher Library
+date: 2017
 ---
 
 # Harlan Hatcher Library
