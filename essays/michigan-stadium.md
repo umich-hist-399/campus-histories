@@ -30,4 +30,7 @@ Renovations done to Michigan Stadium increased the capacity to well over 100,000
 
 ## Sources
 
--
+-Wilson, Adrian P. The stadium. Middletown, CT: A.P. Wilson, 1951. Print.
+-"Michigan Stadium Story -- Ferry Field." BHL Header. N.p., n.d. Web. 15 Apr. 2017.
+-"Michigan Stadium." Michigan Stadium. N.p., n.d. Web. 20 Apr. 2017.
+-"Michigan Stadium Story." BHL Header. N.p., n.d. Web. 20 Apr. 2017.

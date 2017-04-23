@@ -17,3 +17,7 @@ The field house was dedicated to the University on November 10, 1923, and the at
 In 1973, the facility was remolded into an ice arena, and it was renamed the Yost Ice Arena. The renovations cost over $500,000 and were paid by the Board in Control of Intercollegiate Athletics. Since it became an ice arena, it has been the home for the hockey team for over 40 seasons.
 
 ## Sources
+
+-"Yost Field House." Yost Field House. N.p., n.d. Web. 13 Apr. 2017.
+-"Facilities." MGoBlue.com. N.p., n.d. Web. 19 Apr. 2017.
+-"Michigan Stadium Story." BHL Header. N.p., n.d. Web. 20 Apr. 2017.

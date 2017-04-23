@@ -29,7 +29,7 @@ Even after the building plan was finished, the university continued to add onto 
 
 - "The Law Quadrangle." The Law Quadrangle. N.p., n.d. Web. 18 Mar. 2017.
 - Horste, Kathryn. The Michigan Law Quadrangle: architecture and origins. Ann Arbor: U of Michigan Press, 1997. Print.
--  "Law Club." A Historical Tour of the University of Michigan Campus. N.p., n.d. Web. 18 Mar. 2017.
+- "Law Club." A Historical Tour of the University of Michigan Campus. N.p., n.d. Web. 18 Mar. 2017.
 - "John Cook." A Historical Tour of the University of Michigan Campus. N.p., n.d. Web. 18 Mar. 2017.
 - "Legal Research." A Historical Tour of the University of Michigan Campus. N.p., n.d. Web. 18 Mar. 2017.
 - "Hutchin's Hall." A Historical Tour of the University of Michigan Campus. N.p., n.d. Web. 18 Mar. 2017.

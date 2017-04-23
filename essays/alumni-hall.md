@@ -22,4 +22,7 @@ date: 2017
 
 -After the Museum of Art was moved from the Museum of Archaeology, Alumni Hall became the new home for the Museum in 1946.
 
-# Sources
+## Sources
+
+-"Alumni Hall." Alumni Memorial Hall. N.p., n.d. Web. 22 Apr. 2017.
+-Sawyer, Charles Henry, and Robert A. Yassin. The University of Michigan Museum of Art. Ann Arbor: n.p., 1971. Print.

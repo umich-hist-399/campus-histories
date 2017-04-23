@@ -27,3 +27,5 @@ date: 2017
 -On the reasoning behind his donation, Ross said “The University of Michigan had a profound impact on my life and I have received enormous satisfaction from being able to give back to the institution that played such a crucial role in my success.”
 
 ## Sources
+-"School of Business Administration." School of Business Administration Building. N.p., n.d. Web. 18 Apr. 2017.
+-"Our History." Our History | Michigan Ross. N.p., n.d. Web. 18 Apr. 2017.

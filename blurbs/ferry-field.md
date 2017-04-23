@@ -17,3 +17,6 @@ However, there was a serious lack of outdoor recreational facilities. It wasn't 
 Dexter Ferry, a business man from Detroit, bought an additional seventeen acres north of Regents Field in 1902, and it was renamed Ferry Field. The football team played here for many years. The stands there could hold just 1,500 fans, so as football got more popular, a new stadium had to be built. After the football team left Ferry Field for Michigan Stadium, it became the home for the Michigan Track and Field team.
 
 ## Sources
+
+-"Michigan Stadium Story -- Ferry Field." BHL Header. N.p., n.d. Web. 15 Apr. 2017.
+-Ferry Field. N.p., n.d. Web. 15 Apr. 2017.
