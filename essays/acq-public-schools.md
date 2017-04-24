@@ -55,7 +55,7 @@ Despite renovation efforts in 1957 to update the building, the **Frieze Building
 {% include figure.html class="img-center" width="33%" caption="One of the plans presented for the North Quad site." src="/images/planoptionfriezenq.jpg" %}
 
 
-Sources
+# Sources
 
 - “Andrew Carnegie, Philanthropist” [http://www.americaslibrary.gov/aa/carnegie/aa_carnegie_phil_1.html](http://www.americaslibrary.gov/aa/carnegie/aa_carnegie_phil_1.html)
 - Ann Arbor Board of Education. Catalogue of the Ann Arbor High School for the academic year. 1895-1896. 
