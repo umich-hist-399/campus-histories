@@ -99,7 +99,7 @@ The Arch was and still is a campus landmark, [with growing lore](https://umich-h
 
 
 
-## Sources
+# Sources
 
 - ‘‘1883 Heating Plant and 1894 Boiler House’
 [http://umhistory.dc.umich.edu/mort/original/1900/18%20-Boiler%20House%20(1894)/index.html](http://umhistory.dc.umich.edu/mort/original/1900/18%20-Boiler%20House%20(1894)/index.html)
@@ -131,5 +131,5 @@ Accessed via: [http://um2017.org/Ann-Arbor/Ann_Arbor_Maps/Prettymans_Boarding_Cl
 
 - Wear, Robert E. “University of Michigan’s Waterman Gymnasium : development and expansion from 1894 to 1930.”, 1950. Call number 861152 Aa 1
 
-- Wineberg, Susan. The Lost University - The Forgotten Campus of 1900. The Ann Arbor Observer, May 27, 2011.
+- Wineberg, Susan. The Lost University - The Forgotten Campus of 1900. _The Ann Arbor Observer_, May 27, 2011.
 [http://aaobserver.aadl.org/aaobserver/40615](http://aaobserver.aadl.org/aaobserver/40615)
