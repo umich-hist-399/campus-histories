@@ -29,6 +29,7 @@ The on-campus location afforded easier access to recruit additional help from Un
 
 ## Sources:
 
+- Ann Arbor Board of Education. Catalogue of the Ann Arbor High School for the academic year. 1895-1896. 
 - [http://home.isr.umich.edu/about/contact-us/](http://home.isr.umich.edu/about/contact-us/)
 - [http://www.demariabuild.com/projects/perry-building-phase-i-2-renovation/](http://www.demariabuild.com/projects/perry-building-phase-i-2-renovation/)
 - [https://en.wikipedia.org/wiki/Inter-university_Consortium_for_Political_and_Social_Research](https://en.wikipedia.org/wiki/Inter-university_Consortium_for_Political_and_Social_Research)
