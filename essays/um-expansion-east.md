@@ -50,9 +50,9 @@ Mortimer Cooley, Dean of Engineering was quoted to have said “I thought if I c
 
 The first map of the new century (1904) shows even more development eastward.
 
- {% include figure.html class="img-center" width="33%" src="/images/1904-map.jpg" %}
+ {% include figure.html class="img-center" width="33%" src="/images/1904map.jpg" caption="The twentieth century brought even more expansion of the University to the East." %}
 
-Notable additions include a number of medical buildings to the northeast (23 on map)—a homeopathic hospital, Palmer Ward & Nurses Residence, an Allopathy Hospital, an Ophthalmology & Otology facility and a Psychopathic Ward—the University ‘Detroit Observatory’ (1854) and its adjacent student observatory and residence (24 on map), the Waterman Gymnasium (1894) (10 on map) which was used for a variety of student activities such as exercise classes, class registration, a dance hall, a space for fundraising banquets and a space for barrack-like training for WWI soldiers (‘The Detroit Observatory’; Crawford, 1976; ‘Waterman Gymnasiums’).
+Notable additions include a number of medical buildings to the northeast (23 on map)—a homeopathic hospital, Palmer Ward & Nurses Residence, an Allopathy Hospital, an Ophthalmology & Otology facility and a Psychopathic Ward—the University [‘Detroit Observatory’](https://umich-hist-399.github.io/campus-histories/essays/detroit-observatory) (1854) and its adjacent student observatory and residence (24 on map), the [Waterman Gymnasium](https://umich-hist-399.github.io/campus-histories/summaries/watermangymnasium) (1894) (10 on map) which was used for a variety of student activities such as exercise classes, class registration, a dance hall, a space for fundraising banquets and a space for barrack-like training for WWI soldiers (Crawford 1976; Wear 1950).
 
 <div class="carousel">
   <div>
@@ -109,12 +109,12 @@ The Arch was and still is a campus landmark, [with growing lore](https://umich-h
 - Callard, Don. The Lost Street Names of Ann Arbor. _The Ann Arbor Observer_, July 24, 2009.
 [http://aaobserver.aadl.org/aaobserver/19282](http://aaobserver.aadl.org/aaobserver/19282)
 
-- Crawford, Pamela. (1976). Detroit Observatory : architectural design project. University of Michigan, College of Architecture and Urban Planning.
+- Crawford, Pamela. Detroit Observatory : architectural design project. University of Michigan, College of Architecture and Urban Planning, 1976.
 
 - ‘New Engineering Building’
 [http://umhistory.dc.umich.edu/mort/original/1925/15%20West%20Engineering%20Building/index.html](http://umhistory.dc.umich.edu/mort/original/1925/15%20West%20Engineering%20Building/index.html)
 
-- Perry, David, and Wim Wiewel. (2005) From campus to city: the university as developer. New York: Routledge.
+- Perry, David, and Wim Wiewel. From campus to city: the university as developer. New York: Routledge, 2005.
 
 
 - “Famous Campus Landmark Disappears.” The Michigan Alumnus, vol. 45 (November 12, 1938),  pp. 101
@@ -136,13 +136,38 @@ Accessed via: [http://um2017.org/Ann-Arbor/Ann_Arbor_Maps/Prettymans_Boarding_Cl
 
 # Image Credits
 
-1854 map of Ann Arbor, 1864 map of Ann Arbor: The Ann Arbor Historic Maps Project. University of Michigan Millennium Project. [http://umhistory.org/history/town-gown/](http://umhistory.org/history/town-gown/)
+- 1854 map of Ann Arbor, 1864 map of Ann Arbor: The Ann Arbor Historic Maps Project. University of Michigan Millennium Project. [http://umhistory.org/history/town-gown/](http://umhistory.org/history/town-gown/)
 
-"Campus map featuring advertisement for the Campus Club..." date unknown. The Bentley Historical Library. University of Michigan.
+- "Campus map featuring advertisement for the Campus Club..." date unknown. The Bentley Historical Library. University of Michigan.
 
-1890 map of Ann Arbor: The Ann Arbor Historic Maps Project. University of Michigan Millennium Project. [http://umhistory.org/history/town-gown/](http://umhistory.org/history/town-gown/)
+- 1890 map of Ann Arbor: The Ann Arbor Historic Maps Project. University of Michigan Millennium Project. [http://umhistory.org/history/town-gown/](http://umhistory.org/history/town-gown/)
 
-"View of The Diag..." William Adams Lewis photograph series. The Bentley Historical Library. University of Michigan.
+- "View of The Diag..." William Adams Lewis photograph series. The Bentley Historical Library. University of Michigan.
 
-"Smokestack near the 'Boiler House'..." '1883 Heating Plant and 1894 Boiler House.' University of Michigan Millennium Project.
+- "Smokestack near the 'Boiler House'..." '1883 Heating Plant and 1894 Boiler House.' University of Michigan Millennium Project.
 [http://umhistory.dc.umich.edu/mort/original/1900/18%20-Boiler%20House%20(1894)/index.html](http://umhistory.dc.umich.edu/mort/original/1900/18%20-Boiler%20House%20(1894)/index.html)
+
+-"The twentieth century brought..." 1904 map of Ann Arbor. The Ann Arbor Historic Maps Project. University of Michigan Millennium Project. [http://umhistory.org/history/town-gown/](http://umhistory.org/history/town-gown/)
+
+- "A plan of the Detroit Observatory..." Crawford, Pamela. Detroit Observatory : architectural design project. University of Michigan, College of Architecture and Urban Planning, 1976.
+
+- "Exterior of Waterman Gymnasium." 'Waterman Gymnasiums.' University of Michigan Milennium Project. [http://umhistory.dc.umich.edu/mort/original/1900/19%20Waterman%20Gymnasium/index.html](http://umhistory.dc.umich.edu/mort/original/1900/19%20Waterman%20Gymnasium/index.html)
+
+- "Female students participate..." 'Waterman Gymnasiums.' University of Michigan Milennium Project. [http://umhistory.dc.umich.edu/mort/original/1900/19%20Waterman%20Gymnasium/index.html](http://umhistory.dc.umich.edu/mort/original/1900/19%20Waterman%20Gymnasium/index.html)
+
+- "'J-Hop' dance participants..." 'Waterman Gymnasiums.' University of Michigan Milennium Project. [http://umhistory.dc.umich.edu/mort/original/1900/19%20Waterman%20Gymnasium/index.html](http://umhistory.dc.umich.edu/mort/original/1900/19%20Waterman%20Gymnasium/index.html)
+
+- "View of the Arch from the Southwest." 'New Engineering Building.' University of Michigan Milennium Project.
+[http://umhistory.dc.umich.edu/mort/original/1925/15%20West%20Engineering%20Building/index.html](http://umhistory.dc.umich.edu/mort/original/1925/15%20West%20Engineering%20Building/index.html)
+
+- "View of th Arch from the Northeast." 'New Engineering Building.' University of Michigan Milennium Project.
+[http://umhistory.dc.umich.edu/mort/original/1925/15%20West%20Engineering%20Building/index.html](http://umhistory.dc.umich.edu/mort/original/1925/15%20West%20Engineering%20Building/index.html)
+
+- "Students walk through..." 'New Engineering Building.' University of Michigan Milennium Project.
+[http://umhistory.dc.umich.edu/mort/original/1925/15%20West%20Engineering%20Building/index.html](http://umhistory.dc.umich.edu/mort/original/1925/15%20West%20Engineering%20Building/index.html)
+
+- "View of Diag from Engineering Arch." Isaac Sheets photograph collection. The Bentley Historical Library. University of Michigan.
+
+- "The Engineering Arch in 1921." The Bentley Historical Library. University of Michigan.
+
+- "The Engineering Arch today." 'West Engineering Building - Revisited.' Michigan Exposures http://michiganexposures.blogspot.com/2011/03/west-engineering-building-revisited.html
