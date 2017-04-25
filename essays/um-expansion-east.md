@@ -12,7 +12,7 @@ text=" Over its two hundred year history, the University has expanded greatly, n
 
 This year, the University of Michigan celebrates its Bicentennial; the 200th anniversary of its founding. Founded in Detroit, Michigan in 1817, the university moved its operations to Ann Arbor, Michigan twenty years later (“UM History”). While today the University is well-known for its sprawling campus—complete with a Central Campus for primary academic activities, a North Campus for supplemental academic programs such as the College of Engineering and the School of Music, Theatre and Dance, a Medical Campus and a South Campus for Wolverine athletic pursuits—the University was not always as expansive; in fact, in the year of its founding in Ann Arbor, the University originally occupied forty acres of land in the recently incorporated city of Ann Arbor (“UM History”).
 
-On a donation by the Ann Arbor Land Company, the University consisted of four homes for faculty and one building that operated as a classroom and dormitory. The surrounding area, what is known today as the ‘Diag’, lay undeveloped with grazing cows (“UM History”). This iteration did not remain long; soon the University embarked on what would become almost 200 years of expansion in terms of physical and academic inquiry and innovation (“UM History”). The following essay focuses on the University’s expansion east. As Don Callard of The Ann Arbor Observer notes, “nothing expands like a university,” (Callard 2009).
+On a donation by the Ann Arbor Land Company, the University consisted of four homes for faculty and one building that operated as a classroom and dormitory. The surrounding area, known today as the [‘Diag’](https://umich-hist-399.github.io/campus-histories/essays/diag), lay undeveloped with grazing cows (“UM History”). This iteration did not remain long; soon the University embarked on what would become almost 200 years of expansion in terms of physical and academic inquiry and innovation (“UM History”). The following essay focuses on the University’s expansion east. As Don Callard of _The Ann Arbor Observer_ notes, “nothing expands like a university,” (Callard 2009).
 
 {% include figure.html class="img-center" width="75%" src="/images/maps1.jpg" caption="At left: Map of Ann Arbor (1854); at right: Map of Ann Arbor (1864)" %}
 
@@ -34,15 +34,15 @@ It should be noted that Freeman’s was torn down to make way for the Rackham Sc
 
 By the last decade of the nineteenth century, it is clear that the University is set on expanding its campus to accommodate the interests of its students and faculty, what Perry and Weiwel (2005) would term “internal logic.”
 
- {% include figure.html class="img-center" width="50%" src="/images/1890-map-blue-highlighted.jpg" %}
+ {% include figure.html class="img-center" width="50%" src="/images/1890-map-blue-highlighted.jpg" caption="With the help of computer software, buildings from this 1890 map of Ann Arbor pop out when highlighted in blue" %}
 
-In the map above, from 1890, the University has acquired or constructed many buildings. One building, Tappan School, former elementary school that was condemned as a fire hazard by the state fire inspector in 1922, was purchased by the University that same year and became present day East Hall, seen below (‘Tappan School’).
+In the map above, from 1890, the University has [acquired or constructed many buildings](https://umich-hist-399.github.io/campus-histories/essays/acq-public-schools). One building, Tappan School, former elementary school that was condemned as a fire hazard by the state fire inspector in 1922, was purchased by the University that same year and became present day East Hall, seen below (‘Tappan School’).
 
- {% include figure.html class="img-center" width="50%" src="/images/tappan-school-diag.jpg" %}
+ {% include figure.html class="img-center" width="50%" src="/images/tappan-school-diag.jpg" caption="View of The Diag from nearby Tappan School" %}
 
 Further development on the Diag included the Heating Plant (1883) and the ‘Boiler House’ (1894), built to provide heating for rapidly increasing number of buildings on campus (‘1883 Heating Plant and 1894 Boiler House’). Another plant built on Washington Street in 1911 rendered it no longer needed. The latter unsightly smokestack was disliked by faculty for its aesthetics in the midst of the green space Diag (‘1883 Heating Plant and 1894 Boiler House’).
 
- {% include figure.html class="img-center" width="33%" src="/images/smokestack1.jpg" %}
+ {% include figure.html class="img-center" width="33%" src="/images/smokestack1.jpg" caption="Smokestack near the 'Boiler House' circa 1894." %}
 
 Mortimer Cooley, Dean of Engineering was quoted to have said “I thought if I could make the boiler house as ugly as possible, and fix the guy ropes so some of the professors would get their heads bumped, I might get some help. Suffice to say, the following year I was authorized to make plans for the present boiler house in the old ‘Cat Hole’.” (Scientific Blacksmith, p. 82). The space was subsequently converted into an engineering lab and later an ROTC building in 1925, being used until 1942 (‘1883 Heating Plant and 1894 Boiler House’).
 
@@ -133,3 +133,16 @@ Accessed via: [http://um2017.org/Ann-Arbor/Ann_Arbor_Maps/Prettymans_Boarding_Cl
 
 - Wineberg, Susan. The Lost University - The Forgotten Campus of 1900. _The Ann Arbor Observer_, May 27, 2011.
 [http://aaobserver.aadl.org/aaobserver/40615](http://aaobserver.aadl.org/aaobserver/40615)
+
+# Image Credits
+
+1854 map of Ann Arbor, 1864 map of Ann Arbor: The Ann Arbor Historic Maps Project. University of Michigan Millennium Project. [http://umhistory.org/history/town-gown/](http://umhistory.org/history/town-gown/)
+
+"Campus map featuring advertisement for the Campus Club..." date unknown. The Bentley Historical Library. University of Michigan.
+
+1890 map of Ann Arbor: The Ann Arbor Historic Maps Project. University of Michigan Millennium Project. [http://umhistory.org/history/town-gown/](http://umhistory.org/history/town-gown/)
+
+"View of The Diag..." William Adams Lewis photograph series. The Bentley Historical Library. University of Michigan.
+
+"Smokestack near the 'Boiler House'..." '1883 Heating Plant and 1894 Boiler House.' University of Michigan Millennium Project.
+[http://umhistory.dc.umich.edu/mort/original/1900/18%20-Boiler%20House%20(1894)/index.html](http://umhistory.dc.umich.edu/mort/original/1900/18%20-Boiler%20House%20(1894)/index.html)
