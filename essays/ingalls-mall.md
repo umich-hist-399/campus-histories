@@ -37,3 +37,15 @@ This practice of discrimination at the front doors must have been representative
 At a meeting of the Board of Regents in 1921, the site of the future Michigan League was chosen as the block bounded by Washington Street and North University Avenue to the east of Hill Auditorium. Fundraising for this construction took five years, and the final sum raised was $332,105.23.
 
 On June 18, 1927 the groundbreaking ceremony for the new league building took place led by Dr. Eliza Mosher, the University of Michigan’s first Dean of Women. The building was officially opened to the public on June 14, 1928, nearly two years later.
+
+### Sources
+
+- Abrahams, Peter. “Henry Fitz, American Telescope Maker.” Journal of the Antique Telescope Society 6, no. Summer 1994. Accessed March 15, 2017. http://www.europa.com/~telscope/fitz.txt.
+
+- Snyder, Dave. “The History of the Detroit Observatory.” Reflections of the University Lowbrow Astronomers, December 1997. https://www.umich.edu/~lowbrows/reflections/.
+
+- University of Michigan. “College Notes.” The Michigan Technic, 1931. https//catalog.hathitrust.org/Record/000052394.
+
+- Whitesell, Patricia S. A Creation of His Own: Tappan’s Detroit Observatory. Michigan Historical Collections, Bentley Historical Library, the University of Michigan, 1998.
+
+- “Detroit Observatory: Nineteenth-Century Training Ground for Astronomers.” Journal of Astronomical History and Heritage 6, no. 2 (December 2003): 69–106.
