@@ -14,7 +14,7 @@ As early as the 1880s, the University of Michigan was beginning to realize that 
 
 ## Tappan School to East Hall
 
-In 1883, the Ann Arbor School Board allocated $10,988 to build **Tappan School** on East University Avenue near Church Street (Berry, 1954, 1). Today, many Ann-Arborites may recognize this location as present day **East Hall**, home of the University’s departments of Mathematics and Psychology, and they would be right. While today East Hall is a formidable presence on the eastern side of the Central Campus [Diag](https://umich-hist-399.github.io/campus-histories/essays/diag), the University’s acquisition of this space was met with much chagrin.
+In 1883, the Ann Arbor School Board allocated $10,988 to build **Tappan School** on East University Avenue near Church Street (Berry 1954, 1). Today, many Ann-Arborites may recognize this location as present day **East Hall**, home of the University’s departments of Mathematics and Psychology, and they would be right. While today East Hall is a formidable presence on the eastern side of the Central Campus [Diag](https://umich-hist-399.github.io/campus-histories/essays/diag), the University’s acquisition of this space was met with much chagrin.
 
 In fact, though Tappan School was built not forty years before, by 1920, it was recognized that the school was inadequate: characterized by overcrowdedness, not forward thinking curriculum wise (as many parts of the country embraced the junior high school model with ‘progressive education’) and had facilities that had fallen into disrepair (Berry 1954, 4). Local fire inspector reports from the time corroborate that the school did not pass the fire codes and was unsafe.
 
@@ -70,8 +70,19 @@ Despite renovation efforts in 1957 to update the building, the **Frieze Building
 - Vosgerchian, Jessica. “The rise and fall of the Frieze building”,  _The Michigan Daily_, February 9, 2007. [https://www.michigandaily.com/content/rise-and-fall-frieze-building](https://www.michigandaily.com/content/rise-and-fall-frieze-building)
 
 Image credits:
-- "Frieze Building (including Carnegie library building), corner of State and Huron Streets, February 1958; HS1812." Bentley Image Bank. Bentley Historical Library. [https://quod.lib.umich.edu/b/bhl/x-hs1812/HS1812?from=index;lasttype=boolean;lastview=thumbnail;med=1;resnum=7;size=20;sort=relevance;start=1;subview=detail;view=entry;rgn1=ic_all;q1=carnegie+library](https://quod.lib.umich.edu/b/bhl/x-hs1812/HS1812?from=index;lasttype=boolean;lastview=thumbnail;med=1;resnum=7;size=20;sort=relevance;start=1;subview=detail;view=entry;rgn1=ic_all;q1=carnegie+library)
 
-- "Union (Ann Arbor) High School 1856-1879; BL000932." Bentley Image Bank. Bentley Historical Library. https://quod.lib.umich.edu/b/bhl/x-bl000932/BL000932?from=index;lasttype=boolean;lastview=thumbnail;med=1;resnum=1;size=20;sort=relevance;start=1;subview=detail;view=entry;rgn1=ic_all;q1=union+high+school
+- "A 1917 Ann Arbor Fire Inspector's Map..." 1917, Ann Arbor Fire Department. The Bentley Historical Library. University of Michigan.
+
+- "A 1938 Ann Arbor Fire Inspector’s Map demonstrates..." 1938, Ann Arbor Fire Department. The Bentley Historical Library. University of Michigan.
+
+- "The façade of the Carnegie Library today" 2017, author's personal photograph.
+
+- Double image: "Frieze Building (including Carnegie library building), corner of State and Huron Streets, February 1958; HS1812." Bentley Image Bank. Bentley Historical Library. [https://quod.lib.umich.edu/b/bhl/x-hs1812/HS1812?from=index;lasttype=boolean;lastview=thumbnail;med=1;resnum=7;size=20;sort=relevance;start=1;subview=detail;view=entry;rgn1=ic_all;q1=carnegie+library](https://quod.lib.umich.edu/b/bhl/x-hs1812/HS1812?from=index;lasttype=boolean;lastview=thumbnail;med=1;resnum=7;size=20;sort=relevance;start=1;subview=detail;view=entry;rgn1=ic_all;q1=carnegie+library)
+
+- "Union High School circa 1879." 'Union (Ann Arbor) High School 1856-1879; BL000932.' Bentley Image Bank. Bentley Historical Library. [https://quod.lib.umich.edu/b/bhl/x-bl000932/BL000932?from=index;lasttype=boolean;lastview=thumbnail;med=1;resnum=1;size=20;sort=relevance;start=1;subview=detail;view=entry;rgn1=ic_all;q1=union+high+school](https://quod.lib.umich.edu/b/bhl/x-bl000932/BL000932?from=index;lasttype=boolean;lastview=thumbnail;med=1;resnum=1;size=20;sort=relevance;start=1;subview=detail;view=entry;rgn1=ic_all;q1=union+high+school)
+
+- "A 1938 Ann Arbor Fire Inspector’s Map shows City High School..."  1938, Ann Arbor Fire Department. The Bentley Historical Library. University of Michigan.
 
 - “Andrew Carnegie, Philanthropist” [http://www.americaslibrary.gov/aa/carnegie/aa_carnegie_phil_1.html](http://www.americaslibrary.gov/aa/carnegie/aa_carnegie_phil_1.html)
+
+- "One of the plans presented..." Jeremiah Mason, 2005. “The Frieze Building : an informal report analyzing its past, present, and future /”, 2005.
