@@ -55,7 +55,7 @@ Despite renovation efforts in 1957 to update the building, the **Frieze Building
 {% include figure.html class="img-center" width="33%" caption="One of the plans presented for the North Quad site." src="/images/planoptionfriezenq.jpg" %}
 
 
-# Sources
+## Sources
 
 - “Andrew Carnegie, Philanthropist” [http://www.americaslibrary.gov/aa/carnegie/aa_carnegie_phil_1.html](http://www.americaslibrary.gov/aa/carnegie/aa_carnegie_phil_1.html)
 - Ann Arbor Board of Education. Catalogue of the Ann Arbor High School for the academic year. 1895-1896. 
@@ -69,7 +69,7 @@ Despite renovation efforts in 1957 to update the building, the **Frieze Building
 	[http://aaobserver.aadl.org/aaobserver/15245](http://aaobserver.aadl.org/aaobserver/15245)
 - Vosgerchian, Jessica. “The rise and fall of the Frieze building”,  _The Michigan Daily_, February 9, 2007. [https://www.michigandaily.com/content/rise-and-fall-frieze-building](https://www.michigandaily.com/content/rise-and-fall-frieze-building)
 
-Image credits:
+## Image credits
 
 - "A 1917 Ann Arbor Fire Inspector's Map..." 1917, Ann Arbor Fire Department. The Bentley Historical Library. University of Michigan.
 
