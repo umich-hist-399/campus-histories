@@ -1,3 +1,9 @@
+---
+layout: single-col
+title: School of Dentistry
+date: 2017-4-10
+---
+
 # School of Dentistry
 
 The University of Michigan was the first state university to open a school of dentistry. The original building designated for the training of the dentist was built in 1909 on North University Avenue. Recognizing the need to expand, built a new expansion, the Kellogg Building in 1938. This buidling was named to recognize the donation of the W.K. Kellogg Foundation that enabled its construction. 
@@ -8,7 +14,7 @@ Renovations in 1971 by Smith, Hinchman & Grylls give the building its distinctiv
 
 Today the School of Dentistry offers academic programs in a wide variety of areas under the dentistry including a Bachelor of Science in Dental Hygiene undergraduate program, a Master’s program, a Doctor of Dental Surgery (D.D.S.) designation as well as a Master in Science and Ph.D programs
 
-Sources
+## Sources
 
 The University of Michigan: An Encyclopedic Survey; Walter A. Donnelly, Wilfred B. Shaw, and Ruth W. Gjelsness, editors; Ann Arbor : University of Michigan Press, 1958.
 
@@ -21,5 +27,5 @@ Mastey, John. “School of Dentistry celebrates 125th anniversary and renovated 
 
 {% include figure.html class="img-center" width="50%" caption="The School of Dentistry today" src="/images/dental-building.jpg" %}
 
-Image credit:
+## Image credit
 [http://www.dent.umich.edu/sites/default/files/2013_SoDBuilding_Panorama.jpg](http://www.dent.umich.edu/sites/default/files/2013_SoDBuilding_Panorama.jpg)
