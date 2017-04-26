@@ -99,7 +99,7 @@ The Arch was and still is a campus landmark, [with growing lore](https://umich-h
 
 
 
-# Sources
+## Sources
 
 - ‘‘1883 Heating Plant and 1894 Boiler House’
 [http://umhistory.dc.umich.edu/mort/original/1900/18%20-Boiler%20House%20(1894)/index.html](http://umhistory.dc.umich.edu/mort/original/1900/18%20-Boiler%20House%20(1894)/index.html)
@@ -134,7 +134,7 @@ Accessed via: [http://um2017.org/Ann-Arbor/Ann_Arbor_Maps/Prettymans_Boarding_Cl
 - Wineberg, Susan. The Lost University - The Forgotten Campus of 1900. _The Ann Arbor Observer_, May 27, 2011.
 [http://aaobserver.aadl.org/aaobserver/40615](http://aaobserver.aadl.org/aaobserver/40615)
 
-# Image Credits
+## Image Credits
 
 - 1854 map of Ann Arbor, 1864 map of Ann Arbor: The Ann Arbor Historic Maps Project. University of Michigan Millennium Project. [http://umhistory.org/history/town-gown/](http://umhistory.org/history/town-gown/)
 
