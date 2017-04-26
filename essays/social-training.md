@@ -61,6 +61,9 @@ Upon opening of the new dormitory, other female residence halls such as Martha C
 
 Nonetheless, it is clear that life at Mosher-Jordan created a camaraderie effect for its residents, recalling similar traditions of boarding house life but in a more structured, socially sanctioned setting. Subsequent years featured hall tea times, social dances, participation in sports league, entertainment of faculty members and families and house board elections (“Mosher-Jordan Holds Dances”, May 26, 1934- "Mosher-Jordan Halls (University of Michigan) photograph series- 1920s-1990s"). Despite this, strict rules remained in place for female residents regarding curfew and late policies (“Rigid Rules for Women’s Hours Passed”, May 30 1934- "Mosher-Jordan Halls (University of Michigan) photograph series- 1920s-1990s").
 
+{% include figure.html class="img-center" width="33%" src="/images/circus-party.jpg" caption="Examples of invitations and tickets to social gatherings at Mosher-Jordan hall."
+%}
+
 {% include figure.html class="img-center" width="33%" src="/images/brains-and-beauty.jpg" caption="Clippings from newspapers at the time reveal how female University 'co-eds' were viewed at the time; based on their 'brains and beauty.'"
  %}
 
@@ -117,6 +120,8 @@ Accessed via: [http://um2017.org/Ann-Arbor/Ann_Arbor_Maps/Prettymans_Boarding_Cl
 - "Early photograph of the completed hall." "Mosher-Jordan Halls (University of Michigan) photograph series- 1920s-1990s." Bentley Historical Library. University of Michigan.
 
 - "Statement from the Regents..." "Mosher-Jordan Halls (University of Michigan) photograph series- 1920s-1990s." Bentley Historical Library. University of Michigan.
+
+- "Examples of invitations..." "Mosher-Jordan Halls (University of Michigan) photograph series- 1920s-1990s." Bentley Historical Library. University of Michigan.
 
 - "Clippings from..." "Mosher-Jordan Halls (University of Michigan) photograph series- 1920s-1990s." Bentley Historical Library. University of Michigan.
 
