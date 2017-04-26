@@ -63,6 +63,8 @@ Despite renovation efforts in 1957 to update the building, the **Frieze Building
 - Callard, Don. The Lost Street Names of Ann Arbor. _The Ann Arbor Observer_, July 24, 2009.
 [http://aaobserver.aadl.org/aaobserver/19282](http://aaobserver.aadl.org/aaobserver/19282)
 - Mason, Jeremiah. “The Frieze Building : an informal report analyzing its past, present, and future /”, 2005.
+- "North Quadrangle." Student Life at the University of Michigan. 2017.
+[http://www.housing.umich.edu/undergrad/north-quadrangle](http://www.housing.umich.edu/undergrad/north-quadrangle) 
 - [Pamphlets and articles about Frieze]. 1889-1899. Bentley Library envelope, call number J 13.12 A1
 - Pioneer Band Association Records, 1912. Ann Arbor, Michigan. 
 - Shackman, Grace. “Ann Arbor’s Carnegie Library.”, _The Ann Arbor Observer_ 2009.
