@@ -147,7 +147,7 @@ Accessed via: [http://um2017.org/Ann-Arbor/Ann_Arbor_Maps/Prettymans_Boarding_Cl
 - "Smokestack near the 'Boiler House'..." '1883 Heating Plant and 1894 Boiler House.' University of Michigan Millennium Project.
 [http://umhistory.dc.umich.edu/mort/original/1900/18%20-Boiler%20House%20(1894)/index.html](http://umhistory.dc.umich.edu/mort/original/1900/18%20-Boiler%20House%20(1894)/index.html)
 
--"The twentieth century brought..." 1904 map of Ann Arbor. The Ann Arbor Historic Maps Project. University of Michigan Millennium Project. [http://umhistory.org/history/town-gown/](http://umhistory.org/history/town-gown/)
+- "The twentieth century brought..." 1904 map of Ann Arbor. The Ann Arbor Historic Maps Project. University of Michigan Millennium Project. [http://umhistory.org/history/town-gown/](http://umhistory.org/history/town-gown/)
 
 - "A plan of the Detroit Observatory..." Crawford, Pamela. Detroit Observatory : architectural design project. University of Michigan, College of Architecture and Urban Planning, 1976.
 
