@@ -46,15 +46,15 @@ Further development on the Diag included the Heating Plant (1883) and the ‘Boi
 
 Mortimer Cooley, Dean of Engineering was quoted to have said “I thought if I could make the boiler house as ugly as possible, and fix the guy ropes so some of the professors would get their heads bumped, I might get some help. Suffice to say, the following year I was authorized to make plans for the present boiler house in the old ‘Cat Hole’.” (Scientific Blacksmith, p. 82). The space was subsequently converted into an engineering lab and later an ROTC building in 1925, being used until 1942 (‘1883 Heating Plant and 1894 Boiler House’).
 
-{% include aside.html class="pullquote" text="I thought if I could make the boiler house as ugly as possible, and fix the guy ropes so some of the professors would get their heads bumped, I might get some help. Suffice to say, the following year I was authorized to make plans for the present boiler house in the old _Cat Hole_." %}
+{% include aside.html class="pullquote" text="I thought if I could make the boiler house as ugly as possible, and fix the guy ropes so some of the professors would get their heads bumped, I might get some help. Suffice to say, the following year I was authorized to make plans for the present boiler house in the old _Cat Hole_. -Mortimer Cooley Dean of U-MEngineering" %}
 
-The first map of the new century (1904) shows even more development eastward.
-
- {% include figure.html class="img-center" width="33%" src="/images/1904map.jpg" caption="The twentieth century brought even more expansion of the University to the East." %}
-
-Notable additions include a number of medical buildings to the northeast (23 on map)—a homeopathic hospital, Palmer Ward & Nurses Residence, an Allopathy Hospital, an Ophthalmology & Otology facility and a Psychopathic Ward—the University [‘Detroit Observatory’](https://umich-hist-399.github.io/campus-histories/essays/detroit-observatory) (1854) and its adjacent student observatory and residence (24 on map), the [Waterman Gymnasium](https://umich-hist-399.github.io/campus-histories/summaries/watermangymnasium) (1894) (10 on map) which was used for a variety of student activities such as exercise classes, class registration, a dance hall, a space for fundraising banquets and a space for barrack-like training for WWI soldiers (Crawford 1976; Wear 1950).
+Despite the recession of the tail end of the ninteenth century, the University continued to expand its infrastructure in the early twentieth century, particularly to the east. Notable additions include a number of medical buildings to the northeast (23 on map)—a homeopathic hospital, Palmer Ward & Nurses Residence, an Allopathy Hospital, an Ophthalmology & Otology facility and a Psychopathic Ward—the University [‘Detroit Observatory’](https://umich-hist-399.github.io/campus-histories/essays/detroit-observatory) (1854) and its adjacent student observatory and residence (24 on map), the [Waterman Gymnasium](https://umich-hist-399.github.io/campus-histories/summaries/watermangymnasium) (1894) (10 on map) which was used for a variety of student activities such as exercise classes, class registration, a dance hall, a space for fundraising banquets and a space for barrack-like training for WWI soldiers (Crawford 1976; Wear 1950).
 
 <div class="carousel">
+ <div>
+    <img src="../images/1904map.jpg">
+    <p class="carousel-caption">The twentieth century brought even more expansion of the University to the East.</p>
+  </div>
   <div>
     <img src="../images/detroit-observatory.jpg">
     <p class="carousel-caption">A plan of the Detroit Observatory from the 1970s.</p>
