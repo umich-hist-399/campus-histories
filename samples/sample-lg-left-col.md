@@ -4,7 +4,16 @@ title: Sample Essay
 date: 2017-02-19
 ---
 
+{% include jumbotron.html
+  title="Page Title"
+  image="images/perry-building.jpg"
+  text="
+Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Fusce id purus. Ut varius tincidunt libero. Phasellus dolor. Maecenas vestibulum mollis diam. Pellentesque ut neque.
+" %}
+
+
 # Sample Essay: lg-left-col
+
 
 {% include full-width.html text="
 *This page provides a sample 1200-word in a large-left-column essay. The key features, as you can see below, are slightly wider page width, two columns, with all text on the left and images, quotes, and annotations on the right. You can view the code of this page to see exactly how how get certain features on your own essay pages.*

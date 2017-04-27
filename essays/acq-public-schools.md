@@ -6,11 +6,11 @@ date: 2017-4-10
 
 {% include jumbotron.html
 title="Buying Schools to Make Schools"
-image="/images/1965aerialcampus.jpg" text=" As Don Callard of _The Ann Arbor Observer_ wrote, “nothing expands like a university,” (Callard 2009). Learn how the University of Michigan covered ground for its expanding needs through the acquisition of public schools."
+image="/images/1965aerialcampus.jpg" text='As Don Callard of _The Ann Arbor Observer_ wrote, "nothing expands like a university," (Callard 2009). Learn how the University of Michigan covered ground for its expanding needs through the acquisition of public schools.'
 %}
 
 
-As early as the 1880s, the University of Michigan was beginning to realize that they were running out of space to house their growing needs. Everything from [student](https://umich-hist-399.github.io/campus-histories/essays/social-training) [housing](https://umich-hist-399.github.io/campus-histories/essays/eastquad), research laboratories and classroom halls needed to be somewhere, and the current acreage owned would not be able to cut it for much longer. The following essay tracks the University’s involvement and ownership in two public schools in Ann Arbor: Tappan School and Ann Arbor City High School. The University also [purchased a third public school, the Perry School](https://umich-hist-399.github.io/campus-histories/summaries/perrybuilding) in 1967. 
+As early as the 1880s, the University of Michigan was beginning to realize that they were running out of space to house their growing needs. Everything from [student](https://umich-hist-399.github.io/campus-histories/essays/social-training) [housing](https://umich-hist-399.github.io/campus-histories/essays/eastquad), research laboratories and classroom halls needed to be somewhere, and the current acreage owned would not be able to cut it for much longer. The following essay tracks the University’s involvement and ownership in two public schools in Ann Arbor: Tappan School and Ann Arbor City High School. The University also [purchased a third public school, the Perry School](https://umich-hist-399.github.io/campus-histories/summaries/perrybuilding) in 1967.
 
 ## Tappan School to East Hall
 
@@ -58,15 +58,15 @@ Despite renovation efforts in 1957 to update the building, the **Frieze Building
 ## Sources
 
 - “Andrew Carnegie, Philanthropist” [http://www.americaslibrary.gov/aa/carnegie/aa_carnegie_phil_1.html](http://www.americaslibrary.gov/aa/carnegie/aa_carnegie_phil_1.html)
-- Ann Arbor Board of Education. Catalogue of the Ann Arbor High School for the academic year. 1895-1896. 
+- Ann Arbor Board of Education. Catalogue of the Ann Arbor High School for the academic year. 1895-1896.
 - Berry, Margaret D. “A History of Tappan Junior High School.” 1954.
 - Callard, Don. The Lost Street Names of Ann Arbor. _The Ann Arbor Observer_, July 24, 2009.
 [http://aaobserver.aadl.org/aaobserver/19282](http://aaobserver.aadl.org/aaobserver/19282)
 - Mason, Jeremiah. “The Frieze Building : an informal report analyzing its past, present, and future /”, 2005.
 - "North Quadrangle." Student Life at the University of Michigan. 2017.
-[http://www.housing.umich.edu/undergrad/north-quadrangle](http://www.housing.umich.edu/undergrad/north-quadrangle) 
+[http://www.housing.umich.edu/undergrad/north-quadrangle](http://www.housing.umich.edu/undergrad/north-quadrangle)
 - [Pamphlets and articles about Frieze]. 1889-1899. Bentley Library envelope, call number J 13.12 A1
-- Pioneer Band Association Records, 1912. Ann Arbor, Michigan. 
+- Pioneer Band Association Records, 1912. Ann Arbor, Michigan.
 - Shackman, Grace. “Ann Arbor’s Carnegie Library.”, _The Ann Arbor Observer_ 2009.
 	[http://aaobserver.aadl.org/aaobserver/15245](http://aaobserver.aadl.org/aaobserver/15245)
 - Vosgerchian, Jessica. “The rise and fall of the Frieze building”,  _The Michigan Daily_, February 9, 2007. [https://www.michigandaily.com/content/rise-and-fall-frieze-building](https://www.michigandaily.com/content/rise-and-fall-frieze-building)

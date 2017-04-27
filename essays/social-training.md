@@ -21,7 +21,7 @@ Local institutions such as the Salvation Army of Washtenaw County and community 
 
 Beginning as early as 1875, three primary boarding houses existed to serve primarily male students: ‘Prettyman’s’ Boarding House, later dubbed ‘Campus Club’ (1875, acquired by University in 1914), ‘Freeman’s’ and ‘Chubb’s’ ([“Prettyman’s Boarding House”](http://um2017.org/Ann-Arbor/Ann_Arbor_Maps/Prettymans_Boarding_Club.html))).
 
-{% include aside.html class="aside-right" text="In 1870, the University of Michigan began admitting female students. ("Eliza Maria Mosher Papers 1846-1934.")" %}
+{% include aside.html class="aside-right" text="In 1870, the University of Michigan began admitting female students. (Eliza Maria Mosher Papers 1846-1934.)" %}
 
 {% include figure.html class="img-center-full" src="/images/prettyman's-1.jpg" caption="Prettyman's Boarding House as seen in 1897. Note on reverse side reads: _Residence H.G. Prettyman 27 N. Univ. Ave Ann Arbor, Michigan. June 1897_ William had his meals here while in college and lived here part of the time."
  %}
@@ -34,7 +34,7 @@ Owned and operated by University alumnus and football team captain Horace Pretty
 
 It was to the chagrin of many alumni when these boarding houses closed. In the case of Chubb’s and Prettyman’s, the University purchased the lots at first to use as University sponsored housing. Later, the buildings were razed in order to make way for the Rackham Graduate School in the case of the former and the School of Dentistry in the case of the latter. (Michigan Alumnus issue from 1938).
 
-{% include aside.html class="aside-right" text="In 1896, Eliza Mosher, an 1875 graduate of the University of Michigan Medical School is appointed to the inuagural Dean of Women by University President Angell ("Eliza Maria Mosher Papers 1846-1934.")" %}
+{% include aside.html class="aside-right" text="In 1896, Eliza Mosher, an 1875 graduate of the University of Michigan Medical School is appointed to the inuagural Dean of Women by University President Angell (Eliza Maria Mosher Papers 1846-1934.)" %}
 
 It should be noted that many female students also took up residence with local Ann Arbor families during their time of study.
 
@@ -79,7 +79,7 @@ Upon learning the trajectory of local boarding houses and University development
 
 ## Sources
 
-- “A Chronology of University of Michigan Buildings, 1840-1999.” Bentley Historical Library. 
+- “A Chronology of University of Michigan Buildings, 1840-1999.” Bentley Historical Library.
 [http://bentley.umich.edu/legacy-support/campus_tour/chronology.php](http://bentley.umich.edu/legacy-support/campus_tour/chronology.php)
 
 - Adams Lewis, William. Collection of photographs and notebooks. 1893-1898.
@@ -89,7 +89,7 @@ Upon learning the trajectory of local boarding houses and University development
 - Kimball, Fiske. _The Old Houses of Ann Arbor_, 1919.
 
 - “Prettyman’s Boarding House.” University of Michigan Millennium Project.
-[http://um2017.org/Ann-Arbor/Ann_Arbor_Maps/Prettymans_Boarding_Club.html](http://um2017.org/Ann-Arbor/Ann_Arbor_Maps/Prettymans_Boarding_Club.html) 
+[http://um2017.org/Ann-Arbor/Ann_Arbor_Maps/Prettymans_Boarding_Club.html](http://um2017.org/Ann-Arbor/Ann_Arbor_Maps/Prettymans_Boarding_Club.html)
 
 - Mosher, Eliza Maria. “Eliza Maria Mosher Papers 1846-1934.” The Bentley Historical Library. University of Michigan.
 
