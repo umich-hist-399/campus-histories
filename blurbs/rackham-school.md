@@ -7,6 +7,8 @@ date: 2017-04-12
 
 # Rackham School of Graduate Studies
 
+{% include figure.html class="img-center" width="33%" caption="The Rackham School of Graduate Studies today" src="/images/AerialViewRackham.jpg" %}
+
 - Construction funded by Horace H. Rackham and Mary A. Rackham in 1935 with a gift of  more than $10 million dollars ("A Historical Tour of the University of Michigan campus, 2007")
 - Today, the present-day Rackham School is situated in between [North Quad](https://umich-hist-399.github.io/campus-histories/essays/acq-public-schools), a living and learning community, and the first Jewish cemetery in the state of Michigan. (Brennan 2015).
 - Prior to construction, 30 buildings had to be demolished including noted early twentieth century student eating club, “Freeman’s.” (_The Michigan Alumnus_, November 12, 1938, page 101).
@@ -15,8 +17,8 @@ date: 2017-04-12
 - On April 12, 1955, Dr. Thomas Francis of the University of Michigan School of Public Health and University of Michigan Polio Evaluation Center announced that the vaccine for polio developed by Francis’ former research assistant Dr. Jonas Salk was effective from the Rackham auditorium. After a year of clinical trials and decades of afflicted patients, this highly-anticipated announcement represented a breakthrough in scientific innovation and changed the course of countless lives (Thomas Francis papers; G. Mennen Williams papers).
 - The announcement coincided with the ten-year anniversary of noted polio victim President Franklin Delano Roosevelt's death. (Thomas Francis papers).
 
-
 {% include figure.html class="img-center" width="33%" caption="The Rackham School of Graduate Studies today" src="/images/AerialViewRackham.jpg" %}
+
 
 ## Sources
 - "A Historical Tour of the University of Michigan campus, 2007"; The Bentley Historical Library. University of Michigan.
