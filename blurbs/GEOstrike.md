@@ -1,6 +1,6 @@
 # The Geo Strike of 1975
 
-## 2017 not only brings about the Bicentennial of the University of Michigan, but also what was almost another strike by the Graduate Employee's Organization, or GEO. A similar strike actually happened in 1975.
+## 2017 not only brings about the Bicentennial of the University of Michigan, but also what was almost another strike by the Graduate Employee's Organization, or GEO. A similar strike actually happened in 1975, in which the GEO fought to be legally recognized by the University.
 
 - Fall 1973: Teaching fellows return from Summer vacation to discover that tuition costs increased by 24%. During the 1973-74 school year, the Organization of Teaching Fellows (later renamed the GEO) negotiates with President Fleming, who will not deal with them as they are not legally certified.
 
@@ -8,10 +8,18 @@
 
 - Fall 1974: Teaching fellows return to find a promised 8% salary increase being held in escrow by the University; they are told they will have to bargain for it in contract talks. GEO walks out in November; an impasse is declared in December. A mediator from MERC is called in for talks starting in January.
 
-- January-February 1975: Another impasse is reached in negotiations. GEO holds another strike vote; this one passes 689-193. The strike begins on February 11, 1975. GEO begins picketing loading docks and classroom buildings, urging employees, faculty, and students not to cross. LSA attendance drops to 50%. GEO wins the support of the Residential College, UAW, and Teamsters. Negotiations still not fruitful, as GEO and Regents still split on issues like class size.
+- January-February 1975: Another impasse is reached in negotiations. GEO holds another strike vote; this one passes 689-193. The strike begins on February 11, 1975. GEO begins picketing loading docks and classroom buildings, urging employees, faculty, and students not to cross. LSA attendance drops to 50%. GEO wins the support of the Residential College, UAW, and Teamsters. Negotiations still not fruitful, as GEO and Regents still split on issues like class size and agency shop.
 
 - By February 28, 57 picketers have been arrested, mostly for trespassing. Fleming maintains that the University will accept agency shop for GEO if the union can prove by a majority vote that graduate employees want it. GEO says that is what their ratification was for, as they were ratified legally by MERC.
 
-- A fact-finder report in March 1975 finds in the GEO's favor on agency shop, and the GEO agrees to the University's offer, that the report will be accepted as binding if they give in on other issues like the economics package. The GEO contract was ratified in a vote held from March 12th to the 14th, 1975, and passed, 622-12.
+- A fact-finder report in March 1975 finds in the GEO's favor on agency shop, and the GEO agrees to the University's offer, that the report will be accepted as binding if they give in on other issues like an economics package. The GEO contract was ratified in a vote held from March 12th to the 14th, 1975, and passed, 622-12.
+
+{% include figure.html class="img-center" width="50%" src="/images/GEOflyer.JPG" caption="A flyer for the GEO in 2017." %}
 
 ## Sources
+
+- Brown, Andy, Harley Frazis, Jim Robb, Mike Taylor, Tom Weisskopf, and Eitan Yanich. *Conflict and power on the campus: studies in the political economy of the University of Michigan*, 1978. Box 4, Residential College (University of Michigan) records, Bentley Historical Library, University of Michigan
+
+## Image Credits
+
+- 2017 GEO flyer: Author's own
