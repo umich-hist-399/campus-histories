@@ -36,7 +36,7 @@ Those smokestacks belonged to the Heating Plant and the Boiler House, buildings 
 
 The Diag is a living artifact, one that changes with the times much like anything else. In this sense, it is more than just a glorified sidewalk; the Diag may be talked about like any building that resides near it. It is added on to, like new buildings that appear as the University needs them, and segments are also destroyed to make way for the new. Consider how the Heating Plant and Boiler House are now gone; as technology improves, the University decides what happens to the old.
 
-{% include figure.html class="img-left" src="/images/1919map.JPG" caption="The campus, real and proposed, in 1919. The Diag is taking on more pathways to go to more buildings." %}
+{% include figure.html class="img-left" width="50%" caption="The campus, real and proposed, in 1919. The Diag is taking on more pathways to go to more buildings." src="/images/1919map.JPG" %}
 
 After World War I, the University underwent a period of expansion, and this map from 1919 illustrates well the scope that the University was envisioning. The area in yellow, which envelops more than just the original campus, is the "prospective property of the University". The University was thinking expansionist; some buildings on the map are outlines of future buildings. This map is a blueprint of the future U of M campus, and a portent of things to come; a sprawling campus with numerous buildings that are on main campus and also, eventually, integrated into Ann Arbor itself. 
 
