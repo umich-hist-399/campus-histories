@@ -14,11 +14,11 @@ It is interesting to consider, then, the Diag before pavement. Indeed, as we’l
 
  {% include figure.html class="img-right" width="50%" src="/images/campus1854.png" caption="Campus in 1854. No sign of the Diag; the focus isn't on transportation yet."%}
 
-The first map I want to draw attention to is this one, drawn from the Ann Arbor, Michigan Historic Maps project. This is the University of Michigan campus in 1854. As you can see, there is no “Diag” to speak of; the University is striving for a pastoral ideal. There appear to be some paths that are mostly for the benefit of professors, as they connect their houses to each other and the main University building. The building in the middle of the “Botanical Gardens” is the old Medicine Building. It’s interesting to see just how far the University has come in this field; in 1854, there wasn’t even a path to this building, and now the campus sports a famously large hospital and medical campus. This map is a good place to start; there isn’t much there, but what is present forms the backbone of the future central campus.
+The first map I want to draw attention to is this one, drawn from the Ann Arbor, Michigan Historic Maps project. This is the University of Michigan campus in 1854. As you can see, there is no “Diag” to speak of; the University is striving for a pastoral ideal. There appear to be some paths that are mostly for the benefit of professors, as they connect their houses to each other and the main University building. The building in the middle of the “Botanical Gardens” area is the old Medicine Building. It’s interesting to see just how far the University has come in this field; in 1854, there wasn’t even a path to this building, and now the campus sports a famously large hospital and medical campus. This map is a good place to start; there isn’t much there, but what is present forms the backbone of the future central campus.
 
- {% include figure.html class="img-right" width="60%" src="/images/campus1866.png" %}
+ {% include figure.html class="img-right" width="33%" src="/images/campus1866.png" %}
 
- {% include figure.html class="img-left" width="40%" src="/images/campus1864.png" %}
+ {% include figure.html class="img-left" width="33%" src="/images/campus1864.png" %}
 
 These next maps are from the Historic Maps Project as well; the rightmost being 10 years later than the first, 1864, and the leftmost from 1866. There aren’t any discernible differences between them, but the 1866 map is useful for visualizing the campus around this time. The 1864 map can be contrasted with the 1854 map in striking ways. There is more of a focus on the Medical Campus now; and indeed, we see the first markings of the modern Diag. It comes down from the northwest, going straight for the Medical College. So then, the Diag began as a way to quickly get to the Medical College, heretofore a bit of an isolated area.
 
@@ -40,11 +40,17 @@ The Diag is a living artifact, one that changes with the times much like anythin
 
 After World War I, the University underwent a period of expansion, and this map from 1919 illustrates well the scope that the University was envisioning. The area in yellow, which envelops more than just the original campus, is the "prospective property of the University". The University was thinking expansionist; some buildings on the map are outlines of future buildings. This map is a blueprint of the future U of M campus, and a portent of things to come; a sprawling campus with numerous buildings that are on main campus and also, eventually, integrated into Ann Arbor itself. 
 
-{% include figure.html class="img-right" src="/images/1919mapkey.JPG" caption="A key to the above map. The original map extended much further north; it has been cropped to show just campus here." %}
+{% include figure.html class="img-right" width= "33%" src="/images/1919mapkey.JPG" caption="A key to the above map. The original map extended much further north; it has been cropped to show just campus here." %}
 
 The Diag itself on this map is quite sprawling as well. Compared to the 19th century version, there are many more pathways, and many more ways to travel, well, diagonally. With the addition of new buildings, it becomes necessary to be able to traverse them quickly. There was also the issue of student body; after WWI, the student body of U of M also underwent a large expansion. More students means a need for more room, which is reflected in this plan for the Diag.
 
-{% include figure.html class="img-center" src="/images/yeoldemap1930.JPG" caption="This amusing map from 1930 is representative of the Diag as a social space." %}
+{% include figure.html class="img-center" src="/images/yeoldemap1930.JPG" caption="This amusing map from 1930 is representative of the Diag as a social space. It has been blown up so the old-timey text may be better read." %}
+
+One aspect of the Diag that has not been discussed is the social aspect. The Diag, due to centrality and wide use on campus, is a place where many students come together daily, and that was true in 1930 as it is today. This map was a delightful find in the Bentley; hand drawn by Frank Egleston Robbins, an assisstant to the University President in 1930, as a gift to friends. This is a truly informal map, and reveals what social uses and lore were associated with the Diag almost 100 years ago. It is striking to see the parallels between then and now. For one, the Diag is called, jokingly (as all the definitions on this map are), "ye olde diagonal walk". One can get lost in the many features of the map that suggest old inside jokes. Just why are the benches near the Engineering Arch the "senior benches?" The map is emblematic of the feeling of learning about college lingo, a feeling that persists today among freshmen everywhere. In the grassy area, there is a "dog seeking for his kind", which suggests the Diag was a popular dog-walking spot. It certainly is that today!
+
+As the veins and arteries of central campus, the Diag is an area that many students use and depend on to traverse campus, and it is also a place where people come together to experience the University of Michigan. Using maps as evidence, one can trace how it came to be this way; as history went on, and as the United States at large expanded, so did the campus, and thus the Diag. Today the Diag remains a symbol of what it always has been; a way of progress for all people, and a public good concerned with efficiency and expansion.
+
+{% include figure.html class="img-center" width="75%" src="/images/diagtoday.JPG" caption="The Diag, seen from the steps of Hatcher Grauate Library, April 27th, 2017." %}
 
 ### Sources
 
