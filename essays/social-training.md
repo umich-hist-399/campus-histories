@@ -11,10 +11,10 @@ text=" Although students began to take classes at the University's Ann Arbor cam
 %}
 
 
-In order for a university to function, to do its research, to offer classes, there must be an infrastructure or system in place that provides students with a place to live and a place to eat their meals. Although students began to take classes at the Ann Arbor campus as early as 1840, the first acknowledged University student housing residence was not built until 1915 ([“A Chronology of University of Michigan Buildings, 1840-1999”](http://bentley.umich.edu/legacy-support/campus_tour/chronology.php); “Education shall forever be encouraged”, VP of University Development publications) . Before this, students had to find other means of lodging when enrolling in the Ann Arbor campus. A common route was staying in privately owned boarding houses that offered room and board ([“Prettyman’s Boarding House”](http://um2017.org/Ann-Arbor/Ann_Arbor_Maps/Prettymans_Boarding_Club.html).
+In order for a university to function, to do its research, to offer classes, there must be an infrastructure or system in place that provides students with a place to live and a place to eat their meals. Although students began to take classes at the Ann Arbor campus as early as 1840, the first acknowledged University student housing residence was not built until 1915 ([“A Chronology of University of Michigan Buildings, 1840-1999”](http://bentley.umich.edu/legacy-support/campus_tour/chronology.php); “Education shall forever be encouraged”, VP of University Development publications) . Before this, students had to find other means of lodging when enrolling in the Ann Arbor campus. A common route was staying in privately owned boarding houses that offered room and board ([“Prettyman’s Boarding House”](http://um2017.org/Ann-Arbor/Ann_Arbor_Maps/Prettymans_Boarding_Club.html).)
 
 
-{% include figure.html class="img-center-full" src="/images/prillys-boardinghouse.jpg" caption="‘Prilly’ residence, a home that opened its doors to student boarders circa, June 1896."
+{% include figure.html class="img-center" width="75%" src="/images/prillys-boardinghouse.jpg" caption="‘Prilly’ residence, a home that opened its doors to student boarders circa, June 1896."
  %}
 
 Local institutions such as the Salvation Army of Washtenaw County and community churches also offered meals (Adams Lewis, 1898). The following essay offers a background on such boarding house culture and describes the rise of one particular University sponsored dorm, Mosher Jordan Hall, and the rarely discussed backlash that ensued over its construction.
@@ -23,7 +23,7 @@ Beginning as early as 1875, three primary boarding houses existed to serve prima
 
 {% include aside.html class="aside-right" text="In 1870, the University of Michigan began admitting female students. (Eliza Maria Mosher Papers 1846-1934.)" %}
 
-{% include figure.html class="img-center-full" src="/images/prettyman's-1.jpg" caption="Prettyman's Boarding House as seen in 1897. Note on reverse side reads: _Residence H.G. Prettyman 27 N. Univ. Ave Ann Arbor, Michigan. June 1897_ William had his meals here while in college and lived here part of the time."
+{% include figure.html class="img-center" width="75%" src="/images/prettyman's-1.jpg" caption="Prettyman's Boarding House as seen in 1897. Note on reverse side reads: _Residence H.G. Prettyman 27 N. Univ. Ave Ann Arbor, Michigan. June 1897_ William had his meals here while in college and lived here part of the time."
  %}
 
 
@@ -46,7 +46,7 @@ As female enrollment increased, the University saw a need to provide suitable lo
 
 {% include aside.html class="aside-right" text="In 1920, the Ninteenth Amendment to the U.S. Constitution was ratified, [giving women the right to vote](https://umich-hist-399.github.io/campus-histories/essays/state-street-suffrage)." %}
 
-{% include figure.html class="img-center-full" src="/images/exterior-mj.jpg" caption="Early sketch of Mosher-Jordan Hall (left); Early photograph of the completed hall (right)."
+{% include figure.html class="img-center" width="60%" src="/images/exterior-mj.jpg" caption="Early sketch of Mosher-Jordan Hall (left); Early photograph of the completed hall (right)."
  %}
 
 Among fairly routine delay setbacks included ability to secure financing, a search for an architectural team and severe weather, the University also faced significant opposition from private citizens of Ann Arbor who likely earned a significant amount of money from taking in students as boarders (“Building of Dormitory To Be Postponed”; “Dormitory Plans Near Completion”- "Mosher-Jordan Halls (University of Michigan) photograph series- 1920s-1990s"). A statement from the Regents of the University at the time of construction succinctly captures the tension:
@@ -55,13 +55,13 @@ Among fairly routine delay setbacks included ability to secure financing, a sear
 
 At the time regarded as a “thoroughly modern”, “giant structure” that was “one of the most imposing of the University of Michigan’s buildings because of its height and its location”, the $955,000 structure continued to be met with controversy among local residents. (“Contract let for Erection of Dorm”; “U of M Girls’ Dormitory”- "Mosher-Jordan Halls (University of Michigan) photograph series- 1920s-1990s"). In an article from the time of construction, it was noted that “work on the new dormitory was started following a controversy during which rooming-house owners of Ann Arbor sought by various means, including appeal to Governor Fred W. Green, to stop letting of the contract. It was felt by the group that the rooming houses are adequate and the dormitory unnecessary. Dr. Clarence C. Little, then president of the university, was made the butt of the attacks.” (“U of M Girls’ Dormitory”- "Mosher-Jordan Halls (University of Michigan) photograph series- 1920s-1990s"). It is clear that the University and the local residents did not see eye to eye then. Perhaps it is thought-provoking to consider how today, when University sponsored dormitories provide but a drop in the bucket for only nearly a quarter to a third of students, these relations have shifted.
 
-{% include aside.html class="aside-right" text="In 1929, the Wall Street stock market crashing, sending the country into a nationwide economic depression." %}
+{% include aside.html class="aside-right" text="In 1929, the Wall Street stock market crashed, sending the country into a nationwide economic depression." %}
 
 Upon opening of the new dormitory, other female residence halls such as Martha Cook (1915), Helen Newberry (1915) and Betsy Barbour (1920) increased the cost of room and board to be equal to the going rate at Mosher-Jordan (“Boards Increase Dormitory Rent”, from February 2, 1930- "Mosher-Jordan Halls (University of Michigan) photograph series- 1920s-1990s"). Curious attention in the aforementioned cited article regarding rent was paid to the meals. It is noted in the subhead, “Meals Remain Uniform” (“Boards Increase Dormitory Rent”, from February 2, 1930- "Mosher-Jordan Halls (University of Michigan) photograph series- 1920s-1990s"). Additionally, great attention was paid to the nature and number of kitchens in the newly christened dorm, the place settings and draperies of the dining area (“Mosher-Jordan Halls, Women’s Dormitory, Now Near Completion as Contractors Finish Work”- "Mosher-Jordan Halls (University of Michigan) photograph series- 1920s-1990s").
 
 Nonetheless, it is clear that life at Mosher-Jordan created a camaraderie effect for its residents, recalling similar traditions of boarding house life but in a more structured, socially sanctioned setting. Subsequent years featured hall tea times, social dances, participation in sports league, entertainment of faculty members and families and house board elections (“Mosher-Jordan Holds Dances”, May 26, 1934- "Mosher-Jordan Halls (University of Michigan) photograph series- 1920s-1990s"). Despite this, strict rules remained in place for female residents regarding curfew and late policies (“Rigid Rules for Women’s Hours Passed”, May 30 1934- "Mosher-Jordan Halls (University of Michigan) photograph series- 1920s-1990s").
 
-{% include figure.html class="img-center" width="33%" src="/images/circus-party.jpg" caption="Examples of invitations and tickets to social gatherings at Mosher-Jordan hall."
+{% include figure.html class="img-center" width="50%" src="/images/circus-party.jpg" caption="Examples of invitations and tickets to social gatherings at Mosher-Jordan hall."
 %}
 
 {% include figure.html class="img-center" width="33%" src="/images/brains-and-beauty.jpg" caption="Clippings from newspapers at the time reveal how female University 'co-eds' were viewed at the time; based on their 'brains and beauty.'"
