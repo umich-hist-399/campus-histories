@@ -7,6 +7,8 @@ date: 2017-04-12
 
 # Rackham School of Graduate Studies
 
+## Get an education about education
+
 {% include figure.html class="img-center" width="33%" caption="The Rackham School of Graduate Studies today" src="/images/AerialViewRackham.jpg" %}
 
 - Construction funded by Horace H. Rackham and Mary A. Rackham in 1935 with a gift of  more than $10 million dollars ("A Historical Tour of the University of Michigan campus, 2007")
