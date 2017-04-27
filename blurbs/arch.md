@@ -6,6 +6,8 @@ date: 2017-4-10
 
 # The Engineering Arch
 
+{% include figure.html class="img-center" width="50%" caption="The Arch, 1921" src="/images/arch-6.jpg" %}
+
 - Built in 1904 as part of the new engineering building, later renamed ‘West Engineering’
 - Named after Charles Denison, an engineering professor at the time who recognized the need to build an arch in order to accommodate the Diag.
 - Today, the Arch holds significance as a site of campus lore.
@@ -17,7 +19,9 @@ date: 2017-4-10
 
 {% include figure.html class="img-center" width="50%" caption="The Arch, 1921" src="/images/arch-6.jpg" %}
 
-Sources
+
+
+## Sources
 
 - Best College Traditions and Superstitions. (November 11, 2012). “University of Michigan: The ‘M’ Legend, Engineering Arch Nuptials, and Hash Bash.”
 [http://collegetraditions.blogspot.com/2012/11/university-of-michigan-m-legend.html](http://collegetraditions.blogspot.com/2012/11/university-of-michigan-m-legend.html)
@@ -38,6 +42,8 @@ Sources
 - “True Blue: A Tribute to Michigan” [event] April, 8, 2017. Ann Arbor, MI.
 
 
-Image credit:
-Michigan Engineering. (January 8, 2015). [Twitter post].
+## Image credit:
+- Michigan Engineering. (January 8, 2015). [Twitter post].
 [https://twitter.com/umengineering/status/553197788381851648](https://twitter.com/umengineering/status/553197788381851648) 
+
+- "Tau Beta Pi." n.d. The Greek U-M Campus. University of Michigan, College of Literature, Science and the Arts. [http://sites.lsa.umich.edu/greekcampus/centralcampus/west-hall-engineering-arch/](http://sites.lsa.umich.edu/greekcampus/centralcampus/west-hall-engineering-arch/)
