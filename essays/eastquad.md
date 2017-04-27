@@ -60,6 +60,8 @@ One way in which this was an update for the 21st century was a farewell to part 
 
 ## Image Credits
 
+- Title card: "East Quadrangle [Interior Courtyard]", 1941. University of Michigan Photographs Vertical File, Bentley Historical Library, University of Michigan. [http://quod.lib.umich.edu/b/bhl/x-bl004157/bl004157](http://quod.lib.umich.edu/b/bhl/x-bl004157/bl004157)
+
 - Captain Robert Mickey: "Captain Robert L. Mickey, commanding officer of the 55th AAF Technical Training Detachment, University of Michigan...Taken at headquarters in the East Quadrangle, October 18, 1943", University of Michigan Photographs Vertical File, Bentley Historical Library, University of Michigan. [http://quod.lib.umich.edu/b/bhl/x-bl003837/bl003837](http://quod.lib.umich.edu/b/bhl/x-bl003837/bl003837)
 
 - Army units under inspection: Lewin, Robert L. "Personal inspection in the hallway of East Quad", 1943. University of Michigan Photographs Vertical File, Bentley Historical Library, University of Michigan. [http://quod.lib.umich.edu/b/bhl/x-bl003842/bl003842](http://quod.lib.umich.edu/b/bhl/x-bl003842/bl003842)
