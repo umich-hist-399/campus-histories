@@ -16,6 +16,9 @@ This website comes from a collaborative research project of five dedicated, indu
 <!--
 <img class="headshot" src="images/headshots/sarah-henzlik.jpg">
 **Sarah Henzlik** is a junior in the College of Literature, Science and the Arts majoring in Communication Studies with a minor in the History of Art. Originally from the Chicago area, she is interested in ways of conveying complex histories in accessible ways, particularly on mobile platforms.
+
+<img class="headshot" src="images/headshots/michaelheadshot.jpg">
+**Michael Zimmer** is a senior in the College of Literature, Science and the Arts. He is dual-majoring in History and American Culture, with a minor in Digital Studies. Coming from Farmington Hills, MI, Michael is quite familiar with Ann Arbor, being only 20 minutes away. This project opened his eyes to the rich history of the city.
 -->
 
 <!-- Our extensive bibliography can be found on our bibliography page; most historical material came from the [Bentley Historical Library](http://bentley.umich.edu/).
