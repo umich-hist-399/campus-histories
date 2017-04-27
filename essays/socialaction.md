@@ -42,7 +42,7 @@ This would not be the last time students took direct action to get their points 
 
 Once this law was passed, there was not much active protest until 1986. In April of that year, some 100 members of the Free South Africa Coordinating Committee on Campus refused to leave the Fleming Administration Building after the Regents refused to grant Nelson Mandela an honorary degree. They held a vigil in the meeting room, and it lasted all night. (Murakami 1986, 2B)
 
-{% include figure.html class="img-right" width="50%" src="/images/southafricaprotest.jpg" caption="The Diag shanty, symbolizing the conditions black people in South Africa had to live in." %}
+{% include figure.html class="img-right" width="50%" src="/images/southafricaprotest1985.jpg" caption="The Diag shanty, symbolizing the conditions black people in South Africa had to live in." %}
 
  Perhaps the greatest visual legacy of the anti-apartheid movement belongs to the Diag shanty constructed on March 20, 1986. This shanty house was constructed to symbolize the shacks in which most blacks were forced to live in South Africa. (“Year in Review”, 1986) Such an action is representative of the way that University of Michigan students handle social issues. They are a vocal group who point out injustice when they see it. They began with issues within their own walls, but throughout history, U of M students have become more vocal about national and worldwide problems. This pattern holds today; recent events such as the Women’s March and the March for Science were largely populated by students, and Michigan students will no doubt be as vocal as ever in the years to come.
  
