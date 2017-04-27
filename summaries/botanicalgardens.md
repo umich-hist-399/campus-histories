@@ -30,3 +30,11 @@ The new site was dedicated in 1962, and in April 1969 it was renamed the Matthae
 - Norman, A. Geoffery. "The Botanical Gardens 1940-1975", *The University of Michigan, and encyclopedic survey*, ed. Shaw, Wilfred Byron [Ann Arbor, Mich.]: University of Michigan Digital Library Production Services, 2001
 - "History." History | Matthaei Botanical Gardens & Nichols Arboretum at the University of Michigan. Matthaei Botanical Gardens and Nichols Arboretum, n.d. Web. 17 Apr. 2017. [http://www.lsa.umich.edu/mbg/about/history.asp](http://www.lsa.umich.edu/mbg/about/history.asp)
 - "A Century of Growing 1907-2007". Matthaei Botanical Gardens & Nichols Arboretum. [http://www.lsa.umich.edu/mbg/files/MBGNA_History.pdf](http://www.lsa.umich.edu/mbg/files/MBGNA_History.pdf)
+
+## Image Credits
+
+- 1905 Gardens: Shaw, Wilfred B. "Looking across Botanical Gardens to Engineering Laboratory, ca. 1905", Wilfred B. Shaw Papers, Bentley Historical Library, University of Michigan. [http://quod.lib.umich.edu/b/bhl/x-hs12638/hs12638](http://quod.lib.umich.edu/b/bhl/x-hs12638/hs12638)
+
+- 1916 Gardens: "Print G: Horizontal view of Botanical Gardens Greenhouse with chimney behind, ca. 1916", Buildings and Grounds Dept. (University of Michigan) records, Bentley Historical Library, University of Michigan. [http://quod.lib.umich.edu/b/bhl/x-hs14841/hs14841](http://quod.lib.umich.edu/b/bhl/x-hs14841/hs14841)
+
+- Modern Gardens: "Matthaei Botanical Garden of the University of Michigan". Penrod/Hiawatha Company postcard collection, Bentley Historical Library, University of Michigan. [http://quod.lib.umich.edu/b/bhl/x-bl005515/bl005515](http://quod.lib.umich.edu/b/bhl/x-bl005515/bl005515)
