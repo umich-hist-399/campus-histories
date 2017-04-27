@@ -8,6 +8,8 @@ date: 2017-4-10
 
 {% include figure.html class="img-center" width="50%" caption="The Arch, 1921" src="/images/arch-6.jpg" %}
 
+## There is something for everybody with this Arch
+
 - Built in 1904 as part of the new engineering building, later renamed ‘West Engineering’ on the southeast corner of the original campus ('New Engineering Building')
 - Over the years, the Arch has been named the "Denison Archway", the "Engineering Arch" and the solely the "Arch." ('New Engineering Building")
 - Named after [Charles Denison](https://umich-hist-399.github.io/campus-histories/essays/um-expansion-east), an engineering professor at the time who recognized the need to build an arch in order to accommodate the Diag.
@@ -45,7 +47,7 @@ date: 2017-4-10
 - “True Blue: A Tribute to Michigan” [event] April, 8, 2017. Ann Arbor, MI.
 
 
-## Image credit:
+## Image credits
 - Michigan Engineering. (January 8, 2015). [Twitter post].
 [https://twitter.com/umengineering/status/553197788381851648](https://twitter.com/umengineering/status/553197788381851648) 
 
