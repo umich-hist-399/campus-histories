@@ -30,5 +30,7 @@ date: 2017
 
 
 ## Sources
+
 -"School of Business Administration." School of Business Administration Building. N.p., n.d. Web. 18 Apr. 2017.
+
 -"Our History." Our History | Michigan Ross. N.p., n.d. Web. 18 Apr. 2017.
