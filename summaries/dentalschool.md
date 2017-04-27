@@ -56,3 +56,5 @@ While seemingly an inconsequential fact that the University of Michigan was the 
 
 ## Image credit
 - "School of Dentistry Building Panorama." School of Dentistry. University of Michigan. 2013. [http://www.dent.umich.edu/sites/default/files/2013_SoDBuilding_Panorama.jpg](http://www.dent.umich.edu/sites/default/files/2013_SoDBuilding_Panorama.jpg)
+
+- "Entrance to Kellogg Building, 1940." Ann Arbor District Library. 2017. [http://oldnews.aadl.org/taxonomy/term/51508](http://oldnews.aadl.org/taxonomy/term/51508)
