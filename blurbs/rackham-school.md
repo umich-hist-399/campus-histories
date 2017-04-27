@@ -19,7 +19,7 @@ date: 2017-04-12
 - On April 12, 1955, Dr. Thomas Francis of the University of Michigan School of Public Health and University of Michigan Polio Evaluation Center announced that the vaccine for polio developed by Francis’ former research assistant Dr. Jonas Salk was effective from the Rackham auditorium. After a year of clinical trials and decades of afflicted patients, this highly-anticipated announcement represented a breakthrough in scientific innovation and changed the course of countless lives (Thomas Francis papers; G. Mennen Williams papers).
 - The announcement coincided with the ten-year anniversary of noted polio victim President Franklin Delano Roosevelt's death. (Thomas Francis papers).
 
-{% include figure.html class="img-center" width="33%" caption="Harlan Hatcher, Thomas Francis, Jonas Salk, and Basil O'Connor (left to right) at Polio Vaccine announcement, 1955." src="/images/polioannouncement.jpg" %}
+{% include figure.html class="img-center" width="33%" caption="Harlan Hatcher, Thomas Francis, Jonas Salk, and Basil O'Connor (left to right) at the Polio Vaccine announcement, 1955." src="/images/polioannouncement.jpg" %}
 
 
 ## Sources
