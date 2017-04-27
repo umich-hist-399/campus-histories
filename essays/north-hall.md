@@ -3,7 +3,7 @@ layout: single-col
 title: North Hall
 date: 2017-02-19
 ---
-{% include jumbotron.html title="North Hall" image="images/ingalls-mall-jumbotron.jpg" text=" and Homeopathic Hospital %}
+{% include jumbotron.html title="North Hall" image="images/north-hall-jumbotron.jpg" text=" and Homeopathic Hospital %}
 
 ### Sources
 
