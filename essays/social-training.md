@@ -67,7 +67,7 @@ Nonetheless, it is clear that life at Mosher-Jordan created a camaraderie effect
 {% include figure.html class="img-center" width="33%" src="/images/brains-and-beauty.jpg" caption="Clippings from newspapers at the time reveal how female University 'co-eds' were viewed at the time; based on their 'brains and beauty.'"
  %}
 
-{% include aside.html class="aside-right" text="In 1920, Chubby Checker's megahit hit with teenagers, _The Twist_ was released." %}
+{% include aside.html class="aside-right" text="In 1960, Chubby Checker's megahit hit with teenagers, _The Twist_ was released." %}
 
 Upon learning the trajectory of local boarding houses and University development, it is insightful to consider the political and social ideologies at the time of construction. It is eye-opening to consider what norms have changed and what has remained the same. It is curious to consider in an age when the University does not hold itself responsible to the same degree for formal social training how off campus establishments reflect, as seen below in a new kind of social training:
 
