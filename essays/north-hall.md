@@ -1,6 +1,6 @@
 ---
 layout: single-col
-title: Ingalls Mall
+title: North Hall
 date: 2017-02-19
 ---
 {% include jumbotron.html title="North Hall" image="images/ingalls-mall-jumbotron.jpg" text=" and Homeopathic Hospital %}
