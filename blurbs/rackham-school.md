@@ -36,7 +36,7 @@ date: 2017-04-12
 - University of Michigan School of Public Health Records 1909-1992. The Bentley Historical Library. University of Michigan.
 - _World's Columbian Exposition: State of Michigan. The Act of the Legislature Creating the Board of World's Fair Managers for the State of Michigan. Rules And Regulations of the Boards And General Information Concerning the Exposition_. Flint, Mich.: W.H. Werkheiser & Sons, 1892.
 
-## Image credit
+## Image credits
 
 - "Rackham Graduate School." University of Michigan. [http://www.rackham.umich.edu/rackhamgrad/](http://www.rackham.umich.edu/rackhamgrad/)
 - "Harlan Hatcher, Thomas Francis, Jonas Salk, and Basil O'Connor at Polio Vaccine announcement; BL006836." The Bentley Historical Library. University of Michigan. [https://quod.lib.umich.edu/b/bhl/x-bl006836/BL006836?from=index;lasttype=boolean;lastview=thumbnail;med=1;resnum=7;size=20;sort=relevance;start=1;subview=detail;view=entry;rgn1=ic_all;q1=thomas+francis+polio](https://quod.lib.umich.edu/b/bhl/x-bl006836/BL006836?from=index;lasttype=boolean;lastview=thumbnail;med=1;resnum=7;size=20;sort=relevance;start=1;subview=detail;view=entry;rgn1=ic_all;q1=thomas+francis+polio)
