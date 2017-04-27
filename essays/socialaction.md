@@ -22,8 +22,6 @@ Quality of dormitory food may not have been a pressing national concern, but thi
 
 1965 marks a time of protest for the students and faculty of U of M. On March 25 of that year, the faculty staged “teach-ins”around campus about topics of the time like the Vietnam War. They were largely against it: “The poorest peasant in Vietnam,” said Professor Kenneth Boulding of the Econ Dept., “should have as much right as the richest American.” Almost 3,000 students attended rallies with messages much like this one. (Rapoport, 1965) The atmosphere about the teach-in was tense; plenty came out in support of the faculty’s message, but plenty displayed their disdain. There were three bomb scares in the Angell Hall auditorium teach-ins, and a group of around 75 students marched through the midnight Diag rally chanting “Better dead than Red.” (Rapoport, 1965)
 
-{% include figure.html class="img-left" width="33%" src="/images/vietnamprotest1969.jpg" caption="Vietnam was a topic of intense debate at U of M. This is a protest from 1969." %}
-
 1965 provided another instance of protest in its latter days, this one staged by students. On October 15, 39 students and teaching fellows (GSIs) entered the Selective Service Office on E. Liberty Street (where another group had marched to the day before) at 3pm. Meanwhile, 200 pickets marched on both sides of the street. Those inside the office sat on the floor and sang civil rights songs and chanted things like “End the war in Vietnam” and “Bring the troops home now”. At 6:15 pm, the Ann Arbor police entered the building and arrested the protesters; bail was set at $100, and the University did not use its bail fund to help the students. The fund was for “unknowing individual students who were not able to raise their own bond.” (Wolter 1965, 1)
 
 {% include figure.html class="img-center" width="50%" src="/images/draftprotest1968.jpg" caption="A protest against the Vietnam draft. The picketers compare it to legalized slavery." %}
@@ -38,15 +36,15 @@ Though the Regents pledged their support, they would not take firm action. It wo
 
 This would not be the last time students took direct action to get their points across. In May, 1977, students at U of M actively started speaking out against Apartheid in South Africa. They lashed out at the University for “contributing support to the apartheid system in South Africa through University investments in corporations which do business there” (Yellin 1977, 1). By December 1982, Michigan passed a state law barring state colleges from “buying or maintaining stocks in U.S. corporations with divisions” in South Africa (Witt 1983, 1). These companies included GM and Ford, and stock from these companies made up $420 million of the University’s portfolio (Witt 1983, 1).
 
-{% include figure.html class="img-right" width="50%" src="/images/apartheidprotest.png" caption="Protestors demanding U of M divestment from apartheid, 1978." %}
+{% include figure.html class="img-right" width="33%" src="/images/apartheidprotest.png" caption="Protestors demanding U of M divestment from apartheid, 1978." %}
 
 Once this law was passed, there was not much active protest until 1986. In April of that year, some 100 members of the Free South Africa Coordinating Committee on Campus refused to leave the Fleming Administration Building after the Regents refused to grant Nelson Mandela an honorary degree. They held a vigil in the meeting room, and it lasted all night. (Murakami 1986, 2B)
 
-{% include figure.html class="img-right" width="50%" src="/images/southafricaprotest1985.jpg" caption="The Diag shanty, symbolizing the conditions black people in South Africa had to live in." %}
-
  Perhaps the greatest visual legacy of the anti-apartheid movement belongs to the Diag shanty constructed on March 20, 1986. This shanty house was constructed to symbolize the shacks in which most blacks were forced to live in South Africa. (“Year in Review”, 1986) Such an action is representative of the way that University of Michigan students handle social issues. They are a vocal group who point out injustice when they see it. They began with issues within their own walls, but throughout history, U of M students have become more vocal about national and worldwide problems. This pattern holds today; recent events such as the Women’s March and the March for Science were largely populated by students, and Michigan students will no doubt be as vocal as ever in the years to come.
  
- ## Sources
+ {% include figure.html class="img-center" width="50%" src="/images/diagshanty.jpg" caption="The Diag shanty, symbolizing the conditions black people in South Africa had to live in." %}
+ 
+## Sources
  
  - "Report on the food demonstration of Sunday, December 2, 1956", Food Riot 1956-1957, Box 2, Housing Division (University of Michigan) Records, Bentley Historical Library, University of Michigan
  - Rapoport, Roger. "Protest, Learning, Heckling Spark Viet Rally", *The Michigan Daily*, March 26, 1965 (vol. 75, iss. 150), 1. The Michigan Daily Digital Archives [https://digital.bentley.umich.edu/midaily/mdp.39015071754308/489](https://digital.bentley.umich.edu/midaily/mdp.39015071754308/489)
@@ -60,6 +58,16 @@ Once this law was passed, there was not much active protest until 1986. In April
 
 ## Image Credits
 
+- Title card: "Campus protest late 1960s", 1960/1970 ca. University of Michigan Photographs Vertical File, Bentley Historical Library, University of Michigan. [http://quod.lib.umich.edu/b/bhl/x-bl001907/bl001907](http://quod.lib.umich.edu/b/bhl/x-bl001907/bl001907)
+
 - #BeingBlackAtMichigan: Holdship, Deborah. "Being Black at Michigan." Michigan Today. N.p., 11 Mar. 2014. Web. [http://michigantoday.umich.edu/being-black-at-michigan/](http://michigantoday.umich.edu/being-black-at-michigan/)
 
-- JFK: "Shippey, Frederick L. JFK on steps of Union, 1960", 1960. Frederick L. Shippey visual materials collection, Bentley Historical Library, University of Michigan. 
+- JFK: "Shippey, Frederick L. JFK on steps of Union, 1960", 1960. Frederick L. Shippey visual materials collection, Bentley Historical Library, University of Michigan. [http://quod.lib.umich.edu/b/bhl/x-bl005630/bl005630](http://quod.lib.umich.edu/b/bhl/x-bl005630/bl005630)
+
+- Draft protest: "Draft protest, Liberty and Diag", April 1968. University of Michigan News and Information Services Photographs, Bentley Historical Library, University of Michigan. [http://quod.lib.umich.edu/b/bhl/x-bl005615/bl005615](http://quod.lib.umich.edu/b/bhl/x-bl005615/bl005615)
+
+- BAM protest: "Black Action Movement: Raised fists at convocation, March 1970 (Middle frame on contact print)". Safety Dept. (University of Michigan) photograph collection, Bentley Historical Library, University of Michigan. [http://quod.lib.umich.edu/b/bhl/x-hs9774/hs9774](http://quod.lib.umich.edu/b/bhl/x-hs9774/hs9774)
+
+- South Africa Divestment protest: Campus protest demanding University of Michigan and United States divestment from apartheid South Africa, March 16, 1978, The Michigan Daily Photo Archive, Bentley Historical Library, University of Michigan. [http://michiganintheworld.history.lsa.umich.edu/antiapartheid/](http://michiganintheworld.history.lsa.umich.edu/antiapartheid/)
+
+- Diag Shanty: Wright, Larry E. "SHANTY PROTEST", March 1986. *Ann Arbor News*, March 21, 1986. [http://oldnews.aadl.org/N107_0097_002](http://oldnews.aadl.org/N107_0097_002)
