@@ -18,7 +18,7 @@ However, there was a serious lack of outdoor recreational facilities. It wasn't 
 
 {% include figure.html class="img-right" width="33%" caption="Ferry Field in 1924" src="/images/ferry-field.jpg" %}
 
-Dexter Ferry, a business man from Detroit, bought an additional seventeen acres north of Regents Field in 1902, and it was renamed Ferry Field. The football team played here for many years. The stands there could hold just 1,500 fans, *so as football got more popular,* a new stadium had to be built. After the football team left Ferry Field for Michigan Stadium, it became the home for the Michigan Track and Field team.
+Dexter Ferry, a business man from Detroit, bought an additional seventeen acres north of Regents Field in 1902, and it was renamed Ferry Field. The football team played here for many years. The stands there could hold just 1,500 fans, *so as football got more popular,* a new stadium had to be built. After the football team left Ferry Field for [Michigan Stadium](essays/michigan-stadium), it became the home for the Michigan Track and Field team.
 
 ## Sources
 
