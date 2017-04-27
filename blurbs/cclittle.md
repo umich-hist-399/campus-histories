@@ -9,7 +9,7 @@ date: 2017-03-22
 _The Clarence Cook Little Building represents much than a bus destination_
 
 
- {% include figure.html class="img-center" text=" The C.C. Little building today" width="50%" src="/images/cc-little.jpg" %}
+ {% include figure.html class="img-center" caption=" The C.C. Little building today" width="50%" src="/images/cc-little.jpg" %}
 
 - Built in 1925 for the medical school by famed Detroit and Ann Arbor architect Albert Kahn who designed many buildings on campus.
 - Now houses many Natural Sciences departments. (Department of Microbiology box 1951-1979).
@@ -20,7 +20,7 @@ _The Clarence Cook Little Building represents much than a bus destination_
 - As seen below, the C.C. Little Building has ample research and laboratory facilities as well as lecture hall space, classrooms and offices for professors.
 - While many students may walk by the C.C. Little building everyday and not give it a second thought, this architecturally and historically significant structure has a curious history and is worth exploring as it approaches its one hundredth birthday ([Clarence Cook Little papers 1924).
 
- {% include figure.html class="img-center" text=" Lab space in the C.C. Little building." width="50%" src="/images/cclittle-lab.jpg" %}
+ {% include figure.html class="img-center" caption=" Lab space in the C.C. Little building." width="50%" src="/images/cclittle-lab.jpg" %}
 
 ## Sources
 - Department of Microbiology University of Michigan records 1951-1979 , 1959-1970. (Photographs and files). Call number 87146 Bimu C46 2
