@@ -18,7 +18,7 @@ date: 2017-03-22
 - There has been recent controversy over the naming rights to this building as its namesake supported eugenics during his lifetime. (Meer, 2017). This controversy comes in the midst of a climate of ongoing between the public and the University over who has the right to name buildings that affect many people logistically and emotionally. (Meer, 2017; VanEyck 1965).
 - “C.C. Little” is also the site of a major bus stop all University and many Ann Arbor buses. (Meer, 2017).
 - As seen below, the C.C. Little Building has ample research and laboratory facilities as well as lecture hall space, classrooms and offices for professors.
-- While many students may walk by the C.C. Little building everyday and not give it a second thought, this architecturally and historically significant structure has a curious history and is worth exploring as it approaches its one hundredth birthday ([Clarence Cook Little papers 1924).
+- While many students may walk by the C.C. Little building everyday and not give it a second thought, this architecturally and historically significant structure has a curious history and is worth exploring as it approaches its one hundredth birthday ([Clarence Cook Little Papers] 1924).
 
  {% include figure.html class="img-center" caption=" Lab space in the C.C. Little building." width="50%" src="/images/cclittle-lab.jpg" %}
 
