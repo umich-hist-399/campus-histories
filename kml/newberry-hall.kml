@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Newberry Hall</name>
+    <Style id="poly-000000-1-77-nodesc-normal">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>1</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d000000</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="poly-000000-1-77-nodesc-highlight">
+      <LineStyle>
+        <color>ff000000</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>4d000000</color>
+        <fill>1</fill>
+        <outline>1</outline>
+      </PolyStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="poly-000000-1-77-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#poly-000000-1-77-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#poly-000000-1-77-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Placemark>
+      <name>Newberry Hall</name>
+      <styleUrl>#poly-000000-1-77-nodesc</styleUrl>
+      <Polygon>
+        <outerBoundaryIs>
+          <LinearRing>
+            <tessellate>1</tessellate>
+            <coordinates>
+              -83.7417948,42.276636,0
+              -83.7414435,42.276636,0
+              -83.7414461,42.2766658,0
+              -83.7413201,42.2766658,0
+              -83.7409821,42.2766658,0
+              -83.7409875,42.2768444,0
+              -83.7412772,42.2768444,0
+              -83.7412772,42.2768265,0
+              -83.7413201,42.2768265,0
+              -83.7413228,42.2767789,0
+              -83.741363,42.2767789,0
+              -83.7413657,42.2768305,0
+              -83.7414944,42.2768285,0
+              -83.7414971,42.2767848,0
+              -83.7417573,42.2767848,0
+              -83.7417546,42.2767432,0
+              -83.7417975,42.2767412,0
+              -83.7417948,42.276636,0
+            </coordinates>
+          </LinearRing>
+        </outerBoundaryIs>
+      </Polygon>
+    </Placemark>
+  </Document>
+</kml>

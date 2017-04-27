@@ -1,65 +1,82 @@
 ---
-layout: map
-title: Map
 ---
 
-<div class="container-fluid">
-  <div class="row">
-    <div class="col">
+<!DOCTYPE html>
+<html>
 
-      <div id="mapid"></div>
+{% include header-default.html %}
 
-      <div id="slider"></div>
-      <p id="slider-label">
-        <label for="year">Year:</label>
-        <input type="text" id="year" readonly style="border:0; color:#f6931f; font-weight:bold;">
-      </p>
+<body style="height:100%">
 
-    </div>
+{% include nav.html %}
 
-  </div>
-</div>
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"
+  integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+  crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
 
 
-<script>
+<script src="https://unpkg.com/leaflet@1.0.3/dist/leaflet.js"></script>
 
-  var map = L.map('mapid').setView([42.276987, -83.738113], 16);
 
-  L.tileLayer('https://api.mapbox.com/styles/v1/fwgibbs/cizd8o5in008t2rnq4advsa25/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiZndnaWJicyIsImEiOiJJaXJoT2JBIn0.nh7hFFVgOnPApRImOtXcCQ', {
-    maxZoom: 20,
-    attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' +
-      '<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
-      'Imagery © <a href="http://mapbox.com">Mapbox</a>',
-    id: 'mapbox.streets'
-  }).addTo(map);
+<script src="https://unpkg.com/leaflet-responsive-popup@0.2.0/leaflet.responsive.popup.js"></script>
+<link rel="stylesheet" href="https://unpkg.com/leaflet-responsive-popup@0.2.0/leaflet.responsive.popup.css" />
 
-  var outlines = new L.FeatureGroup();
 
-</script>
-
+<script src="{{site.baseurl}}/js/sheetrock.min.js"></script>
 <script src="{{site.baseurl}}/js/map.js"></script>
 <script src="{{site.baseurl}}/js/togeojson.js"></script>
 
 
+<div class="main" style="height:100%">
+
+<!--Sheetrock expects to be outputting HTML for each row, so here's a place to put it.-->
+<div id="sheetrock"></div>
+
+<div class="container-fluid">
+  <div class="row">
+    <div class="col">
+      <div id="mapid"></div>
+    </div>
+  </div>
+</div>
+
+</div> <!-- /main -->
+
+
 <script>
+
+var map = L.map('mapid').setView([42.276987, -83.738113], 13);
+var featureGroup = new L.FeatureGroup();
+
+L.tileLayer('https://api.mapbox.com/styles/v1/fwgibbs/cizd8o5in008t2rnq4advsa25/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiZndnaWJicyIsImEiOiJJaXJoT2JBIn0.nh7hFFVgOnPApRImOtXcCQ', {
+  maxZoom: 20,
+  attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' +
+    '<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
+    'Imagery © <a href="http://mapbox.com">Mapbox</a>',
+  id: 'mapbox.streets'
+}).addTo(map);
+
 $( function() {
-$( "#slider" ).slider({
-  value:100,
-  min: 1831,
-  max: 2017,
-  step: 1,
-  slide: function( event, ui ) {
-    $( "#year" ).val( ui.value );
-    getMarkersByDateRange(ui.value, function(markers) {
-        // clear away old markers
-        outlines.clearLayers();
-        // and add the markers for this year
-        $.each(markers, loadMarker);
-        //console.log(featureGroup);
-        map.addLayer(outlines);
-      });
-  }
+  getMarkers(function(markers) {
+      $.each(markers, loadMarker);
+      console.log("done looping through markers.");
+      map.addLayer(featureGroup);
+    }
+
+  );
+
 });
-$( "#year" ).val( $( "#slider" ).slider( "value" ) );
-} );
 </script>
+
+<!-- Menu Toggle Script -->
+<script>
+$("#menu-toggle").click(function(e) {
+    e.preventDefault();
+    $("#wrapper").toggleClass("toggled");
+});
+</script>
+
+</body>
+</html>

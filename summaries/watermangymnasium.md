@@ -29,7 +29,7 @@ In the interim years before its demolition, usage of the Waterman Gymnasium decl
 
 -----
 
-## Sources:
+## Sources
 
 - Angell, J. Burrill. "Farewell address of President James Burrill Angell to the undergraduate students of the University of Michigan, Waterman gymnasium, May the twenty-eighth", 1909. [Ann Arbor, Mich.: Ann Arbor Press.]
 - Wear, Robert E. "University of Michigan's Waterman Gymnasium : development and expansion from 1894 to 1930.", 1950. Call number 861152 Aa 1

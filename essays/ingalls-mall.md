@@ -26,7 +26,7 @@ Hill Auditorium was completed in 1913 and seated 4,300. Its first concert was he
 
 This 1920 map also shows the Michigan Union just southwest of the central forty on the west side of State Street. Though construction on the Union had begun in 1916, the structure was not completed until 1919 due to wartime funding shortages. When the Union opened it was equipped with a dining hall, offices, athletic facilities, a billiards room, a library, a ballroom, a swimming pool, a barber shop, and the famous Union Taproom.
 
-{% include figure.html class="img-left" width="40%" src="/images/winchell-house.gif" caption="Professor Winchell's Octagonal House" %}
+{% include figure.html class="img-left" width="55%" src="/images/winchell-house2.jpg" caption="<a href='https://www.flickr.com/photos/70251312@N00/14282673099/' target='_blank'>Octagon House, built in 1858 by Universi</a>&quot;&nbsp;(<a rel='license' href='https://creativecommons.org/licenses/by/2.0/' target='_blank'>CC BY 2.0</a>)&nbsp;by&nbsp;<a xmlns:cc='http://creativecommons.org/ns#' rel='cc:attributionURL' property='cc:attributionName' href='https://www.flickr.com/people/70251312@N00/' target='_blank'>Wystan</a>" %}
 
 Although women were allowed at the union (there was even a ladies’ dining room,) they were not permitted to enter the building through the front doors. In the October 1931 issue of The Michigan Technic, Stephen Atwood remarks upon the custom:
 
@@ -37,3 +37,15 @@ This practice of discrimination at the front doors must have been representative
 At a meeting of the Board of Regents in 1921, the site of the future Michigan League was chosen as the block bounded by Washington Street and North University Avenue to the east of Hill Auditorium. Fundraising for this construction took five years, and the final sum raised was $332,105.23.
 
 On June 18, 1927 the groundbreaking ceremony for the new league building took place led by Dr. Eliza Mosher, the University of Michigan’s first Dean of Women. The building was officially opened to the public on June 14, 1928, nearly two years later.
+
+### Sources
+
+- Abrahams, Peter. “Henry Fitz, American Telescope Maker.” Journal of the Antique Telescope Society 6, no. Summer 1994. Accessed March 15, 2017. http://www.europa.com/~telscope/fitz.txt.
+
+- Snyder, Dave. “The History of the Detroit Observatory.” Reflections of the University Lowbrow Astronomers, December 1997. https://www.umich.edu/~lowbrows/reflections/.
+
+- University of Michigan. “College Notes.” The Michigan Technic, 1931. https//catalog.hathitrust.org/Record/000052394.
+
+- Whitesell, Patricia S. A Creation of His Own: Tappan’s Detroit Observatory. Michigan Historical Collections, Bentley Historical Library, the University of Michigan, 1998.
+
+- “Detroit Observatory: Nineteenth-Century Training Ground for Astronomers.” Journal of Astronomical History and Heritage 6, no. 2 (December 2003): 69–106.

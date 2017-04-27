@@ -7,6 +7,7 @@ date: 2017-03-14
 # Directory
 
 ## Topics
+
 - [UM Expansion East](essays/um-expansion-east)
 - [Social Training](essays/social-training)
 - [State Street Suffrage](essays/state-street-suffrage)
@@ -29,7 +30,7 @@ date: 2017-03-14
 - [The Michigan Union](blurbs/union)
 - [University Hall](essays/university-hall)
 - [Rackham School of Graduate Studies](blurbs/rackham-school)
-- Sports stadiums
+- [Michigan Stadium](essays/michigan-stadium)
 
 ## Spaces
 - [Animal House](blurbs/animal-house)

@@ -12,9 +12,9 @@ text=" Over its two hundred year history, the University has expanded greatly, n
 
 This year, the University of Michigan celebrates its Bicentennial; the 200th anniversary of its founding. Founded in Detroit, Michigan in 1817, the university moved its operations to Ann Arbor, Michigan twenty years later (“UM History”). While today the University is well-known for its sprawling campus—complete with a Central Campus for primary academic activities, a North Campus for supplemental academic programs such as the College of Engineering and the School of Music, Theatre and Dance, a Medical Campus and a South Campus for Wolverine athletic pursuits—the University was not always as expansive; in fact, in the year of its founding in Ann Arbor, the University originally occupied forty acres of land in the recently incorporated city of Ann Arbor (“UM History”).
 
-On a donation by the Ann Arbor Land Company, the University consisted of four homes for faculty and one building that operated as a classroom and dormitory. The surrounding area, what is known today as the ‘Diag’, lay undeveloped with grazing cows (“UM History”). This iteration did not remain long; soon the University embarked on what would become almost 200 years of expansion in terms of physical and academic inquiry and innovation (“UM History”). The following essay focuses on the University’s expansion east. As Don Callard of The Ann Arbor Observer notes, “nothing expands like a university,” (Callard 2009).
+On a donation by the Ann Arbor Land Company, the University consisted of four homes for faculty and one building that operated as a classroom and dormitory. The surrounding area, known today as the [‘Diag’](https://umich-hist-399.github.io/campus-histories/essays/diag), lay undeveloped with grazing cows (“UM History”). This iteration did not remain long; soon the University embarked on what would become almost 200 years of expansion in terms of physical and academic inquiry and innovation (“UM History”). The following essay focuses on the University’s expansion east. As Don Callard of _The Ann Arbor Observer_ notes, “nothing expands like a university,” (Callard 2009).
 
-{% include figure.html class="img-center-full" src="/images/maps1.jpg" caption="At left: Map of Ann Arbor (1854); at right: Map of Ann Arbor (1864)" %}
+{% include figure.html class="img-center" width="75%" src="/images/maps1.jpg" caption="At left: Map of Ann Arbor (1854); at right: Map of Ann Arbor (1864)" %}
 
 In an early city map from 1854, the University, designated as ‘Michigan State University’ reveals the first building on the ‘East Side’ of the Ann Arbor campus: a medical building built in 1850 on a road called ‘University Square East’; the nomenclature of the street name is significant—over the years, the streets on the eastern boundary of campus have taken on a number of different names. On a map made 10 years later, the designer indicates that the original medical building now features an addition, a laboratory, and is referred to as ‘Medical College.’ On this map, the eastern street is not named. Despite this, we can see the emergence of the present-day Church Street and the now-defunct College Street. College Street, along with many other streets such as Haven Avenue and Belser Street, have now become walkways and sidewalks connecting the campus (Callard 2009).
 
@@ -34,84 +34,140 @@ It should be noted that Freeman’s was torn down to make way for the Rackham Sc
 
 By the last decade of the nineteenth century, it is clear that the University is set on expanding its campus to accommodate the interests of its students and faculty, what Perry and Weiwel (2005) would term “internal logic.”
 
- {% include figure.html class="img-center" src="/images/1890-map-blue-highlighted.jpg" %}
+ {% include figure.html class="img-center" width="50%" src="/images/1890-map-blue-highlighted.jpg" caption="With the help of computer software, buildings from this 1890 map of Ann Arbor pop out when highlighted in blue" %}
 
-In the map above, from 1890, the University has acquired or constructed many buildings. One building, Tappan School, former elementary school that was condemned as a fire hazard by the state fire inspector in 1922, was purchased by the University that same year and became present day East Hall, seen below (‘Tappan School’).
+In the map above, from 1890, the University has [acquired or constructed many buildings](https://umich-hist-399.github.io/campus-histories/essays/acq-public-schools). One building, Tappan School, former elementary school that was condemned as a fire hazard by the state fire inspector in 1922, was purchased by the University that same year and became present day East Hall, seen below (‘Tappan School’).
 
- {% include figure.html class="img-center" src="/images/tappan-school-diag.jpg" %}
+ {% include figure.html class="img-center" width="50%" src="/images/tappan-school-diag.jpg" caption="View of The Diag from nearby Tappan School" %}
 
 Further development on the Diag included the Heating Plant (1883) and the ‘Boiler House’ (1894), built to provide heating for rapidly increasing number of buildings on campus (‘1883 Heating Plant and 1894 Boiler House’). Another plant built on Washington Street in 1911 rendered it no longer needed. The latter unsightly smokestack was disliked by faculty for its aesthetics in the midst of the green space Diag (‘1883 Heating Plant and 1894 Boiler House’).
 
- {% include figure.html class="img-center" width="33%" src="/images/smokestack1.jpg" %}
+ {% include figure.html class="img-center" width="33%" src="/images/smokestack1.jpg" caption="Smokestack near the 'Boiler House' circa 1894." %}
 
 Mortimer Cooley, Dean of Engineering was quoted to have said “I thought if I could make the boiler house as ugly as possible, and fix the guy ropes so some of the professors would get their heads bumped, I might get some help. Suffice to say, the following year I was authorized to make plans for the present boiler house in the old ‘Cat Hole’.” (Scientific Blacksmith, p. 82). The space was subsequently converted into an engineering lab and later an ROTC building in 1925, being used until 1942 (‘1883 Heating Plant and 1894 Boiler House’).
 
-The first map of the new century (1904) shows even more development eastward.
+{% include aside.html class="pullquote" text="I thought if I could make the boiler house as ugly as possible, and fix the guy ropes so some of the professors would get their heads bumped, I might get some help. Suffice to say, the following year I was authorized to make plans for the present boiler house in the old _Cat Hole_. -Mortimer Cooley Dean of U-M Engineering" %}
 
- {% include figure.html class="img-center" width="33%" src="/images/1904-map.jpg" %}
+Despite the recession of the tail end of the ninteenth century, the University continued to expand its infrastructure in the early twentieth century, particularly to the east. Notable additions include a number of medical buildings to the northeast—a homeopathic hospital, Palmer Ward & Nurses Residence, an Allopathy Hospital, an Ophthalmology & Otology facility and a Psychopathic Ward—the University [‘Detroit Observatory’](https://umich-hist-399.github.io/campus-histories/essays/detroit-observatory) (1854) and its adjacent student observatory and residence, the [Waterman Gymnasium](https://umich-hist-399.github.io/campus-histories/summaries/watermangymnasium) (1894) which was used for a variety of student activities such as exercise classes, class registration, a dance hall, a space for fundraising banquets and a space for barrack-like training for WWI soldiers (Crawford 1976; Wear 1950).
 
-Notable additions include a number of medical buildings to the northeast (23 on map)—a homeopathic hospital, Palmer Ward & Nurses Residence, an Allopathy Hospital, an Ophthalmology & Otology facility and a Psychopathic Ward—the University ‘Detroit Observatory’ (1854) and its adjacent student observatory and residence (24 on map), the Waterman Gymnasium (1894) (10 on map) which was used for a variety of student activities such as exercise classes, class registration, a dance hall, a space for fundraising banquets and a space for barrack-like training for WWI soldiers (‘The Detroit Observatory’; Crawford, 1976; ‘Waterman Gymnasiums’).
+<div class="carousel">
+ <div>
+    <img src="../images/1904map.jpg">
+    <p class="carousel-caption">The twentieth century brought even more expansion of the University to the East.</p>
+  </div>
+  <div>
+    <img src="../images/detroit-observatory.jpg">
+    <p class="carousel-caption">A plan of the Detroit Observatory from the 1970s.</p>
+  </div>
+  <div><img src="../images/waterman1.jpg">
+    <p class="carousel-caption">Exterior of Waterman Gymnasium.</p>
+  </div>
+  <div><img src="../images/waterman2.jpg">
+    <p class="carousel-caption">Female students participate in exercise classes.</p>
+  </div>
+  <div><img src="../images/waterman3.jpg">
+    <p class="carousel-caption">‘J-Hop’ dance participants pose in the Block M formation.</p>
+  </div>
+</div>
+
+Another significant addition was the ‘New Engineering Building’ (1903), renamed ‘West Engineering’ (‘New Engineering Building’). As the Diag as a thoroughfare was already a mainstay, this building had to be designed in order to not interfere “with the diagonal walk of the campus”. Thus, Professor Charles Denison “prepared a sketch showing the diagonal walk passing through an archway in the building. The Arch was named the Denison Archway in his honor. In later years it was referred to as the “Engineering Arch,” (as quoted in ‘New Engineering Building’)
 
 
-{% include figure.html class="img-center" width="33%" src="/images/detroit-observatory.jpg" %}
+The Arch was and still is a campus landmark, [with growing lore](https://umich-hist-399.github.io/campus-histories/blurbs/arch) attached to it and activities that occur near it.
 
-{% include figure.html class="img-center" width="33%" src="/images/waterman1.jpg" %}
+<div class="carousel">
+  <div>
+    <img src="../images/arch-1.jpg">
+    <p class="carousel-caption">View of Arch from Southwest.</p>
+  </div>
+  <div><img src="../images/arch-2.jpg">
+    <p class="carousel-caption">View of Arch from Northeast.</p>
+  </div>
+  <div><img src="../images/arch-3.jpg">
+    <p class="carousel-caption">Students walk through ‘The Arch' regarded as a 'A Symbol of The College of Engineering’.</p>
+  </div>
+  <div><img src="../images/arch-4-new.jpg">
+    <p class="carousel-caption">View of Diag from Engineering Arch.</p>
+  </div> 
+  <div><img src="../images/arch-6.jpg">
+    <p class="carousel-caption"> The Engineering Arch in 1921.</p>
+  </div>
+  <div><img src="../images/arch-5.jpg">
+    <p class="carousel-caption">The Engineering Arch today.</p>
+  </div>
+</div>
 
-{% include figure.html class="img-center" width="33%" src="/images/waterman2.jpg" %}
-
-{% include figure.html class="img-center" width="33%" src="/images/waterman3.jpg" %}
-
-**From top: Sketch of Detroit Observatory plan; exterior of Waterman Gymnasium (top); female students participate in exercise classes (middle); a ‘J-Hop’ dance participants pose in the Block M formation (bottom)**
 
 
-Another significant addition was the ‘New Engineering Building’ (1903), renamed ‘West Engineering’ (6 on map)(‘New Engineering Building’). As the Diag as a thoroughfare was already a mainstay, this building had to be designed in order to not interfere “with the diagonal walk of the campus”. Thus, Professor Charles Denison
-
-“prepared a sketch showing the diagonal walk passing through an archway in the building. The Arch was named the Denison Archway in his honor. In later years it was referred to as the “Engineering Arch,” (as quoted in ‘New Engineering Building’)
-
-The Arch was and still is a campus landmark, with growing lore attached to it and activities that occur near it.
-
-{% include figure.html class="img-center" width="75%" src="/images/arch-1.jpg" %}
-
-{% include figure.html class="img-center" src="/images/arch-2.jpg" %}
-
-{% include figure.html class="img-center" width="33%" src="/images/arch-3.jpg" %}
-
-{% include figure.html class="img-center" width="33%" src="/images/arch-4.jpg" %}
-
-{% include figure.html class="img-center" width="33%" src="/images/arch-5.jpg" %}
-
-Top: View of Arch from southwest (top); view of Arch from northeast (second from top); students walk through ‘The Arch—A Symbol of The College of Engineering’ (second from bottom); view of Diag from Engineering Arch; the Engineering Arch today.
-
-## Sources:
+## Sources
 
 - ‘‘1883 Heating Plant and 1894 Boiler House’
 [http://umhistory.dc.umich.edu/mort/original/1900/18%20-Boiler%20House%20(1894)/index.html](http://umhistory.dc.umich.edu/mort/original/1900/18%20-Boiler%20House%20(1894)/index.html)
 
-- Angell, J. Burrill. (1909). Farewell address of President James Burrill Angell to the undergraduate students of the University of Michigan, Waterman gymnasium, May the twenty-eighth, 1909. [Ann Arbor, Mich.: Ann Arbor Press.
+- Angell, J. Burrill. Farewell address of President James Burrill Angell to the undergraduate students of the University of Michigan, Waterman gymnasium, May the twenty-eighth, 1909. [Ann Arbor, Mich.: Ann Arbor Press].
 
-- Callard, Don. The Lost Street Names of Ann Arbor. The Ann Arbor Observer, July 24, 2009.
+- Callard, Don. The Lost Street Names of Ann Arbor. _The Ann Arbor Observer_, July 24, 2009.
 [http://aaobserver.aadl.org/aaobserver/19282](http://aaobserver.aadl.org/aaobserver/19282)
 
-- Crawford, Pamela. (1976). Detroit Observatory : architectural design project. University of Michigan, College of Architecture and Urban Planning.
+- Crawford, Pamela. Detroit Observatory : architectural design project. University of Michigan, College of Architecture and Urban Planning, 1976.
 
 - ‘New Engineering Building’
 [http://umhistory.dc.umich.edu/mort/original/1925/15%20West%20Engineering%20Building/index.html](http://umhistory.dc.umich.edu/mort/original/1925/15%20West%20Engineering%20Building/index.html)
 
-- Perry, David, and Wim Wiewel. (2005) From campus to city: the university as developer. New York: Routledge.
+- Perry, David, and Wim Wiewel. From campus to city: the university as developer. New York: Routledge, 2005.
 
 
 - “Famous Campus Landmark Disappears.” The Michigan Alumnus, vol. 45 (November 12, 1938),  pp. 101
 Accessed via: [http://um2017.org/Ann-Arbor/Ann_Arbor_Maps/Prettymans_Boarding_Club.html](http://um2017.org/Ann-Arbor/Ann_Arbor_Maps/Prettymans_Boarding_Club.html)
 
 
-- ‘Tappan  School’
-	[http://um2017.org/Ann-Arbor/Ann_Arbor_Maps/Tappan_School.html](http://um2017.org/Ann-Arbor/Ann_Arbor_Maps/Tappan_School.html)
-
+- Berry, Margaret D. “A History of Tappan Junior High School.” 1954.
+	
 - ‘The Detroit Observatory’
 [http://umhistory.dc.umich.edu/mort/central/Observatory%20Street/Observatory/index.html](http://umhistory.dc.umich.edu/mort/central/Observatory%20Street/Observatory/index.html)
 
 - ‘Waterman Gymnasiums’
 [http://umhistory.dc.umich.edu/mort/original/1900/19%20Waterman%20Gymnasium/index.html](http://umhistory.dc.umich.edu/mort/original/1900/19%20Waterman%20Gymnasium/index.html)
 
-- Wineberg, Susan. The Lost University - The Forgotten Campus of 1900. The Ann Arbor Observer, May 27, 2011.
+- Wear, Robert E. “University of Michigan’s Waterman Gymnasium : development and expansion from 1894 to 1930.”, 1950. Call number 861152 Aa 1
+
+- Wineberg, Susan. The Lost University - The Forgotten Campus of 1900. _The Ann Arbor Observer_, May 27, 2011.
 [http://aaobserver.aadl.org/aaobserver/40615](http://aaobserver.aadl.org/aaobserver/40615)
+
+## Image Credits
+
+- 1854 map of Ann Arbor, 1864 map of Ann Arbor: The Ann Arbor Historic Maps Project. University of Michigan Millennium Project. [http://umhistory.org/history/town-gown/](http://umhistory.org/history/town-gown/)
+
+- "Campus map featuring advertisement for the Campus Club..." date unknown. The Bentley Historical Library. University of Michigan.
+
+- 1890 map of Ann Arbor: The Ann Arbor Historic Maps Project. University of Michigan Millennium Project. [http://umhistory.org/history/town-gown/](http://umhistory.org/history/town-gown/)
+
+- "View of The Diag..." William Adams Lewis photograph series. The Bentley Historical Library. University of Michigan.
+
+- "Smokestack near the 'Boiler House'..." '1883 Heating Plant and 1894 Boiler House.' University of Michigan Millennium Project.
+[http://umhistory.dc.umich.edu/mort/original/1900/18%20-Boiler%20House%20(1894)/index.html](http://umhistory.dc.umich.edu/mort/original/1900/18%20-Boiler%20House%20(1894)/index.html)
+
+- "The twentieth century brought..." 1904 map of Ann Arbor. The Ann Arbor Historic Maps Project. University of Michigan Millennium Project. [http://umhistory.org/history/town-gown/](http://umhistory.org/history/town-gown/)
+
+- "A plan of the Detroit Observatory..." Crawford, Pamela. Detroit Observatory : architectural design project. University of Michigan, College of Architecture and Urban Planning, 1976.
+
+- "Exterior of Waterman Gymnasium." 'Waterman Gymnasiums.' University of Michigan Milennium Project. [http://umhistory.dc.umich.edu/mort/original/1900/19%20Waterman%20Gymnasium/index.html](http://umhistory.dc.umich.edu/mort/original/1900/19%20Waterman%20Gymnasium/index.html)
+
+- "Female students participate..." 'Waterman Gymnasiums.' University of Michigan Milennium Project. [http://umhistory.dc.umich.edu/mort/original/1900/19%20Waterman%20Gymnasium/index.html](http://umhistory.dc.umich.edu/mort/original/1900/19%20Waterman%20Gymnasium/index.html)
+
+- "'J-Hop' dance participants..." 'Waterman Gymnasiums.' University of Michigan Milennium Project. [http://umhistory.dc.umich.edu/mort/original/1900/19%20Waterman%20Gymnasium/index.html](http://umhistory.dc.umich.edu/mort/original/1900/19%20Waterman%20Gymnasium/index.html)
+
+- "View of the Arch from the Southwest." 'New Engineering Building.' University of Michigan Milennium Project.
+[http://umhistory.dc.umich.edu/mort/original/1925/15%20West%20Engineering%20Building/index.html](http://umhistory.dc.umich.edu/mort/original/1925/15%20West%20Engineering%20Building/index.html)
+
+- "View of th Arch from the Northeast." 'New Engineering Building.' University of Michigan Milennium Project.
+[http://umhistory.dc.umich.edu/mort/original/1925/15%20West%20Engineering%20Building/index.html](http://umhistory.dc.umich.edu/mort/original/1925/15%20West%20Engineering%20Building/index.html)
+
+- "Students walk through..." 'New Engineering Building.' University of Michigan Milennium Project.
+[http://umhistory.dc.umich.edu/mort/original/1925/15%20West%20Engineering%20Building/index.html](http://umhistory.dc.umich.edu/mort/original/1925/15%20West%20Engineering%20Building/index.html)
+
+- "View of Diag from Engineering Arch." Isaac Sheets photograph collection. The Bentley Historical Library. University of Michigan.
+
+- "The Engineering Arch in 1921." The Bentley Historical Library. University of Michigan.
+
+- "The Engineering Arch today." 'West Engineering Building - Revisited.' Michigan Exposures http://michiganexposures.blogspot.com/2011/03/west-engineering-building-revisited.html
