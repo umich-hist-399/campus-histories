@@ -6,7 +6,7 @@ date: 2017-03-22
 
 # C.C. Little Building
 
-_The Clarence Cook Little Building represents much than a bus destination_
+## The Clarence Cook Little Building represents much than a bus destination
 
 
  {% include figure.html class="img-center" caption=" The C.C. Little building today" width="50%" src="/images/cc-little.jpg" %}
