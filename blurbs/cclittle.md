@@ -10,7 +10,7 @@ _The Clarence Cook Little Building represents much than a bus destination_
 
 - Built in 1925 for the medical school by famed Detroit and Ann Arbor architect Albert Kahn who designed many buildings on campus.
 - Now houses many Natural Sciences departments. (Department of Microbiology box 1951-1979).
-- The building is situated on the northeast corner of the original parameters of the [Central Campus Diag](https://umich-hist-399.github.io/campus-histories/essays/diag). 
+- The building is situated on the northeast corner of the original parameters of the [Central Campus Diag](https://umich-hist-399.github.io/campus-histories/essays/diag). The building is constructed in a triangular shape on the corner and features Ionic columns and a brick facade.
 - Named after Clarence Cook Little, University of Michigan president from 1925-1929. (Meer, 2017).
 - There has been recent controversy over the naming rights to this building as its namesake supported eugenics during his lifetime. (Meer, 2017). This controversy comes in the midst of a climate of ongoing between the public and the University over who has the right to name buildings that affect many people logistically and emotionally. (Meer, 2017).
 - “C.C. Little” is also the site of a major bus stop all University and many Ann Arbor buses. (Meer, 2017).
