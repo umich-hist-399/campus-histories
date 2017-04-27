@@ -18,9 +18,9 @@ On a donation by the Ann Arbor Land Company, the University consisted of four ho
 
 In an early city map from 1854, the University, designated as ‘Michigan State University’ reveals the first building on the ‘East Side’ of the Ann Arbor campus: a medical building built in 1850 on a road called ‘University Square East’; the nomenclature of the street name is significant—over the years, the streets on the eastern boundary of campus have taken on a number of different names. On a map made 10 years later, the designer indicates that the original medical building now features an addition, a laboratory, and is referred to as ‘Medical College.’ On this map, the eastern street is not named. Despite this, we can see the emergence of the present-day Church Street and the now-defunct College Street. College Street, along with many other streets such as Haven Avenue and Belser Street, have now become walkways and sidewalks connecting the campus (Callard 2009).
 
-Eastern boundary develops stunts for almost twenty years. The University features no additional buildings, only the nomenclature of the street changes—‘University Street’ (1866); ‘East University Avenue’ (1874).
+Eastern boundary development stunts for almost twenty years. The University features no additional buildings, only the nomenclature of the street changes—‘University Street’ (1866); ‘East University Avenue’ (1874).
 
-While up until this point, this history has focused on University property, it is important to note that an important aspect of student life also occurs off campus. One such location, ‘the Campus Club’, also known as ‘Prettyman’s Boarding House’, was a mainstay eatery, source of employment and housing for almost thirty years (1885-1914) (The Michigan Alumnus, November 12, 1938, p. 101). Owned and operated by University alumnus and football team captain Horace Prettyman, the house served as an unofficial social hall for students and was regarded as a campus landmark, one of the ‘largest and the most popular of Ann Arbor's boarding houses in the days when the **vast majority of the student body used this type of service for their meals.’**
+While up until this point, this history has focused on University property, it is important to note that an important aspect of student life also occurs off campus. One such location, ‘the Campus Club’, also known as ‘Prettyman’s Boarding House’, was a mainstay eatery, source of employment and housing for almost thirty years (1885-1914) (The Michigan Alumnus, November 12, 1938, p. 101). Owned and operated by University alumnus and football team captain Horace Prettyman, the house served as an unofficial social hall for students and was regarded as a campus landmark, one of the ‘largest and the most popular of Ann Arbor's boarding houses in the days when the **vast majority of the student body used this type of service for their meals.’** (The Michigan Alumnus, November 12, 1938, p. 101).
 
 
  {% include figure.html class="img-center" width="50%" src="/images/campus-map-prettymans.jpg" caption="Campus map featuring advertisement for the 'Campus Club' with H.G. Prettyman listed as the proprietor, date unknown" %}
@@ -29,14 +29,14 @@ Revered University of Michigan Football Coach Fielding Yost even kept a ‘train
 
 {% include aside.html class="aside-left pullquote" text="_Freeman's [another Ann Arbor eating club] held the fort as the last survivor until it met the same nemesis that Prett's is now experiencing - the expansion of the University_, (The Michigan Alumnus, 45: 101)." %}
 
-It should be noted that Freeman’s was torn down to make way for the Rackham School of Graduate Studies (The Michigan Alumnus, 45: 101). It is clear already that residents and administrative faculty did not always see eye to eye. While the University purchased the home in 1914 to serve as housing for nurses, hospital ward helpers and female students, it was torn down in 1938 to make way for the now present School of Dentistry on the northeast boundary of the original campus, becoming, as the maligned author notes, yet “another Campus landmark [that is] just a memory,” (The Michigan Alumnus, 45: 101).
+It should be noted that Freeman’s was torn down to make way for the [Rackham School of Graduate Studies](https://umich-hist-399.github.io/campus-histories/blurbs/rackham-school) (The Michigan Alumnus, 45: 101). It is clear already that residents and administrative faculty did not always see eye to eye. While the University purchased the home in 1914 to serve as housing for nurses, hospital ward helpers and female students, it was torn down in 1938 to make way for the now present [School of Dentistry](https://umich-hist-399.github.io/campus-histories/summaries/dentalschool) on the northeast boundary of the original campus, becoming, as the maligned author notes, yet “another Campus landmark [that is] just a memory,” (The Michigan Alumnus, 45: 101).
 
 
 By the last decade of the nineteenth century, it is clear that the University is set on expanding its campus to accommodate the interests of its students and faculty, what Perry and Weiwel (2005) would term “internal logic.”
 
  {% include figure.html class="img-center" width="50%" src="/images/1890-map-blue-highlighted.jpg" caption="With the help of computer software, buildings from this 1890 map of Ann Arbor pop out when highlighted in blue" %}
 
-In the map above, from 1890, the University has [acquired or constructed many buildings](https://umich-hist-399.github.io/campus-histories/essays/acq-public-schools). One building, Tappan School, former elementary school that was condemned as a fire hazard by the state fire inspector in 1922, was purchased by the University that same year and became present day East Hall, seen below (‘Tappan School’).
+In the map above, from 1890, the University has [acquired or constructed many buildings](https://umich-hist-399.github.io/campus-histories/essays/acq-public-schools). One building, Tappan School, former elementary school that was condemned as a fire hazard by the state fire inspector in 1922, was purchased by the University the next year and became present day East Hall, seen below (‘Tappan School’).
 
  {% include figure.html class="img-center" width="50%" src="/images/tappan-school-diag.jpg" caption="View of The Diag from nearby Tappan School" %}
 
@@ -46,7 +46,7 @@ Further development on the Diag included the Heating Plant (1883) and the ‘Boi
 
 Mortimer Cooley, Dean of Engineering was quoted to have said “I thought if I could make the boiler house as ugly as possible, and fix the guy ropes so some of the professors would get their heads bumped, I might get some help. Suffice to say, the following year I was authorized to make plans for the present boiler house in the old ‘Cat Hole’.” (Scientific Blacksmith, p. 82). The space was subsequently converted into an engineering lab and later an ROTC building in 1925, being used until 1942 (‘1883 Heating Plant and 1894 Boiler House’).
 
-{% include aside.html class="pullquote" text="I thought if I could make the boiler house as ugly as possible, and fix the guy ropes so some of the professors would get their heads bumped, I might get some help. Suffice to say, the following year I was authorized to make plans for the present boiler house in the old _Cat Hole_. -Mortimer Cooley Dean of U-M Engineering" %}
+{% include aside.html class="pullquote" text="I thought if I could make the boiler house as ugly as possible, and fix the guy ropes so some of the professors would get their heads bumped, I might get some help. Suffice to say, the following year I was authorized to make plans for the present boiler house in the old _Cat Hole_. -Mortimer Cooley, Dean of U-M Engineering" %}
 
 Despite the recession of the tail end of the ninteenth century, the University continued to expand its infrastructure in the early twentieth century, particularly to the east. Notable additions include a number of medical buildings to the northeast—a homeopathic hospital, Palmer Ward & Nurses Residence, an Allopathy Hospital, an Ophthalmology & Otology facility and a Psychopathic Ward—the University [‘Detroit Observatory’](https://umich-hist-399.github.io/campus-histories/essays/detroit-observatory) (1854) and its adjacent student observatory and residence, the [Waterman Gymnasium](https://umich-hist-399.github.io/campus-histories/summaries/watermangymnasium) (1894) which was used for a variety of student activities such as exercise classes, class registration, a dance hall, a space for fundraising banquets and a space for barrack-like training for WWI soldiers (Crawford 1976; Wear 1950).
 
@@ -74,6 +74,8 @@ Another significant addition was the ‘New Engineering Building’ (1903), rena
 
 
 The Arch was and still is a campus landmark, [with growing lore](https://umich-hist-399.github.io/campus-histories/blurbs/arch) attached to it and activities that occur near it.
+
+The University's expansion to the east offers a case study in the growing pains and benefits of time. By analyzing the University's trajectory via urban planning, we can see how needs of individuals are reflected in the architecture and vice versa.
 
 <div class="carousel">
   <div>
