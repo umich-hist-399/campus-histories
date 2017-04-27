@@ -11,7 +11,7 @@ text="From housing America's military to its rich, colorful history as the home 
 
 During the era of the Great Depression, the University of Michigan Regents embarked on a program of building more and more dormitories using federal funds meant to create jobs (Peckham, 201). Out of this atmosphere of pre-war expansion was birthed a building project entitled PWA Project Docket, Michigan 1714-F. This was an all-trades contract awarded to the Bryant & Detwiler Company from Detroit on February 24, 1939, to the tune of $647,817. This project "almost immediately" came to be called **East Quadrangle.** (Shiel, 1705)
 
-{% include figure.html class="img-left" width="25%" caption="Captain Robert L. Mickey, commanding officer of the 55th AAF Technical Training Detachment, University of Michigan. Taken at headquarters in the East Quadrangle, October 18, 1943" src="/images/eqcaptain.jpg" %}
+{% include figure.html class="img-left" width="25%" caption="Captain Robert Mickey in his East Quad headquarters. " src="/images/eqcaptain.jpg" %}
 
 Originally designed to accommodate 398 students, the original East Quad was comprised of four houses; Hinsdale, Greene, Tyler, and Prescott, all named for former U of M professors. (Shiel, 1706) East Quad became open to students in the Fall of 1941, and soon afterwards **the residential hall became home to "enlistees of the Military Intelligence Department, the Army Air Force, and Army Engineers"** (Shiel, 1706). The first military group to choose East Quad was a group of forty freshmen R.O.T.C. students, who lived in the dormitory barracks style. These "Steuben Guards", as they became known, stayed in East Quad under the direction Department of Military Science and Tactics until the end of the fall 1941 semester, at which point Army groups started living there (Shiel, 1706). The Army came to the University in order to open their Japanese Language School, where they were taught to read, write, and speak Japanese for combat intelligence (Peckham, 232). 
 
@@ -32,15 +32,21 @@ Continuing enrollment pressures (36,000 students were enrolled by Fall 1966) rai
 
 Rather than wait for the campus to be completed, **the Planning Committee decided to launch the RC in the interim years in East Quad’s Tyler and Prescott houses in Fall 1967.** The college admitted its first class of 217 freshmen at that time. A large issue, then, became the permanent location of the Residential College. While the East Quad residence was meant to be temporary, the students and staff noticed how much of an advantage it was to be close to the central campus. In March 1968, the entire staff and student body of the RC met with the Regents, President Robben Flemming, and LSA administrative officers to discuss this. Though they had extensive plans to move the RC to its Huron River location, the students and staff were quite persuasive. Plans were made to transform East Quad from a men’s dormitory to to a coeducational liberal arts college, and so **the Residential College became a permanent fixture.** (Robertson, 233-234)
 
-In order to accommodate such a move, extensions were necessary to add to the Quad. Plans were drawn up to add 3 or 4 small classrooms and at least 2 seminar-style rooms. 
+{% include figure.html class="img-right" width="33%" caption="The Halfass in East Quad's basement was a social space. This is a photo taken from U of M club New Beat Happening's Battle of the Bands, in the 2011-12 year." src="/images/maplephonicshalfass.jpg" %}
 
 After the RC came to East Quad, the dormitory began changing its character. **Whereas before it housed the military of WWII America, the RC environment of student-teacher collaboration and equality brought a more radical contingent to the Quad.** It started to become a more freewheeling place, as evidenced by the appearance of the Halfway Inn in the basement, soon to be known as **the “Halfass”.** The Halfass opened its doors in 1971, and was described as a “less refined mixture of Blimpy Burger and the Blind Pig” (Linn, 2007). It has been described as a crypt-like place, and this closeness meant that workers became a tight-knit social group. Wild things happened at the Halfass. Alumnus Ellen Stiller recounts a time when her friend brought to homeless people to work, who proceeded to stay for a week. In return for free food and cigarettes, the “homeless gentlemen” bought beer for them (Linn, 2007). 
 
 {% include figure.html class="img-left" width="33%" caption="The Halfway Inn, affectionately known as the Halfass, 1971-2012" src="/images/eqhalfass.jpg" %}
 
-East Quad remained a freewheeling place like this for the rest of the 20th century. Then, **in 2004, extensive renovation plans were announced for residence halls of the university, called the Residential Life Initiative.** East Quad suffered an asbestos outbreak before they were renovated; it was time for a tune-up. The Residential College and Housing committee worked together to come up with a plan for the renovations of East Quad, which took effect in May 2012. The construction job cost $116 million, and allocated for the housing of 856 students in 521 rooms. (Guggenheim, 2013) Most of the old furniture was replaced; a Community Learning Center with 27 computers was added. Infrastructural changes like new plumbing, electrical, heating and ventilation, air conditioning, WiFi, a new dining hall, and fire suppression systems were implemented [(http://www.housing.umich.edu/undergrad/east-quadrangle)](http://www.housing.umich.edu/undergrad/east-quadrangle) (Guggenheim, 2013). This was a complete overhaul. 
+East Quad remained a freewheeling place like this for the rest of the 20th century. Then, **in 2004, extensive renovation plans were announced for residence halls of the university, called the Residential Life Initiative.** East Quad suffered an asbestos outbreak before they were renovated; it was time for a tune-up. The Residential College and Housing committee worked together to come up with a plan for the renovations of East Quad, which took effect in May 2012. 
+
+{% include figure.html class="img-right" width="33%" caption="East Quad's modern first floor lounge, in 2017." src="/images/EQloungemodern.JPG" %}
+
+The construction job cost $116 million, and allocated for the housing of 856 students in 521 rooms. (Guggenheim, 2013) Most of the old furniture was replaced; a Community Learning Center with 27 computers was added. Infrastructural changes like new plumbing, electrical, heating and ventilation, air conditioning, WiFi, a new dining hall, and fire suppression systems were implemented [(http://www.housing.umich.edu/undergrad/east-quadrangle)](http://www.housing.umich.edu/undergrad/east-quadrangle) (Guggenheim, 2013). This was a complete overhaul. 
 
 One way in which this was an update for the 21st century was a farewell to part of that  freewheeling spirit of the old East Quad. The 2012 renovation did not call for an update to the Halfass (Guggenheim, 2013), and indeed, today that establishment is no longer around. Having tempered its wild spirit and updated its facilities with modern amenities, East Quad as seen today is a modern machine and one of the finest residential halls to be found on campus.
+
+{% include figure.html class="img-center" width="75%" caption="East Quad, as seen in April 2017." src="/images/EQtoday.JPG" %}
 
      
 ## Sources
@@ -51,5 +57,25 @@ One way in which this was an update for the 21st century was a farewell to part 
 - Linn, Rob, "The Halfass: Community, Rock 'n Roll and The Freshman Fifteen by October. Since 1971.", *Residential College 40th Anniversary*, Anniversary - (40th) (1 of 2), Box 17, Residential College (University of Michigan) records, Bentley Historical Library, University of Michigan
 - Guggenheim, Aaron, "East Quad to open for fall semester following renovations". *The Michigan Daily*, Ann Arbor, August 15, 2013, Web.
 - "East Quadrangle." U Housing. N.p., n.d. Web. 05 Apr. 2017. [http://www.housing.umich.edu/undergrad/east-quadrangle](http://www.housing.umich.edu/undergrad/east-quadrangle).
+
+## Image Credits
+
+- Captain Robert Mickey: "Captain Robert L. Mickey, commanding officer of the 55th AAF Technical Training Detachment, University of Michigan...Taken at headquarters in the East Quadrangle, October 18, 1943", University of Michigan Photographs Vertical File, Bentley Historical Library, University of Michigan. [http://quod.lib.umich.edu/b/bhl/x-bl003837/bl003837](http://quod.lib.umich.edu/b/bhl/x-bl003837/bl003837)
+
+- Army units under inspection: Lewin, Robert L. "Personal inspection in the hallway of East Quad", 1943. University of Michigan Photographs Vertical File, Bentley Historical Library, University of Michigan. [http://quod.lib.umich.edu/b/bhl/x-bl003842/bl003842](http://quod.lib.umich.edu/b/bhl/x-bl003842/bl003842)
+
+- Old East Quad lounge: "Interior of East Quad lounge", Alumni Association (University of Michigan) records, Bentley Historical Library, University of Michigan. [http://quod.lib.umich.edu/b/bhl/x-hs9212/hs9212](http://quod.lib.umich.edu/b/bhl/x-hs9212/hs9212)
+
+- Addition of Cooley and Anderson Houses, 1947: "East Quad construction (addition) in the winter, January 4, 1947". 1947, Alumni Association (University of Michigan) records, Bentley Historical Library, University of Michigan. [http://quod.lib.umich.edu/b/bhl/x-hs9221/hs9221](http://quod.lib.umich.edu/b/bhl/x-hs9221/hs9221)
+
+- The Quad in 1952: "1952 Michigan Calendar image of East Quad exterior [man exiting past bicycles]", 1952. Alumni Association (University of Michigan) records, Bentley Historical Library, University of Michigan. [http://quod.lib.umich.edu/b/bhl/x-hs9215/hs9215](http://quod.lib.umich.edu/b/bhl/x-hs9215/hs9215)
+
+- Halfass concert: Taken from the New Beat Happening Facebook page. [https://www.facebook.com/pg/newbeathappening/photos/?tab=album&album_id=190302244404080](https://www.facebook.com/pg/newbeathappening/photos/?tab=album&album_id=190302244404080)
+
+- The Halfway Inn sitting people: Linn, Rob, "The Halfass: Community, Rock 'n Roll and The Freshman Fifteen by October. Since 1971.", *Residential College 40th Anniversary*, Anniversary - (40th) (1 of 2), Box 17, Residential College (University of Michigan) records, Bentley Historical Library, University of Michigan
+
+- Modern EQ lounge: Author's own
+
+- Modern EQ from outside: Author's own
 
      
