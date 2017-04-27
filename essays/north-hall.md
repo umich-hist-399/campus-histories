@@ -1,7 +1,7 @@
 ---
 layout: single-col
 title: North Hall
-date: 2017-02-19
+date: 2017-04-27
 ---
 {% include jumbotron.html title="North Hall" image="images/north-hall-jumbotron.jpg" text=" and Homeopathic Hospital %}
 
