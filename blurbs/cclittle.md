@@ -6,9 +6,10 @@ date: 2017-03-22
 
 # C.C. Little Building
 
- {% include figure.html class="img-center" caption=" The C.C. Little building today" width="50%" src="/images/cc-little.jpg" %}
  
  ## The Clarence Cook Little Building represents much than a bus destination
+
+{% include figure.html class="img-center" caption=" The C.C. Little building today" width="50%" src="/images/cc-little.jpg" %}
 
 - Built in 1925 for the medical school by famed Detroit and Ann Arbor architect Albert Kahn who designed many buildings on campus.
 - Now houses many Natural Sciences departments. (Department of Microbiology box 1951-1979).
