@@ -12,21 +12,21 @@ The University of Michigan’s central campus sports a walkway that cuts from it
 
 It is interesting to consider, then, the Diag before pavement. Indeed, as we’ll get into, the Diag used to be completely unpaved, because there was no “Diag”. The University of Michigan central campus was merely a few buildings and a natural space when it moved to Ann Arbor, a yeoman ideal that Jefferson would be proud of. What does the appearance and subsequent renovations of the Diag say about the history of the University of Michigan? Furthermore, what does it say about the history of America? To try to answer these questions, I looked at numerous maps of U of M’s central campus. These maps were found online at the Ann Arbor Historic Maps Project (part of the U of M Millennium Project) and at the Bentley Historical Library on the University of Michigan’s North Campus.
 
- {% include figure.html class="img-right" width="50%" src="/images/campus1854.png" caption="Campus in 1854. No sign of the Diag; the focus isn't on transportation yet."%}
+ {% include figure.html class="img-right" width="40%" src="/images/campus1854.png" caption="Campus in 1854. No sign of the Diag; the focus isn't on transportation yet."%}
 
 The first map I want to draw attention to is this one, drawn from the Ann Arbor, Michigan Historic Maps project. This is the University of Michigan campus in 1854. As you can see, there is no “Diag” to speak of; the University is striving for a pastoral ideal. There appear to be some paths that are mostly for the benefit of professors, as they connect their houses to each other and the main University building. The building in the middle of the “Botanical Gardens” area is the old Medicine Building. It’s interesting to see just how far the University has come in this field; in 1854, there wasn’t even a path to this building, and now the campus sports a famously large hospital and medical campus. This map is a good place to start; there isn’t much there, but what is present forms the backbone of the future central campus.
 
  {% include figure.html class="img-left" width="33%" src="/images/campus1864.png" caption="The Diag, in 1864, began to expand and take on its diagonal shape." %}
  
- {% include figure.html class="img-right" width="33%" src="/images/campus1866.png" campus="A rendering of what the Diag looked like in 1866. A pastoral image, with people playing; a peaceful place." %}
+ {% include figure.html class="img-right" width="33%" src="/images/campus1866.png" campus="A rendering of what the Diag looked like in 1866. A pastoral, peaceful place." %}
 
 These next maps are from the Historic Maps Project as well; the rightmost being 10 years later than the first, the left one being 1864, and the rightmost from 1866. There aren’t any discernible campus layout differences between them, but the 1866 map is useful for visualizing the campus around this time, a pastoral area. The 1864 map can be contrasted with the 1854 map in striking ways. There is more of a focus on the Medical Campus now; and indeed, we see the first markings of the modern Diag. It comes down from the northwest, going straight for the Medical College. So then, the Diag began as a way to quickly get to the Medical College, heretofore a bit of an isolated area.
 
 The idea that students should be able to traverse a large space quickly seems a focus of this construction from the very start. If you look at the 1866 map, you can see that the pastoral still plays a large role in the school’s self image; the Diag, and furthermore the whole campus, is lined with neat, apparently equidistant rows of trees. This is roughly antebellum America; not quite the industrial powerhouse it would become by century’s end. This shows that the Diag progressed as the world around it did; its expansions and new pathways are emblematic of an expanding country.
 
- {% include figure.html class="img-left" width="40%" src="/images/campus1880.png" %}
+ {% include figure.html class="img-left" width="50%" src="/images/campus1880.png" %}
  
- {% include figure.html class="img-right" width="40%" src="/images/campus1890.png" %}
+ {% include figure.html class="img-right" width="50%" src="/images/campus1890.png" %}
 
 The period after the Civil War was a time of great expansion for the university. As this map on the left shows, by 1880 the Diag completed its journey from northwest to southeast. While trees and the pastoral still play a large part in the image of this map, there are also more buildings, and ones that existed before are grander. It’s beginning to closely resemble our modern day central campus. This map also gives more character to the campus area, as later maps sometimes did. There are people playing games in the northeast corner of the Diag, in what is left of the Botanical Gardens (and what will become a gymnasium soon). The map on the right isn’t as useful for seeing a layout of the Diag, but there is a striking feature about it; the appearance of smokestacks. These large smokestacks are no longer there, but in this moment, they represent the industrial ambitions of turn of the century America.
 
