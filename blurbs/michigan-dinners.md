@@ -7,7 +7,7 @@ date: 2017
 
 _Connecting Michigan People Across the Nation_
 
-% include figure.html class="img-center" width="100%" caption="1909 Michigan Dinner at Waterman Gymnasium" src="/images/michigan-dinner.jpg" %}
+{% include figure.html class="img-center" width="100%" caption="1909 Michigan Dinner at Waterman Gymnasium" src="/images/michigan-dinner.jpg" %}
 
 - Over 1,100 men attended the first official Michigan Dinner that was held on November 11, 1904. It “afforded to the University Body its first opportunity of expressing itself unitedly and understandingly in favor of a plan which presented itself to all as Michigan's greatest need.” (Bates 1905, 2).
 
