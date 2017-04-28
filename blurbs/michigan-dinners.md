@@ -1,5 +1,5 @@
 ---
-layout: singlecol
+layout: single-col
 title: Michigan Dinners
 date: 2017
 ---
