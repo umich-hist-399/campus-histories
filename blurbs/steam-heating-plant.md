@@ -23,8 +23,10 @@ The first plant provided heat for the west and north sections of the campus, nam
 -----
 ## Sources:
 
-- http://umhistory.dc.umich.edu/mort/original/1900/11%20Steam%20Heating%20Plant/index.html
+-“Chemistry Lab, Pharmacology Wing.” Bentley Image Bank, Bentley Historical Library. Accessed April 28, 2017. http://quod.lib.umich.edu/b/bhl/x-bl004185/bl004185.
 
-- “University of Michigan Power Plant (print made from glass negative); HS1567.” http://quod.lib.umich.edu/b/bhl/x-hs1567/hs1567. University of Michigan Library Digital Collections. Accessed: April 10, 2017.
+-Michigan, University of. The University of Michigan, an Encyclopedic Survey ... Wilfred B. Shaw, Editor., 2000. http://name.umdl.umich.edu/AAS3302.0004.001.
 
-- “Chemistry Lab, Pharmacology Wing; BL004185.” http://quod.lib.umich.edu/b/bhl/x-bl004185/bl004185. University of Michigan Library Digital Collections. Accessed: April 10, 2017.
+-Mortenson, Myron. “Chronological Development of the University of Michigan Campus, Ann Arbor, Michigan.” Mort’s Labor of Love. [Ann Arbor, Mich.: The Dept., 1971. http://hdl.handle.net/2027/.
+
+-“University of Michigan Power Plant (Print Made from Glass Negative).” Bentley Image Bank, Bentley Historical Library. Accessed April 28, 2017. http://quod.lib.umich.edu/b/bhl/x-hs1567/hs1567.
