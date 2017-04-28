@@ -44,6 +44,8 @@ In 1917, the Students Christian Association and moved most of their meetings to 
 
 In 1953 Newberry Hall was renamed, "Francis W. Kelsey Museum of Archaeology" (Kelsey Museum of Archaeology 1976). Francis W. Kelsey was a Latin professor at the University of Michigan in the early 20th century, who had the idea for the 1928 Classics Museum (Crittenden 1868-1933). Today, the museum’s website boasts that it "houses over 100,000 artifacts, ranging from prehistoric through medieval times" (Kelsey Museum of Archaeology). **As you walk through the collections of the museum, you could be standing in very place that Susan B. Anthony once stood**.
 
+-----
+
 ## Sources
 
 
@@ -57,7 +59,7 @@ In 1953 Newberry Hall was renamed, "Francis W. Kelsey Museum of Archaeology" (Ke
 
 - Crittenden, Albert Robinson. "Albert Robinson Crittenden Papers, 1868-1933.," 1933 1868.
 
-- Kelsey Museum of Archaeology. Kelsey Museum of Archaeology Publications. Kelsey Museum of Archaeology, 1976.
+- Kelsey Museum of Archaeology. _Kelsey Museum of Archaeology Publications_. Kelsey Museum of Archaeology, 1976.
 
 - "Lane Hall Is and Example of Beauty and Utility." _Michigan Daily Digital Archives_, February 28, 1917.
 
@@ -67,13 +69,13 @@ In 1953 Newberry Hall was renamed, "Francis W. Kelsey Museum of Archaeology" (Ke
 
 - Pauli, C. J. "Ann Arbor, Mich., 1890." Milwaukee, Wis.: C. J. Pauli, 1890.
 
-- Shaw, Wilfred B., ed. "Gifts to the University of Michigan." The University of Michigan, an Encyclopedic Survey, 2000.
+- Shaw, Wilfred B., ed. "Gifts to the University of Michigan." _The University of Michigan, an Encyclopedic Survey_, 2000.
 
-- Stanton, Elizabeth Cady, Susan Brownell Anthony, Matilda Joslyn Gage, and Ida Husted Harper. History of Woman Suffrage: 1900-1920. Fowler & Wells, 1922.
+- Stanton, Elizabeth Cady, Susan Brownell Anthony, Matilda Joslyn Gage, and Ida Husted Harper. _History of Woman Suffrage: 1900-1920_. Fowler & Wells, 1922.
 
 - Stoner, and Beck & Pauli. "Panoramic View of the City of Ann Arbor, Washtenaw Co. Michigan, 1880." Madison, Wis.: J. J. Stoner, 1880.
 
-- Student Christian Association (University of Michigan). Order of Services at Dedication of Newberry Hall. Services at the Dedication of Newberry Hall 16. Ann Arbor, Mich.: Inland Press, 1891.
+- Student Christian Association (University of Michigan). _Order of Services at Dedication of Newberry Hall_. Services at the Dedication of Newberry Hall 16. Ann Arbor, Mich.: Inland Press, 1891.
 
 - Students’ Christian Association (University of Michigan). "Students Christian Association Bulletin" 1–5 (1880-1884).
 
