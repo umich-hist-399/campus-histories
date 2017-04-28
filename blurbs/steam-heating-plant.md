@@ -1,6 +1,6 @@
 ---
 layout: single-col
-title: Steam
+title: "Steam Heating Plant"
 date: 2017-4-28
 ---
 
