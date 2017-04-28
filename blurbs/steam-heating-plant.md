@@ -1,6 +1,6 @@
 ---
 layout: single-col
-title: Steam Heating Plant
+title: Steam
 date: 2017-4-28
 ---
 
@@ -10,13 +10,6 @@ date: 2017-4-28
 Prior to the 1914 construction of the University of Michigan Central Power Plant, the university campus was heated by two separate steam heating plants, both situated right on the diag. Both completed in 1879, one was situated just east of University Hall and the other as an addition on the back Chemical Laboratory.
 
 The first plant provided heat for the west and north sections of the campus, namely University Hall, the Law Building, the Museum, the dental building, and the Homeopathic Hospital. The second plant heated the eastern buildings on campus, at that point only the Chemical Laboratory and Medical Building.
-
-
-{% include figure.html class="img-left" width="33%" src="/images/power-plant1.jpg" %}
-
-{% include figure.html class="img-left" width="33%" src="/images/power-plants-map.jpg" %}
-
-{% include figure.html class="img-left" width="33%" src="/images/power-plant2.jpg" %}
 
 
 
