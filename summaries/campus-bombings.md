@@ -3,7 +3,8 @@ layout: single-col
 title: "The 1960s Campus Bombings"
 date: 2017-04-28
 ---
-The 1960s Campus Bombings
+
+### The 1960s Campus Bombings
 
 Shortly before midnight on September 29, 1968, an explosion shook downtown Ann Arbor. Police Chief Walter Krasny was woken by the blast, and arrived on the scene shortly after the Ann Arbor Fire Department. After the firemen had extinguished the smoldering wreckage of a small, unassuming office at 450 S. Main St, Krasny and his officers investigated the source of the blast. Upon initial investigation, the following facts were surmised:
 
