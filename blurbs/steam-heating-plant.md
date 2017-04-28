@@ -1,8 +1,9 @@
 ---
 layout: single-col
-title: Steam Heating Plant
-date: 2017-4-10
+title: Steam
+date: 2017-4-28
 ---
+
 
 # Steam Heating Plant
 
@@ -11,6 +12,7 @@ Prior to the 1914 construction of the University of Michigan Central Power Plant
 The first plant provided heat for the west and north sections of the campus, namely University Hall, the Law Building, the Museum, the dental building, and the Homeopathic Hospital. The second plant heated the eastern buildings on campus, at that point only the Chemical Laboratory and Medical Building.
 
 
+<<<<<<< HEAD
 {% include figure.html class="img-left" width="33%" src="/images/power-plant1.jpg" caption="Steam Heating Plant 1"%}
 
 {% include figure.html class="img-left" width="33%" src="/images/power-plants-map.jpg" caption="Plant 1 in red, Plant 2 in blue" %}
@@ -18,6 +20,8 @@ The first plant provided heat for the west and north sections of the campus, nam
 {% include figure.html class="img-left" width="33%" src="/images/power-plant2.jpg" caption="Steam Heating Plant 2" %}
 
 
+=======
+>>>>>>> origin/master
 
 
 -----
