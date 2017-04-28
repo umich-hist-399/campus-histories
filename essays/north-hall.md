@@ -33,7 +33,7 @@ It was not until 1940, at which point the university’s medical facilities had 
 
 In 1969, North Hall fell victim to the 1960’s campus bombings. Shortly after 11pm on Sunday, June 1st, 1969, a large bomb detonated under a car parked outside North Hall. Local Police and an FBI Bomb Squad responded, arriving on the scene promptly and immediately recognizing the similarities between this bombing and those that had occurred on the University of Michigan campus the previous fall.
 
-{% include aside.html class="pullquote" text=" The building was empty at the time of the blast and no one was injured." %}
+{% include aside.html class="pullquote" text="The building was empty at the time of the blast and no one was injured." %}
 
 Residents up to two miles away from the site of the explosion reported feeling their houses shake. More than sixty of North Hall’s windows were shattered by the blast, and a large part of one wall was blown in. Plaster was blown from the walls and ceilings almost throughout the building. Nearby buildings also sustained significant damage, especially the Museums Annex next door. (Harris, 1969)
 
