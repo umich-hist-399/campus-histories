@@ -17,16 +17,19 @@ I have been unable to find any floor plan of the original hospitals, but The Uni
 
 “The broad corridors, wide windows and glistening red oak woodwork make an attractive interior. At the end of each hallway are double glass doors opening into a ward, each intended for sixteen beds. At the front of each ward is a large sun parlor, to be used as a sitting room by patients able to leave their beds. Admirable forethought has taken care that there be no square corners or angles to catch dust and germs.” (Gjelsness, 1942)
 
-(Insert amphitheater pic.)
+AMPHITHEATER PIC
 
 By 1900, the demand for allopathic medicine in the University Hospitals had increased, and the demand for homeopathic medicine had correspondingly decreased, so the homeopathic hospital was converted into a medical ward for the allopathic hospital, and the original allopathic hospital building was converted into a surgical ward. A long corridor was constructed connecting the two buildings, and an additional branch of walkway was added, connecting the hospitals to the nurses’ residence in between. At this point, the University of Michigan Hospital complex was the biggest teaching hospital in the country.
 
-The hospital facilities were continually improved and expanded. By 1925, the medical facilities comprised some twenty different buildings of various sizes and uses. At this time, the new University Hospital was under construction, and when it opened in May of 1926, the medical facilities on Catherine Street were designated as the Convalescent Hospital, with the former Homeopathic wing being renamed the South Department Hospital. These titles remained in place over the next several decades as progressively more and more of the buildings in the complex were repurposed.
+The hospital facilities were continually improved and expanded. By 1925, the medical facilities comprised some twenty different buildings of various sizes and uses. At this time, the new University Hospital was under construction, and when it opened in May of 1926, the medical facilities on Catherine Street were designated as the Convalescent Hospital, with the former Homeopathic wing being renamed the South Department Hospital. These titles remained in place over the next several decades as progressively more and more of the buildings in the complex were repurposed. (Gjelsness, 1942.)
 
 It was not until 1940, at which point the university’s medical facilities had all moved to the new hospital, that the South Department Hospital was renamed North Hall and repurposed as the offices of the University Extension Service and the Naval Reserve Officers' Training Corps. Later in the decade, the R.O.T.C programs of the Army and Air Force also moved into North Hall.
 
+In 1969, North Hall fell victim to the 1960’s campus bombings. Shortly after 11pm on Sunday, June 1st, 1969, a large bomb detonated under a car parked outside North Hall. Local Police and an FBI Bomb Squad responded, arriving on the scene promptly and immediately recognizing the similarities between this bombing and those that had occurred on the University of Michigan campus the previous fall.
 
+Residents up to two miles away from the site of the explosion reported feeling their houses shake. More than sixty of North Hall’s windows were shattered by the blast, and a large part of one wall was blown in. Plaster was blown from the walls and ceilings almost throughout the building. Nearby buildings also sustained significant damage, especially the Museums Annex next door. (Harris, 1969)
 
+In 2014 North Hall was demolished in preparation for the construction of a new addition to the Alexander G. Ruthven museum.
 
 ### Sources
 
