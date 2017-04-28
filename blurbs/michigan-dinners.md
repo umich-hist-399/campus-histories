@@ -9,15 +9,15 @@ _Connecting Michigan People Across the Nation_
 
 {% include figure.html class="img-center" width="100%" caption="1909 Michigan Dinner at Waterman Gymnasium" src="/images/michigan-dinner.jpg" %}
 
-- Over 1,100 men attended the first official Michigan Dinner that was held on November 11, 1904. It “afforded to the University Body its first opportunity of expressing itself unitedly and understandingly in favor of a plan which presented itself to all as Michigan's greatest need.” (Bates 1905, 2).
+- Over 1,100 men attended the first official Michigan Dinner that was held on November 11, 1904. It "afforded to the University Body its first opportunity of expressing itself unitedly and understandingly in favor of a plan which presented itself to all as Michigan's greatest need." (Bates 1905, 2).
 
 - That need was a formal social club for all Michigan Men. Thus, it was at this dinner, that the idea for the Michigan Union was formally announced (Bates 1905, 2).
 
-- The Michigan Dinner quickly became the most sought after banquet to attend on campus, because it allowed students and faculty to meet on common ground, outside of the classroom (“University of Michigan Union, 1914).
+- The Michigan Dinner quickly became the most sought after banquet to attend on campus, because it allowed students and faculty to meet on common ground, outside of the classroom ("University of Michigan Union", 1914).
 
-- As the Michigan Union grew, the Michigan Dinner became a way for Alumni to connect with each other, as well as faculty and current students (Rowe 2004). In 1927, the first off campus Michigan Dinner was hosted in Chicago by alumni in the area. This dinner is also the first in which women are listed in attendance (“Chicago Alumni Complete Plans for Michigan Dinner at Chicago” 1927).
+- As the Michigan Union grew, the Michigan Dinner became a way for Alumni to connect with each other, as well as faculty and current students (Rowe 2004). In 1927, the first off campus Michigan Dinner was hosted in Chicago by alumni in the area. This dinner is also the first in which women are listed in attendance ("Chicago Alumni Complete Plans for Michigan Dinner at Chicago" 1927).
 
-- As the years went on, the event seemed to be dwindling in popularity, because it was often held in cities far away from campus. This made it hard for current students and faculty to attend the dinner. Only 300 people attended the 1930 dinner in Boston (“Alumni to Gather for Celebration” 1930).
+- As the years went on, the event seemed to be dwindling in popularity, because it was often held in cities far away from campus. This made it hard for current students and faculty to attend the dinner. Only 300 people attended the 1930 dinner in Boston ("Alumni to Gather for Celebration" 1930).
 
 - Like many other traditions, Michigan Dinners ceased during [World War II](essays/world-war-two) and were never reinstated, but they went out with a bang (Williams 1995).
 
