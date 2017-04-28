@@ -5,7 +5,7 @@ date: 2017
 ---
 # Michigan Dinners
 
-_Connecting Michigan People Across the Nation_
+## Connecting Michigan People Across the Nation
 
 {% include figure.html class="img-center" width="100%" caption="1909 Michigan Dinner at Waterman Gymnasium" src="/images/michigan-dinner.jpg" %}
 
@@ -21,7 +21,7 @@ _Connecting Michigan People Across the Nation_
 
 - Like many other traditions, Michigan Dinners ceased during [World War II](essays/world-war-two) and were never reinstated, but they went out with a bang (Williams 1995).
 
-- The 1939 Michigan Dinner is the last recorded. It was held to honor President Ruthven’s 10th year as head of the University. With over 3,500 people and a pageant with 1,000 members, it was the largest Michigan Dinner ever put on (“3500 Will Acclaim President Ruthven At Dinner Tonight” 1939).
+- The 1939 Michigan Dinner is the last recorded. It was held to honor President Ruthven’s 10th year as head of the University. With over 3,500 people and a pageant with 1,000 members, it was the largest Michigan Dinner ever put on ("3500 Will Acclaim President Ruthven At Dinner Tonight" 1939).
 
 - Today, students have a much more casual opportunity to share a meal with professors through the "Take Your Professor or GSI to Lunch" program ("Students, Professors Share Free Lunch" 2003).
 
@@ -35,7 +35,7 @@ _Connecting Michigan People Across the Nation_
 
 - Bates, Henry Moore. _The Plan and Purpose of the Michigan Union_. Ann Arbor: The Richmond & Backus co., 1905.
 
-- “Chicago Alumni Complete Plans for Michigan Dinner at Chicago.” _Michigan Daily Digital Archives_, November 2, 1927.
+- "Chicago Alumni Complete Plans for Michigan Dinner at Chicago." _Michigan Daily Digital Archives_, November 2, 1927.
 
 - Rowe, Jeffrey M., and University of Michigan. _The Michigan Union, 1904-2004: 100 Years of Student Life_. 146. Ann Arbor: University of Michigan, 2005.
 
