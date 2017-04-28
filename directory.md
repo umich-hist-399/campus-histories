@@ -13,6 +13,7 @@ date: 2017-03-14
 - [State Street Suffrage](essays/state-street-suffrage)
 - [Evolution of State Street](summaries/evolution-of-state-street)
 - [Acquisition of Public Schools](essays/acq-public-schools)
+- [Michigan Dinners](blurbs/michigan-dinners)
 - Dorms and Boarding Houses
 - [WWII and campus planning](essays/world-war-two)
 - International Students and Diversity
