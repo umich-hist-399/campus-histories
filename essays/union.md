@@ -1,8 +1,9 @@
 ---
 layout: single-col
-title: The Michigan Union: The Overlooked Journey from Club to Clubhouse
+title: "The Michigan Union: The Overlooked Journey from Club to Clubhouse"
 date: 2017
 ---
+
 {% include jumbotron.html
 title="The Michigan Union: The Overlooked Journey from Club to Clubhouse"
 image="images/outside-union.jpg"

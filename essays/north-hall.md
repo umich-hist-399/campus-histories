@@ -3,7 +3,7 @@ layout: single-col
 title: North Hall
 date: 2017-04-27
 ---
-{% include jumbotron.html title="North Hall" image="images/north-hall-jumbotron.jpg" text=" and Homeopathic Hospital %}
+{% include jumbotron.html title="North Hall" image="images/north-hall-jumbotron.jpg" text="and Homeopathic Hospital" %}
 
 Given the modern reputation of homeopathy as a sort-of pseudo scientific form of alternative medicine, it may surprise you that the University of Michigan was once home to a thriving homeopathic hospital. In fact, it was established right alongside the university’s original allopathic hospital and medical school. (Allopathy is a term that refers to modern mainstream medicine, as opposed to homeopathy or alternative medicine.)
 

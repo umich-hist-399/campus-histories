@@ -1,5 +1,5 @@
 ---
-layout: wide-col
+layout: lg-left-col
 title: University Hall
 date: 2017
 ---

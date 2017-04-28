@@ -1,6 +1,6 @@
 ---
 layout: single-col
-title: Newberry Hall: From Meetings to Museum
+title: "Newberry Hall: From Meetings to Museum"
 date: 2017
 ---
 {% include jumbotron.html
