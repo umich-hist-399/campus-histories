@@ -12,11 +12,11 @@ Prior to the 1914 construction of the University of Michigan Central Power Plant
 The first plant provided heat for the west and north sections of the campus, namely University Hall, the Law Building, the Museum, the dental building, and the Homeopathic Hospital. The second plant heated the eastern buildings on campus, at that point only the Chemical Laboratory and Medical Building.
 
 
-{% include figure.html class="img-left" width="33%" src="/images/power-plant1.jpg"%}
+{% include figure.html class="img-left" width="33%" src="/images/power-plant1.jpg" %}
 
-{% include figure.html class="img-left" width="33%" src="/images/power-plants-map.jpg"%}
+{% include figure.html class="img-left" width="33%" src="/images/power-plants-map.jpg" %}
 
-{% include figure.html class="img-left" width="33%" src="/images/power-plant2.jpg"%}
+{% include figure.html class="img-left" width="33%" src="/images/power-plant2.jpg" %}
 
 
 
