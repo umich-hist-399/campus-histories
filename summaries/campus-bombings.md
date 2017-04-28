@@ -27,3 +27,24 @@ Later in the same year, the editor of The Detroit News received a telephone call
 
 
 Valler, Sinclair, Forrest and Plamondon were all indicted in a case that reached the United States Supreme Court on February 24, 1972. Sinclair, Forrest, and Plamondon all received sentences of 9 ½ to 10 years. Valler, who, after initially admitting guilt renounced his actions and condemned The White Panther Party and hippies in general, took a plea deal and served a very short sentence, after which he went on to become a newspaper columnist who wrote articles condemning drug use, counterculture, and radical politics.
+
+---
+## Sources
+
+-Davis, Hugh “Buck.” “A People’s History of the CIA Bombing Conspiracy (the Keith Case); Or, How the White Panthers Saved the Movement | Freeing John Sinclair.” Accessed April 28, 2017. http://freeingjohnsinclair.aadl.org/freeingjohnsinclair/essays/peoples_history_of_the_cia_bombing_conspiracy.
+
+-“Door Blown Out by Bomb Blast at Institute of Science and Technology, University of Michigan.” The Ann Arbor News, October 15, 1968. http://oldnews.aadl.org/N035_0467_012.
+
+-Hirschman, Martin. “Bomb Hits ROTC Building.” The Michigan Daily, February 6, 1969. The Michigan Daily Digital Archives. https://digital.bentley.umich.edu/midaily/mdp.39015071754233/105.
+
+-“Krasny Connects CIA, IST Blasts.” Michigan Daily, October 16, 1968. Michigan Daily Digital Archives. https://digital.bentley.umich.edu/midaily/mdp.39015071754043/457.
+
+-“On The Run! | Old News.” The Ann Arbor Sun, September 6, 1972. Old News, AADL. http://oldnews.aadl.org/node/194849.
+
+-Treml, William B. “Area Law Officials Call 1968 A Busy Year.” The Ann Arbor News, May 1, 1969. Old News, AADL. http://oldnews.aadl.org/node/84028.
+
+- “Investigation Continues in CIA Office Bombing.” The Ann Arbor News, January 10, 1968. http://oldnews.aadl.org/aa_news_19681001-investigation_continues_in_cia.
+
+-United States v. United States Dist. Court for Eastern Dist. of Mich., 407 US 297 (Supreme Court 1972).
+
+-Zbrozek, Christopher. “The Boming of A2 CIA Office.” The Michigan Daily, October 24, 2006. https://www.michigandaily.com/content/bombing-a2-cia-office.

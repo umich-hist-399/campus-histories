@@ -21,7 +21,7 @@ The first plant provided heat for the west and north sections of the campus, nam
 
 
 -----
-## Sources:
+## Sources
 
 -“Chemistry Lab, Pharmacology Wing.” Bentley Image Bank, Bentley Historical Library. Accessed April 28, 2017. http://quod.lib.umich.edu/b/bhl/x-bl004185/bl004185.
 
