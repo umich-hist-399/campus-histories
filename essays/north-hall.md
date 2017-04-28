@@ -23,13 +23,13 @@ I have been unable to find any floor plan of the original hospitals, but The Uni
 
 By 1900, the demand for allopathic medicine in the University Hospitals had increased, and the demand for homeopathic medicine had correspondingly decreased, so the homeopathic hospital was converted into a medical ward for the allopathic hospital, and the original allopathic hospital building was converted into a surgical ward. A long corridor was constructed connecting the two buildings, and an additional branch of walkway was added, connecting the hospitals to the nurses’ residence in between. At this point, the University of Michigan Hospital complex was the biggest teaching hospital in the country.
 
-{% include figure.html class="img-center" width="40%" src="/images/hospitals1906.jpg" caption="The hospitals complex in about 1906" %}
+{% include figure.html class="img-center" width="100%" src="/images/hospitals1906.jpg" caption="The hospitals complex in about 1906" %}
 
 The hospital facilities were continually improved and expanded. By 1925, the medical facilities comprised some twenty different buildings of various sizes and uses. At this time, the new University Hospital was under construction, and when it opened in May of 1926, the medical facilities on Catherine Street were designated as the Convalescent Hospital, with the former Homeopathic wing being renamed the South Department Hospital. These titles remained in place over the next several decades as progressively more and more of the buildings in the complex were repurposed. (Gjelsness, 1942.)
 
 It was not until 1940, at which point the university’s medical facilities had all moved to the new hospital, that the South Department Hospital was renamed North Hall and repurposed as the offices of the University Extension Service and the Naval Reserve Officers' Training Corps. Later in the decade, the R.O.T.C programs of the Army and Air Force also moved into North Hall.
 
-{% include figure.html class="img-center" width="40%" src="/images/north-hall1940.jpg" caption="North Hall in about 1940" %}
+{% include figure.html class="img-center" width="100%" src="/images/north-hall1940.jpg" caption="North Hall in about 1940" %}
 
 In 1969, North Hall fell victim to the 1960’s campus bombings. Shortly after 11pm on Sunday, June 1st, 1969, a large bomb detonated under a car parked outside North Hall. Local Police and an FBI Bomb Squad responded, arriving on the scene promptly and immediately recognizing the similarities between this bombing and those that had occurred on the University of Michigan campus the previous fall.
 
