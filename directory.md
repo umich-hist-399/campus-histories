@@ -34,7 +34,7 @@ date: 2017-03-14
 - [Michigan Stadium](essays/michigan-stadium)
 - [The William L. Clements Library](blurbs/clements-library)
 - [North Hall and the Homeopathic Hospital](essays/north-hall)
-- [Steam Heating Plants](blurbs/steam-heating-plants)
+- [Steam Heating Plants](blurbs/steam-heating-plant)
 
 ## Spaces
 - [Animal House](blurbs/animal-house)
