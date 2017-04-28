@@ -7,7 +7,8 @@ date: 2017
 
 ## Connecting Michigan People Across the Nation
 
-{% include figure.html class="img-left" width="100%" caption="1909 Michigan Dinner at Waterman Gymnasium" src="/images/michigan-dinner.jpg" %}
+{% include figure.html class="img-center" width="100%" caption="1909 Michigan Dinner at the Waterman Gymnasium."
+src="/images/michigan-dinner.jpg" %}
 
 - Over 1,100 men attended the first official Michigan Dinner that was held on November 11, 1904. It "afforded to the University Body its first opportunity of expressing itself unitedly and understandingly in favor of a plan which presented itself to all as Michigan's greatest need." (Bates 1905, 2).
 
@@ -19,7 +20,7 @@ date: 2017
 
 - As the years went on, the event seemed to be dwindling in popularity, because it was often held in cities far away from campus. This made it hard for current students and faculty to attend the dinner. Only 300 people attended the 1930 dinner in Boston ("Alumni to Gather for Celebration" 1930).
 
-- Like many other traditions, Michigan Dinners ceased during [World War II](https://umich-hist-399.github.io/campus-histories/essays/world-war-two) and were never reinstated, but they went out with a bang (Williams 1995).
+- Like many other traditions, Michigan Dinners ceased during World War II and were never reinstated, but they went out with a bang (Williams 1995).
 
 - The 1939 Michigan Dinner is the last recorded. It was held to honor President Ruthven’s 10th year as head of the University. With over 3,500 people and a pageant with 1,000 members, it was the largest Michigan Dinner ever put on ("3500 Will Acclaim President Ruthven At Dinner Tonight" 1939).
 
@@ -29,9 +30,9 @@ date: 2017
 
 ## Sources
 
-- “3500 Will Acclaim President Ruthven at Dinner Tonight.” _Michigan Daily Digital Archives_, October 27, 1939.
+- "3500 Will Acclaim President Ruthven at Dinner Tonight." _Michigan Daily Digital Archives_, October 27, 1939.
 
-- “Alumni to Gather for Celebration.” _Michigan Daily Digital Archives_, November 7, 1930.
+- "Alumni to Gather for Celebration." _Michigan Daily Digital Archives_, November 7, 1930.
 
 - Bates, Henry Moore. _The Plan and Purpose of the Michigan Union_. Ann Arbor: The Richmond & Backus co., 1905.
 
