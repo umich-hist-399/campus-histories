@@ -16,6 +16,7 @@ date: 2017-03-14
 - Dorms and Boarding Houses
 - [WWII and campus planning](essays/world-war-two)
 - International Students and Diversity
+- [1960s Campus Bombings](summaries/campus-bombings)
 
 ## Buildings
 - [Law Quad](essays/law-quad)
@@ -31,6 +32,9 @@ date: 2017-03-14
 - [University Hall](essays/university-hall)
 - [Rackham School of Graduate Studies](blurbs/rackham-school)
 - [Michigan Stadium](essays/michigan-stadium)
+- [The William L. Clements Library](blurbs/clements-library)
+- [North Hall and the Homeopathic Hospital](essays/north-hall)
+- [Steam Heating Plants](blurbs/steam-heating-plant)
 
 ## Spaces
 - [Animal House](blurbs/animal-house)
