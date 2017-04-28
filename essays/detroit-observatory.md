@@ -22,5 +22,3 @@ In 1868, an addition was added to the west side of the Detroit Observatory. The 
 Between 1908 and 1909, an addition was added to the east side of the Detroit Observatory. This addition was referred to as the principal building and housed a large reflector telescope, offices, classrooms, a darkroom, a laboratory, and a shop.
 
 When the Physics and Astronomy building on East University was completed in 1963, the astronomy department moved out of the Detroit Observatory, leaving it vacant, and in 1976 the principal building was demolished.
-
-The Detroit Observatory remained vacant until
