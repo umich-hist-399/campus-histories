@@ -22,3 +22,17 @@ In 1868, an addition was added to the west side of the Detroit Observatory. The 
 Between 1908 and 1909, an addition was added to the east side of the Detroit Observatory. This addition was referred to as the principal building and housed a large reflector telescope, offices, classrooms, a darkroom, a laboratory, and a shop.
 
 When the Physics and Astronomy building on East University was completed in 1963, the astronomy department moved out of the Detroit Observatory, leaving it vacant, and in 1976 the principal building was demolished.
+
+## Sources
+
+-Abrahams, Peter. “Henry Fitz, American Telescope Maker.” Journal of the Antique Telescope Society 6, no. Summer 1994. Accessed March 15, 2017. http://www.europa.com/~telscope/fitz.txt.
+
+-Mortenson, Myron. “Chronological Development of the University of Michigan Campus, Ann Arbor, Michigan.” Mort’s Labor of Love. [Ann Arbor, Mich.: The Dept., 1971. http://hdl.handle.net/2027/.
+
+-Snyder, Dave. “The History of the Detroit Observatory.” Reflections of the University Lowbrow Astronomers, December 1997. https://www.umich.edu/~lowbrows/reflections/.
+
+-University of Michigan. “College Notes.” The Michigan Technic, 1931. https//catalog.hathitrust.org/Record/000052394.
+
+-Whitesell, Patricia S. A Creation of His Own: Tappan’s Detroit Observatory. Michigan Historical Collections, Bentley Historical Library, the University of Michigan, 1998.
+
+-“Detroit Observatory: Nineteenth-Century Training Ground for Astronomers.” Journal of Astronomical History and Heritage 6, no. 2 (December 2003): 69–106.
