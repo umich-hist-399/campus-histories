@@ -1,6 +1,6 @@
 ---
 layout: single-col
-title: Steam Heating Plan
+title: Steam Heating Plant
 date: 2017-4-10
 ---
 
