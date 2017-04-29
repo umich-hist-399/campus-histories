@@ -9,9 +9,11 @@ title="The Michigan Union: The Overlooked Journey from Club to Clubhouse"
 image="images/outside-union.jpg"
 text="It may be one of the most recognizable buildings on campus, but the Michigan Union had a rocky start." %}
 
+_At the turn of the century, the University of Michigan campus was abuzz with talk of developing a social space to meet with colleagues. All of the great schools were getting unions and clubhouses, and it seemed as though Michigan was falling behind. Thus, In 1903, the Michigan Union club was formed and members set their minds on building a clubhouse (Bates 1905, 1).
+
 ## Humble Beginnings
 
-In 1903, the University of Michigan campus was abuzz with talk of developing a social space for "Michigan Men Everywhere" and the Michigan Union club was formed (Bates 1905, 1). Many of the men in the club were looking to other great institutions and the success of their union clubhouses. In outlining a plan for the Michigan Union in 1905, the officers looked specifically at the Harvard Union and Dartmouth College Club for inspiration (Bates 1905; 8,14). **Thus, their vision for the Union clubhouse at Michigan was one to rival Ivy League opulence and grandeur.** This vision needed a large amount of both time and money, but the officers were anxious to establish a temporary clubhouse on campus until the grand plans could be carried out.
+While planning the Michigan Union, many of the men in the club were looking to other great institutions and the success of their union clubhouses. In outlining a plan for the Michigan Union in 1905, the officers looked specifically at the Harvard Union and Dartmouth College Club for inspiration (Bates 1905; 8,14). **Their vision for the Union clubhouse at Michigan was to rival Ivy League opulence and grandeur.** This vision needed a large amount of both time and money, but the officers were anxious to establish a temporary clubhouse on campus until the grand plans could be carried out.
 
 {% include figure.html class="img-center" width="100%" caption="The Thomas Cooley residence before renovations." src="/images/cooley-union.jpg" %}
 
@@ -60,7 +62,7 @@ They finished the list in March 1919, and made it public, with the condition tha
 
 ## A Dream Finally Realized
 
-It seems that the shaming was successful, because the Michigan Union opened its doors to members for a housewarming party on November 15, 1919 ("Hogan Welcomes Frosh to Union" 1919). At that point, all Michigan men were free to use the barbershop, restaurant, bowling alley, and many other amenities the Union had to offer. Through the years, the Union has undergone multiple renovations and repurposing to fit the needs of the day, but it has stayed true to its mission to provide a social space on campus (Rowe 2005).
+It seems that the shaming was successful, because the Michigan Union opened its doors to members for a housewarming party on November 15, 1919 ("Hogan Welcomes Frosh to Union" 1919). At that point, all Michigan men were free to use the barbershop, restaurant, bowling alley, and many other amenities the Union had to offer. Through the years, the Union has undergone multiple renovations and repurposing to fit the needs of the day, but it has stayed true to [its mission](https://umich-hist-399.github.io/campus-histories/summaries/michigan-dinners) to provide a social space on campus (Rowe 2005).
 
 {% include juxtapose.html image1="/images/union-1950.jpg" image2="/images/union-2010.jpg" %}
 
