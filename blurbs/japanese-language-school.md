@@ -1,3 +1,8 @@
+---
+layout: single-col
+title: "Japanese Language School"
+date: 2017
+---
 {% include jumbotron.html
 title="The Japanese Language School"
 image="images/diag-march.jpg"
@@ -23,3 +28,9 @@ Before WWII, language courses at the University of Michigan were offered for the
 - Williams, Brian A. _Michigan on the March: The University of Michigan in	World War II_. Bulletin / Bentley Historical Library ;no. 42 (Dec. 1995),	43 p. [Ann Arbor, Mich.]: Bentley Historical Library, University of	Michigan, 1995.
 
 - Yamagiwa, Joseph K. _The Japanese Language Programs at the University	of Michigan during World War II_. 5 v. Ann Arbor, Mich., 1946.
+
+## Images
+
+- ["Japanese Language Specialists..."](http://quod.lib.umich.edu/b/bhl/x-hs5037/hs5037)
+
+- ["The first class..."](http://quod.lib.umich.edu/b/bhl/x-bl003847/bl003847)
