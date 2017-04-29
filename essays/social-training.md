@@ -5,7 +5,7 @@ date: 2017-3-22
 ---
 
 {% include jumbotron.html
-title="The University's role in Social Training: Origins of U-sponspored dorms"
+title="The University's role in Social Training- Origins of U-sponspored dorms"
 image="images/jumbotronimageST1.jpg"
 text=" Although students began to take classes at the University's Ann Arbor campus as early as 1840, the first acknowledged University-owned student housing residence was not built until 1915. Where did students live before then?"
 %}
