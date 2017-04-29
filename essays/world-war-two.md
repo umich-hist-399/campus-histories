@@ -17,9 +17,9 @@ Before WWII, in the United States, Japanese was not a widely taught language. By
 
 {% include figure.html class="img-center" width="100%" caption="Japanese Language Specialists in class at University of Michigan. Image courtesy of Bentley Historical Library. " src="/images/soldies-class.jpg" %}
 
-Soldiers needed to learn the language as soon as possible, so that they could fill the many roles their new skill was needed for. To accommodate for this lack of time, courses were structured so that students could become proficient enough in as little as a year (Yamagiwa 1946, 181). To promote the language, these accelerated courses were offered to civilian students as well.
+Soldiers needed to learn the language as soon as possible, so that they could fill the many roles their new skill was needed for. It was not uncommon for the officers that taught the course to have to leave for the war front in the middle of the semester ("Special Instructors to Leave for Japan" 1946). To accommodate for this lack of time, courses were structured so that students could become proficient enough in as little as a year (Yamagiwa 1946, 181). To promote the language, these accelerated courses were offered to civilian students as well.
 
-Before WWII, language courses at the University of Michigan were offered for the standard 3 credits. With the onset of the Japanese Language School, accelerated courses were offered for 4 to 8 credits (Yamagiwa 1946, 2). This was a popular option during the war, because it allowed students to complete credits faster. Thus, this structure was kept after the war was over and applied to other languages. This is the first example of the accelerated course options that exist today being offered at the University.
+Before WWII, language courses at the University of Michigan were offered for the standard 3 credits. With the onset of the Japanese Language School, accelerated courses were offered for 4 to 8 credits (Yamagiwa 1946, 2). This was a popular option during the war, because it allowed students to complete credits faster. Thus, this structure was kept after the war was over and applied to other languages. This is on of the first example of the accelerated course options that exist today being offered at the University.
 
 **This accelerated structure gave birth to the credit system for languages that is still in use at Michigan.** Today, language classes are offered for a standard 4 credits a semester, and an accelerated 8 credits. Without the onset of WWII, students today may not have had the option to take the accelerated courses that allow them to graduate earlier. They also may not have even had the opportunity to study the Japanese language at all.
 
@@ -67,6 +67,8 @@ It is clear that many of the privileges that Michigan students and faculty enjoy
 - Chapman, Charles T., David. Owen, Larry. Towe, and University of	Michigan. Michigan on the March. Ann Arbor, Mich.: University of	Michigan, 1944.
 
 - Greenbaum, Maurice Coleman. _Maurice C. Greenbaum Papers_. Bentley Historical Museum. (1940).
+
+- "Special Instructors to Leave for Japan" _Michigan Daily Digital Archives_ , February 2, 1946.
 
 - University of Michigan. _About the University of Michigan, Its Work in Peace	and War. University of Michigan_. Official Publication,v. 46, No. 58,	Jan. 4, 1945, 32 p. [Ann Arbor, Mich.], 1945.
 
