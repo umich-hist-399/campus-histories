@@ -8,22 +8,7 @@ title="The Lasting Legacy of World War II on the University"
 image="images/diag-march.jpg"
 text="During WWII, many programs and policies arose that left a lasting legacy upon the University of Michigan." %}
 
-
 _The contributions that the University of Michigan made to the war efforts during World War Two are well known, but what is lesser known are the ways that WWII left an impact on the university itself. Due to the nature of war, soldiers and civilians did not have the luxury of time. This lead to lasting changes in the University that can still be seen today._
-
-## The Japanese Language School
-
-Before WWII, in the United States, Japanese was not a widely taught language. By 1942, this lack of people who could understand and speak Japanese became a major issue for the United States Army. To solve this problem, the University of Michigan in conjunction with the United States founded the Army Japanese Language in 1943 under the direction of Professor Joseph Yamagiwa (Williams 1995, 10). Thus, on January 5th, 1943, 150 officers arrived on campus to be the first students of the University’s Japanese Language School (Yamagiwa 1946, 9).
-
-{% include figure.html class="img-center" width="100%" caption="Japanese Language Specialists in class at University of Michigan. Image courtesy of Bentley Historical Library. " src="/images/soldies-class.jpg" %}
-
-Soldiers needed to learn the language as soon as possible, so that they could fill the many roles their new skill was needed for. It was not uncommon for the officers that taught the course to have to leave for the war front in the middle of the semester ("Special Instructors to Leave for Japan" 1946). To accommodate for this lack of time, courses were structured so that students could become proficient enough in as little as a year (Yamagiwa 1946, 181). To promote the language, these accelerated courses were offered to civilian students as well.
-
-Before WWII, language courses at the University of Michigan were offered for the standard 3 credits. With the onset of the Japanese Language School, accelerated courses were offered for 4 to 8 credits (Yamagiwa 1946, 2). This was a popular option during the war, because it allowed students to complete credits faster. Thus, this structure was kept after the war was over and applied to other languages. This is on of the first example of the accelerated course options that exist today being offered at the University.
-
-**This accelerated structure gave birth to the credit system for languages that is still in use at Michigan.** Today, language classes are offered for a standard 4 credits a semester, and an accelerated 8 credits. Without the onset of WWII, students today may not have had the option to take the accelerated courses that allow them to graduate earlier. They also may not have even had the opportunity to study the Japanese language at all.
-
-{% include figure.html class="img-center" width="100%" caption="The first class of soldiers to pass through the Japanese Language School and become Japanese Language Specialists for the Army. Image courtesy of Bentley Historical Library. " src="/images/japanese.jpg" %}
 
 ## NAME and the Navy
 
@@ -76,23 +61,15 @@ It is clear that many of the privileges that Michigan students and faculty enjoy
 
 - Williams, Brian A. _Michigan on the March: The University of Michigan in	World War II_. Bulletin / Bentley Historical Library ;no. 42 (Dec. 1995),	43 p. Ann Arbor, Mich.: Bentley Historical Library, University of	Michigan, 1995.
 
-- Yamagiwa, Joseph K. _The Japanese Language Programs at the University	of Michigan during World War II_. 5 v. Ann Arbor, Mich., 1946.
-
-## Images
-
 ## Images
 
 - ["Aviation Cadets listening..."](http://quod.lib.umich.edu/b/bhl/x-bl003720/bl003720)
 
 - ["During WWII..."](http://quod.lib.umich.edu/b/bhl/x-hs5013/hs5013)
 
-- ["Japanese Language Specialists..."](http://quod.lib.umich.edu/b/bhl/x-hs5037/hs5037)
-
 - ["Naval Units at..."](http://quod.lib.umich.edu/b/bhl/x-hs13486/hs13486)
 
 - "Pamphlet distributed...": Women's War Council booklet, 1943-1944. Bentley Historical Library, University of Michigan. p. 2.
-
-- ["The first class..."](http://quod.lib.umich.edu/b/bhl/x-bl003847/bl003847)
 
 - ["V-J Day Celebration..."](https://quod.lib.umich.edu/b/bhl/x-hs5238/HS5238?from=index;lasttype=boolean;lastview=thumbnail;med=1;resnum=1;size=20;sort=relevance;start=1;subview=detail;view=entry;rgn1=ic_all;q1=day+celebration)
 
