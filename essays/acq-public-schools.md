@@ -41,6 +41,8 @@ Before the Carnegie Library was built however, the site had much more history to
 
 As the story goes, in 1904, all of Union School was destroyed beyond repair by a fire in the middle of the night with the exception of the library’s contents, which was spared (Mason 2005, 11). Recognizing the need for a high school in the area, a new school was built—**Ann Arbor City High School**—with an attached library within. (Mason 2005, 16).
 
+{% include aside.html class="pullquote" text="
+A fire in the middle of the night in 1904 destroyed a high school located on the site of present-day North Quad." %}
 
 {% include figure.html class="img-center" width="38%" caption="A 1938 Ann Arbor Fire Inspector's Map shows City High School outlined in pink to indicate its inadequate infrastructure" src="/images/city-hs-firemap.jpg" %}
 
