@@ -41,7 +41,6 @@ It is with no surprise that as the years progressed, Newberry Hall stopped holdi
 
 Though State Street is often thought of as a male space in the early 1900s because of the proliferation of the Union, it was of great importance to the women at University of Michigan and in Ann Arbor. Now that women have the right to vote, it may seem like the distant past, but what was done on State Street was of great importance. It has been forgotten how important Newberry Hall and State Street are as a place of change for the University, but one can hope that it will be forgotten no longer.
 
-{% include figure.html class="img-center" width="100%" caption="The Ann Arbor Equal Suffrage Association participating in the Michigan Suffragists Parade. Image courtesy of Bentley Historical Library." src="/images/parade.jpg" %}
 -----
 ## Sources
 
@@ -60,3 +59,13 @@ Though State Street is often thought of as a male space in the early 1900s becau
 - “University Notes.” _Michigan Daily Digital Archives_, December 13, 1893.
 
 - University of Michigan. _For Michigan Women Everywhere_. [24] p. incl. illus., ports. Detroit, Mich.: University of Michigan Women’s League building and endowment fund, 1924.
+
+## Images
+
+- ["In 1894, Susan..."](http://quod.lib.umich.edu/b/bhl/x-bl003657/bl003657)
+
+- ["peakers would hold..."](http://quod.lib.umich.edu/b/bhl/x-hs4401/hs4401)
+
+- ["Window cards like..."](http://quod.lib.umich.edu/b/bhl/x-bl000394/bl000394)
+
+- ["Women would deliver..."](http://quod.lib.umich.edu/b/bhl/x-bl000279/bl000279)
