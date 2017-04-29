@@ -15,8 +15,9 @@ date: 2017-03-14
 - [Acquisition of Public Schools](essays/acq-public-schools)
 - Dorms and Boarding Houses
 - [WWII and campus planning](essays/world-war-two)
-- International Students and Diversity
 - [1960s Campus Bombings](summaries/campus-bombings)
+- [Michigan Dinners](blurbs/michigan-dinners)
+- [Vietnam War](blurbs/draft)
 
 ## Buildings
 - [Law Quad](essays/law-quad)
@@ -28,13 +29,15 @@ date: 2017-03-14
 - [Waterman Gymnasium](summaries/watermangymnasium)
 - [Winchell House](summaries/winchell-house)
 - [The Detroit Observatory](essays/detroit-observatory)
-- [The Michigan Union](blurbs/union)
+- [The Michigan Union](essays/union)
 - [University Hall](essays/university-hall)
 - [Rackham School of Graduate Studies](blurbs/rackham-school)
 - [Michigan Stadium](essays/michigan-stadium)
 - [The William L. Clements Library](blurbs/clements-library)
 - [North Hall and the Homeopathic Hospital](essays/north-hall)
 - [Steam Heating Plants](blurbs/steam-heating-plant)
+- [Nickels Arcade](summaries/nickels-arcade)
+- [Newberry Hall](summaries/newberry-hall)
 
 ## Spaces
 - [Animal House](blurbs/animal-house)
