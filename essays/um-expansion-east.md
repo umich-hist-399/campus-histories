@@ -75,8 +75,6 @@ Another significant addition was the ‘New Engineering Building’ (1903), rena
 
 The Arch was and still is a campus landmark, [with growing lore](https://umich-hist-399.github.io/campus-histories/blurbs/arch) attached to it and activities that occur near it.
 
-The University's expansion to the east offers a case study in the growing pains and benefits of time. By analyzing the University's trajectory via urban planning, we can see how needs of individuals are reflected in the architecture and vice versa.
-
 <div class="carousel">
   <div>
     <img src="../images/arch-1.jpg">
@@ -99,7 +97,7 @@ The University's expansion to the east offers a case study in the growing pains 
   </div>
 </div>
 
-
+The University's expansion to the east offers a case study in the growing pains and benefits of time. By analyzing the University's trajectory via urban planning, we can see how needs of individuals are reflected in the architecture and vice versa.
 
 ## Sources
 
