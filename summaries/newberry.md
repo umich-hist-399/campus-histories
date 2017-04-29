@@ -16,7 +16,7 @@ Prior to 1890, the lot that Kelsey Museum now sits on was vacant (Stoner, Beck, 
 
 That little lot between the First Ward School and the Congregational Church sat vacant for five more years, as the Students’ Christian Association raised funds to construct a permanent building. Finally, in 1888, the Students’ Christian Association had raised enough funds to start building due to the generosity of a donation by Mrs. Helen H. Newberry in honor of her late husband John H. Newberry ("Order of services at dedication of Newberry Hall" 1890, 3). By 1991, the building had been completed, and students could enjoy their new meeting place ("A Description of the New Headquarters of the S.C.A" 1891).
 
-{% include figure.html class="img-center" width="100%" caption="The Young Women's Christian Association, a part of the S.A.C., meeting at Newberry Hall" src="/images/newberry-interior.jpg" %}
+{% include figure.html class="img-center" width="75%" caption="The Young Women's Christian Association, a part of the S.A.C., meeting at Newberry Hall" src="/images/newberry-interior.jpg" %}
 
 ## Controversial Compensation
 
