@@ -1,9 +1,14 @@
 ---
+layout: single-col
+title: "Animal House"
+date: 2017
 ---
+{% include jumbotron.html
+title="The Michigan 'Animal House'"
+image="images/animal-house.jpg"
+text="Bears and Wolverines on the way to class?" %}
 
-# The Michigan "Animal House"
-
-_From 1929 until 1962, students could visit the "Animal House" on the way to class._
+## From 1929 until 1962, students could visit the "Animal House" on the way to class.
 
 - In the 1800's, before plans for the Animal House existed, the Fletcher Farm occupied the space it would inhabit (Pettibone; 1854). After which, Dr. Ransom Smith acquired the property and built a house upon it.
 - After his death, Ransom's family donated the property to the University of Michigan. The Homeopathic Medical School first made the house into the Nurse's Home, where nurses would live while working and studying at the hospital (McRae; 1901).
@@ -13,7 +18,7 @@ _From 1929 until 1962, students could visit the "Animal House" on the way to cla
 - When placed in a cage before the game, Biff snapped a bar in half with his teeth and Yost soon realized that his plans to walk Biff around the stadium with a leash may be slightly problematic ("Welcome to the Jungle: The Real Animal House; 2007).
 - The museum was widely popular amongst students, but it was controversial due to the small cages it held large animals in. In 1962, it had to be demolished to make space for the East wing expansion of the Alexander G. Ruthven Museums Building (Wason; 2014).
 
-{% include figure.html class="img-center" width="100%" src="/images/zoo.jpg" %}
+{% include figure.html class="img-center" width="100%" caption="A very cold looking animal house" src="/images/zoo.jpg" %}
 -----
 ## Sources
 
@@ -31,4 +36,6 @@ _From 1929 until 1962, students could visit the "Animal House" on the way to cla
 
 ## Images
 
-- ["Animal House (Campus Zoo) and Enclosure Covered in Snow (Women’s Athletic Building Visible in Left Background)."](http://quod.lib.umich.edu/b/bhl/x-hs12966/hs12966) Bentley Image Bank, Bentley Historical Library. Accessed March 20, 2017.
+- ["A very cold..."](http://quod.lib.umich.edu/b/bhl/x-hs12966/hs12966)
+
+- ["Bears and wolverines..."](https://quod.lib.umich.edu/b/bhl/x-hs12967/HS12967?from=index;lasttype=boolean;lastview=thumbnail;med=1;resnum=2;size=20;sort=relevance;start=1;subview=detail;view=entry;rgn1=ic_all;q1=animal+house)
