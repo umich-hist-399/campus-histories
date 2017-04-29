@@ -6,7 +6,7 @@ date: 2017
 {% include jumbotron.html
 title="The Michigan 'Animal House'"
 image="images/animal-house.jpg"
-text="Bears and Wolverines on the way to class?" %}
+text="Bears and Wolverines on campus?" %}
 
 ## From 1929 until 1962, students could visit the "Animal House" on the way to class.
 
