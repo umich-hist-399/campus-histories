@@ -31,7 +31,7 @@ Students and faculty, both former and present at the time, were among the member
 
 With a new place to meet, the Young Women's Christian Association began to host a multitude of speakers and events that aligned with their interests. At the time, temperance was a hot ticket issue for Christians, and many supporters spoke to the young women at Newberry Hall (Behnke 1910-1913, F13). Whereas all of the members of the Young Women's Christian Association could agree on the issue of temperance, they were split on the issue of women’s suffrage. The Ann Arbor Equal Suffrage Association was in fact formed at Newberry hall, but it is evident that not all of the women in the Young Women's Christian Association agreed with the idea of women being allowed to vote (“Students Christian Association Bulletin” 1880-1884, 12).
 
-{% include figure.html class="img-center" width="100%" caption="Speakers would hold assemblies in this lecture room of Newberry Hall" src="/images/newberryhall.jpg" caption="One of the classrooms in Newberry Hall where Suffragists would hold meetings and other events. Image courtesy of Bentley Historical Library." %}
+{% include figure.html class="img-center" width="100%" caption="One of the classrooms in Newberry Hall where Suffragists would hold meetings and other events." src="/images/newberryhall.jpg" %}
 
 ## The Anti-Suffragist’s Space
 
