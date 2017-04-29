@@ -77,3 +77,23 @@ It is clear that many of the privileges that Michigan students and faculty enjoy
 - Williams, Brian A. _Michigan on the March: The University of Michigan in	World War II_. Bulletin / Bentley Historical Library ;no. 42 (Dec. 1995),	43 p. Ann Arbor, Mich.: Bentley Historical Library, University of	Michigan, 1995.
 
 - Yamagiwa, Joseph K. _The Japanese Language Programs at the University	of Michigan during World War II_. 5 v. Ann Arbor, Mich., 1946.
+
+## Images
+
+## Images
+
+- ["Aviation Cadets listening..."](http://quod.lib.umich.edu/b/bhl/x-bl003720/bl003720)
+
+- ["During WWII..."](http://quod.lib.umich.edu/b/bhl/x-hs5013/hs5013)
+
+- ["Japanese Language Specialists..."](http://quod.lib.umich.edu/b/bhl/x-hs5037/hs5037)
+
+- ["Naval Units at..."](http://quod.lib.umich.edu/b/bhl/x-hs13486/hs13486)
+
+- "Pamphlet distributed...": Women's War Council booklet, 1943-1944. Bentley Historical Library, University of Michigan. p. 2.
+
+- ["The first class..."](http://quod.lib.umich.edu/b/bhl/x-bl003847/bl003847)
+
+- ["V-J Day Celebration..."](https://quod.lib.umich.edu/b/bhl/x-hs5238/HS5238?from=index;lasttype=boolean;lastview=thumbnail;med=1;resnum=1;size=20;sort=relevance;start=1;subview=detail;view=entry;rgn1=ic_all;q1=day+celebration)
+
+- ["Women selling war..."](http://quod.lib.umich.edu/b/bhl/x-bl005309/bl005309)
