@@ -1,6 +1,6 @@
 ---
 layout: single-col
-title: Michigan Dinners
+title: "Michigan Dinners"
 date: 2017
 ---
 # Michigan Dinners
