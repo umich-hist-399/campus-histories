@@ -1,6 +1,6 @@
 ---
 layout: single-col
-title: Nickels Arcade
+title: "Nickels Arcade"
 date: 2017
 ---
 {% include jumbotron.html
